@@ -15,6 +15,10 @@ A relational database project tracking prescriptions for study drugs (e.g. Adder
   * [`sql/03_basic_operations.sql`](sql/03_basic_operations.sql) – basic queries (INSERT, UPDATE, DELETE)
   * [`sql/04_advanced_queries.sql`](sql/04_advanced_queries.sql) – advanced queries (JOINs, aggregations, window functions)
 * **Week 4:** Stakeholder video presentation
+
+https://github.com/user-attachments/assets/6ab59ed9-3a44-402c-9038-be4cdf5bed6b
+
+
 * **Week 5:** Real-world data integration & testing
   * [`sql/05_real_world_data.sql`](sql/05_real_world_data.sql) – real datasets (>50 rows per dataset)
 
