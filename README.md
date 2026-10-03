@@ -13,8 +13,6 @@ Prescription stimulants such as Adderall, Ritalin or Medikinet are intended to t
 
 As students ourselves, we experience the pressure to perform at the highest level almost every day. It is not uncommon to hear that someone we know has tried these substances to study longer or concentrate better.
 
-> *[Optional: add the article or study that inspired the project here, with title, source and date.]*
-
 ---
 
 ## Why It Matters
@@ -22,7 +20,7 @@ As students ourselves, we experience the pressure to perform at the highest leve
 This issue worries us in two ways:
 
 - **Health risks:** we are concerned about friends and peers experimenting with substances that can have serious side effects when used without medical supervision.
-- **Academic pressure:** students who do not use these drugs may fear falling behind academically. This creates a *snowball effect* in which more and more students feel pushed to use them.
+- **Academic pressure:** students who do not use these drugs may fear falling behind academically. This creates a snowball effect in which more and more students feel pushed to use them.
 
 Because these drugs are legally prescribed, it is important to understand **how prescriptions are distributed**: which students receive them, which doctors prescribe them, and how often.
 
@@ -43,7 +41,7 @@ The database should be able to answer questions such as:
 - Which drugs are prescribed most frequently?
 - Do prescription patterns differ between study programs or study years?
 
-The main goal is to **connect information about students, doctors and drugs**, so that the use of study drugs can be examined in relation to academic pressure.
+The main goal is to connect information about students, doctors and drugs, so that the use of study drugs can be examined in relation to academic pressure.
 
 ---
 
@@ -56,7 +54,6 @@ The problem affects several groups:
 - **Parents and families**, who worry about the health and choices of their children.
 - **Doctors and healthcare providers**, who decide when these drugs are prescribed.
 - **Employers**, since a culture of performance enhancement may carry over into the workplace.
-- **Society as a whole**, because the issue is connected to public health, fairness in education and mental wellbeing.
 
 ---
 
