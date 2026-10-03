@@ -77,7 +77,7 @@ The main relationships are that **students receive prescriptions**, **doctors is
 * **Week 1:** Problem definition
 
 * **Week 2:** ERD and normalization
-  For the full ERD see ['ERD_and_Normalization.pdf'].
+  For the full ERD see ['ERD_and_Normalization.pdf'](ERD_and_Normalization.pdf).
 
 * **Week 3:** Relational schema and test queries
   * [`SCHEMA.md`](SCHEMA.md) – relational schema and constraints
