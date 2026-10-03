@@ -70,8 +70,6 @@ The main relationships are that **students receive prescriptions**, **doctors is
 
 ---
 
-## Weekly Deliverables
-
 ## Project Overview
 
 * **Week 1:** Problem definition
