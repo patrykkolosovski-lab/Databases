@@ -7,7 +7,9 @@ A relational database project tracking prescriptions for study drugs (e.g. Adder
 ## Project Overview
 
 * **Week 1:** Problem definition
-* **Week 2:** ERD and normalization
+The abuse of prescription “performance” drugs like Adderall or Medikinet by students on many levels has become a widespread phenomenon in many western countries. As students we encounter pressure to perform on the highest level almost every day. It is not uncommon to hear that someone that you know has tried these types of solutions. This is worrying in two ways: on one hand we worry about close ones dabbling in substances, on the other we fear that we will be left behind academically, creating a kind of snowball effect. This challenge is relevant to a wide range of people, such as: students, professors and university staff, parents and employers.
+* **Week 2:** ERD and normalization 
+[ERD_and_Normalization.pdf](https://github.com/user-attachments/files/33010319/ERD_and_Normalization.pdf)
 * **Week 3:** Relational schema and test queries
   * [`SCHEMA.md`](SCHEMA.md) – relational schema and constraints
   * [`sql/01_schema.sql`](sql/01_schema.sql) – table creation and constraints
