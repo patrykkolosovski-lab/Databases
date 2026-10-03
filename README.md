@@ -22,7 +22,7 @@ This issue worries us in two ways:
 - **Health risks:** we are concerned about friends and peers experimenting with substances that can have serious side effects when used without medical supervision.
 - **Academic pressure:** students who do not use these drugs may fear falling behind academically. This creates a snowball effect in which more and more students feel pushed to use them.
 
-Because these drugs are legally prescribed, it is important to understand **how prescriptions are distributed**: which students receive them, which doctors prescribe them, and how often.
+Because these drugs are legally prescribed, it is important to understand how prescriptions are distributed: which students receive them, which doctors prescribe them, and how often.
 
 ---
 
@@ -79,13 +79,13 @@ The main relationships are that **students receive prescriptions**, **doctors is
 * **Week 2:** ERD and normalization
   For the full ERD see ['ERD_and_Normalization.pdf'].
 
-
 * **Week 3:** Relational schema and test queries
   * [`SCHEMA.md`](SCHEMA.md) – relational schema and constraints
   * [`sql/01_schema.sql`](sql/01_schema.sql) – table creation and constraints
   * [`sql/02_mock_data.sql`](sql/02_mock_data.sql) – initial small test data
   * [`sql/03_basic_operations.sql`](sql/03_basic_operations.sql) – basic queries (INSERT, UPDATE, DELETE)
   * [`sql/04_advanced_queries.sql`](sql/04_advanced_queries.sql) – advanced queries (JOINs, aggregations, window functions)
+    
 * **Week 4:** Stakeholder video presentation
 
 https://github.com/user-attachments/assets/6ab59ed9-3a44-402c-9038-be4cdf5bed6b
