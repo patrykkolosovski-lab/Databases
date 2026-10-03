@@ -7,7 +7,7 @@ A relational database project tracking prescriptions for study drugs (e.g. Adder
 
 ## The Issue We Address
 
-The societal problem we are investigating is **the misuse of prescription "performance" drugs among university students**.
+The societal problem we are investigating is the misuse of prescription "performance" drugs among university students.
 
 Prescription stimulants such as Adderall, Ritalin or Medikinet are intended to treat conditions like ADHD. However, their use as so-called "study drugs" has become a widespread phenomenon among students in many Western countries.
 
@@ -28,7 +28,7 @@ Because these drugs are legally prescribed, it is important to understand **how 
 
 ## What Our Database Does
 
-Our database is designed to **track prescriptions of study drugs issued to university students**. It helps identify prescription patterns that may point to overuse.
+Our database is designed to track prescriptions of study drugs issued to university students. It helps identify prescription patterns that may point to overuse.
 
 The database should be able to answer questions such as:
 
@@ -76,7 +76,8 @@ The main relationships are that **students receive prescriptions**, **doctors is
 
 * **Week 1:** Problem definition
 
-* **Week 2:** ERD and normalization 
+* **Week 2:** ERD and normalization
+  For the full ERD see ['ERD_and_Normalization.pdf'].
 
 
 * **Week 3:** Relational schema and test queries
