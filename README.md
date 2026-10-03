@@ -5,15 +5,82 @@ A relational database project tracking prescriptions for study drugs (e.g. Adder
 
 ---
 
+## The Issue We Address
+
+The societal problem we are investigating is **the misuse of prescription "performance" drugs among university students**.
+
+Prescription stimulants such as Adderall, Ritalin or Medikinet are intended to treat conditions like ADHD. However, their use as so-called "study drugs" has become a widespread phenomenon among students in many Western countries.
+
+As students ourselves, we experience the pressure to perform at the highest level almost every day. It is not uncommon to hear that someone we know has tried these substances to study longer or concentrate better.
+
+> *[Optional: add the article or study that inspired the project here, with title, source and date.]*
+
+---
+
+## Why It Matters
+
+This issue worries us in two ways:
+
+- **Health risks:** we are concerned about friends and peers experimenting with substances that can have serious side effects when used without medical supervision.
+- **Academic pressure:** students who do not use these drugs may fear falling behind academically. This creates a *snowball effect* in which more and more students feel pushed to use them.
+
+Because these drugs are legally prescribed, it is important to understand **how prescriptions are distributed**: which students receive them, which doctors prescribe them, and how often.
+
+---
+
+## What Our Database Does
+
+Our database is designed to **track prescriptions of study drugs issued to university students**. It helps identify prescription patterns that may point to overuse.
+
+The database should be able to answer questions such as:
+
+- Which study drugs are prescribed to students?
+- Which producer manufactures each drug?
+- Which students have received a prescription, and which have not?
+- Which doctor issued a particular prescription?
+- What dose and quantity of tablets was prescribed?
+- What is the most recent prescription of each student?
+- Which drugs are prescribed most frequently?
+- Do prescription patterns differ between study programs or study years?
+
+The main goal is to **connect information about students, doctors and drugs**, so that the use of study drugs can be examined in relation to academic pressure.
+
+---
+
+## Who Is Affected
+
+The problem affects several groups:
+
+- **Students**, who face academic pressure and potential health risks.
+- **Professors and university staff**, who are responsible for fair assessment and student wellbeing.
+- **Parents and families**, who worry about the health and choices of their children.
+- **Doctors and healthcare providers**, who decide when these drugs are prescribed.
+- **Employers**, since a culture of performance enhancement may carry over into the workplace.
+- **Society as a whole**, because the issue is connected to public health, fairness in education and mental wellbeing.
+
+---
+
+## Data Model Overview
+
+The database consists of the following main entities:
+
+- **Student**: information about students, including study program, study year, name and age.
+- **Doctor**: information about the doctors issuing prescriptions, including role and department.
+- **StudyDrug**: information about prescription drugs and their producers.
+- **Prescription**: records which doctor prescribed which drug to which student, including date, dose and number of tablets.
+
+The main relationships are that **students receive prescriptions**, **doctors issue prescriptions**, and **each prescription refers to exactly one study drug**.
+
+---
+
+## Weekly Deliverables
+
 ## Project Overview
 
 * **Week 1:** Problem definition
-The abuse of prescription “performance” drugs like Adderall or Medikinet by students on many levels has become a widespread phenomenon in many western countries. As students we encounter pressure to perform on the highest level almost every day. It is not uncommon to hear that someone that you know has tried these types of solutions. This is worrying in two ways: on one hand we worry about close ones dabbling in substances, on the other we fear that we will be left behind academically, creating a kind of snowball effect. This challenge is relevant to a wide range of people, such as: students, professors and university staff, parents and employers.
-* **Week 2:** ERD and normalization 
-<img width="579" height="448" alt="Screenshot 2026-10-03 at 21 01 04" src="https://github.com/user-attachments/assets/1484578b-b3bc-4e4d-ae89-a76f3fddc7c1" />
 
-[ERD_and_Normalization.pdf]
-(https://github.com/user-attachments/files/33010319/ERD_and_Normalization.pdf)
+* **Week 2:** ERD and normalization 
+
 
 * **Week 3:** Relational schema and test queries
   * [`SCHEMA.md`](SCHEMA.md) – relational schema and constraints
