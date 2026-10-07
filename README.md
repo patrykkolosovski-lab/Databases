@@ -1,109 +1,77 @@
-
 # Student Prescription Database
 
-A relational database project tracking prescriptions for study drugs (e.g. Adderall, Ritalin) among university students.
+A university database project exploring prescription patterns in the context of non-medical study-drug use among students. The project combines a normalized prescription model, fictional teaching records, and real FDA product and recall data.
 
----
+## Purpose and scope
 
-## The Issue We Address
+Our societal topic is study-drug use and academic pressure. We are interested in how a database can organize relevant information and answer clear questions for students, university support staff and healthcare providers. The [Week 1 report](docs/week1/Week1.pdf) explains the challenge and supporting literature.
 
-The societal problem we are investigating is the misuse of prescription "performance" drugs among university students.
+The prescription model can answer:
 
-Prescription stimulants such as Adderall, Ritalin or Medikinet are intended to treat conditions like ADHD. Their non-medical use as so-called "study drugs" raises concerns about student wellbeing and academic pressure, although prevalence estimates depend on the population and sampling method.
+- Which drugs has a student received, and which doctor prescribed them?
+- What dates, doses and tablet quantities are recorded?
+- Which drugs appear most often in the sample?
+- Which students have no prescription recorded?
+- What is each student's latest prescription?
 
-Our [Week 1 report](docs/week1/Week1.pdf) contains the societal problem definition and supporting literature.
+**A prescription does not prove misuse.** The database does not establish medical appropriateness, actual consumption, motivation, or effects on wellbeing and grades. Student prescription results are based entirely on fictional data.
 
-As students ourselves, we experience the pressure to perform at the highest level almost every day. It is not uncommon to hear that someone we know has tried these substances to study longer or concentrate better.
+## Project deliverables
 
----
+| Week | Deliverable |
+| --- | --- |
+| 1 | [Societal problem and scientific literature](docs/week1/Week1.pdf) |
+| 2 | [Crow's foot ERD and normalization report](docs/week2/Week2.pdf), including before-and-after examples for 1NF, 2NF and 3NF |
+| 3 | [Relational schema](docs/week3/SCHEMA.md), constraints, mock data, basic operations and four advanced queries in [SQL files 01–04](sql/) |
+| 4 | [Stakeholder video](docs/week4/Week4.mp4), explaining questions, limitations and future work in plain language |
+| 5 | [Report in LaTeX](docs/week5/Week5.tex), [original data snapshots](data/week5/), [real-data import](sql/05_real_world_data.sql) and [four adapted queries](sql/06_real_world_queries.sql) |
 
-## Why It Matters
+## Stakeholder video
 
-This issue worries us in two ways:
-
-- **Health risks:** we are concerned about friends and peers experimenting with substances that can have serious side effects when used without medical supervision.
-- **Academic pressure:** students who do not use these drugs may fear falling behind academically. This creates a snowball effect in which more and more students feel pushed to use them.
-
-Because these drugs are legally prescribed, it is important to understand how prescriptions are distributed: which students receive them, which doctors prescribe them, and how often.
-
----
-
-## What Our Database Does
-
-Our database is designed to track prescriptions of study drugs issued to university students. It describes prescription patterns; these records alone cannot establish misuse or whether treatment is clinically appropriate.
-
-The database should be able to answer questions such as:
-
-- Which study drugs are prescribed to students?
-- Which producer manufactures each drug?
-- Which students have received a prescription, and which have not?
-- Which doctor issued a particular prescription?
-- What dose and quantity of tablets was prescribed?
-- What is the most recent prescription of each student?
-- Which drugs are prescribed most frequently?
-- Do prescription patterns differ between study programs or study years?
-
-The main goal is to connect information about students, doctors and drugs, so that the use of study drugs can be examined in relation to academic pressure.
-
----
-
-## Who Is Affected
-
-The problem affects several groups:
-
-- **Students**, who face academic pressure and potential health risks.
-- **Professors and university staff**, who are responsible for fair assessment and student wellbeing.
-- **Parents and families**, who worry about the health and choices of their children.
-- **Doctors and healthcare providers**, who decide when these drugs are prescribed.
-- **Employers**, since a culture of performance enhancement may carry over into the workplace.
-
----
-
-## Data Model Overview
-
-The database consists of the following main entities:
-
-- **Student**: information about students, including study program, study year, name and age.
-- **Doctor**: information about the doctors issuing prescriptions, including role and department.
-- **StudyDrug**: information about prescription drugs and their producers.
-- **Prescription**: records which doctor prescribed which drug to which student, including date, dose and number of tablets.
-
-The main relationships are that **students receive prescriptions**, **doctors issue prescriptions**, and **each prescription refers to exactly one study drug**.
-
----
-
-## Project Overview
-
-* **Week 1:** [Societal problem and scientific literature report](docs/week1/Week1.pdf)
-
-* **Week 2:** [ERD and normalization report](docs/week2/Week2.pdf)
-  Includes the final Crow's foot ERD, scope and assumptions, and before-and-after examples for 1NF, 2NF and 3NF.
-
-* **Week 3:** Relational schema and test queries
-  * [Schema](docs/week3/SCHEMA.md) – relational schema and constraints
-  * [`sql/01_schema.sql`](sql/01_schema.sql) – table creation and constraints
-  * [`sql/02_mock_data.sql`](sql/02_mock_data.sql) – initial small test data
-  * [`sql/03_basic_operations.sql`](sql/03_basic_operations.sql) – basic queries (INSERT, UPDATE, DELETE)
-  * [`sql/04_advanced_queries.sql`](sql/04_advanced_queries.sql) – advanced queries (JOINs, aggregations, window functions)
-    
-* **Week 4:** [Stakeholder video presentation](docs/week4/Week4.mp4)
+The presentation introduces the challenge, demonstrates results from the mock database, and explains the next steps.
 
 https://github.com/user-attachments/assets/6ab59ed9-3a44-402c-9038-be4cdf5bed6b
 
-* **Week 5:** Real-world data integration & testing
-  * [Report](docs/week5/Week5.tex), [source data](data/week5), [import](sql/05_real_world_data.sql) and [adapted queries](sql/06_real_world_queries.sql)
+[Download the video](docs/week4/Week4.mp4).
 
----
+## Database design
 
-## Week 5: Real-world data integration
+The four core tables are **Student**, **Doctor**, **StudyDrug** and **Prescription**. Each prescription links exactly one student, one doctor and one drug. Each of those can have zero or many prescriptions. A separate prescription ID allows repeated prescriptions for the same student and drug.
 
-Two openFDA snapshots provide **100 methylphenidate product listings** and **66 recall records**, accessed on 7 October 2026 under CC0. The catalogue snapshot was updated on 7 October 2026 and the recall snapshot on 30 September 2026. They cover product information and recall events, not student prescriptions.
+The schema uses primary and foreign keys, required fields, unique drug name–producer pairs, and checks on ages, study years, doses and quantities. Reports are calculated through queries. The [Week 2 report](docs/week2/Week2.pdf) explains the normalization choices and assumptions.
 
-- [Product source snapshot](data/week5/ndc.json) and [recall source snapshot](data/week5/recalls.json).
-- [Week 5 report](docs/week5/Week5.tex): sources, cleaning, schema changes, normalization, verified query results and limitations.
-- [Import SQL](sql/05_real_world_data.sql) and [adapted queries](sql/06_real_world_queries.sql).
-- [FDA licence](https://open.fda.gov/license/), [product documentation](https://open.fda.gov/apis/drug/ndc/) and [recall documentation](https://open.fda.gov/apis/drug/enforcement/).
+Two additional tables, **FDA_Product** and **FDA_Recall**, store real product information and recall events. They remain separate from the fictional prescription records because the sources do not provide verified links to those records.
 
-After the Week 3 files, run `05_real_world_data.sql`, rerun the Week 3 queries, then run `06_real_world_queries.sql`. Use MySQL 8.0.16 or later. The import adds two FDA tables and preserves the fictional students, doctors and prescriptions. Repeating the import refreshes only the FDA tables. Verified on MySQL 8.4.0: 100 product rows and 66 recall rows match the source snapshots, repeat counts are unchanged, and the original queries still work.
+## Real-world data
 
-The product export is a 100-record sample, not the full catalogue. Source company labels are preserved, including spelling and punctuation variants. Product listing does not establish FDA approval, and neither dataset identifies student misuse. See the report for the exact source queries and limitations.
+| Source | Saved records | Snapshot update date |
+| --- | ---: | --- |
+| [openFDA NDC Directory](https://open.fda.gov/apis/drug/ndc/) | 100 unique methylphenidate product listings | 7 October 2026 |
+| [openFDA drug enforcement records](https://open.fda.gov/apis/drug/enforcement/) | 66 unique methylphenidate recall records | 30 September 2026 |
+
+Both snapshots were accessed on 7 October 2026 and are available under [openFDA's CC0 licence](https://open.fda.gov/license/) without payment or registration. Product listings and recall events describe complementary facts; neither dataset is a subset of the other.
+
+The import converts dates to SQL dates, preserves source names and checks unique identifiers. The Week 5 report documents missing-data checks, constraints, normalization and query results. The adapted queries show product listings, counts by dosage form, recall-classification counts and the latest recall for each exact recalling-firm label.
+
+The catalogue is a 100-record sample. Listing does not establish FDA approval, and recall counts do not measure student use or general clinical risk. Company-name variants remain separate labels. These US datasets provide product context rather than evidence of student misuse.
+
+## Run the database
+
+Use **MySQL 8.0.16 or later**. Create and select an empty database, then run the files in order:
+
+| File | Purpose |
+| --- | --- |
+| [01_schema.sql](sql/01_schema.sql) | Create the four prescription tables and constraints |
+| [02_mock_data.sql](sql/02_mock_data.sql) | Add 8 students, 4 doctors, 4 drugs and 13 fictional prescriptions |
+| [03_basic_operations.sql](sql/03_basic_operations.sql) | Demonstrate adding, reading, updating and removing data; changes are rolled back |
+| [04_advanced_queries.sql](sql/04_advanced_queries.sql) | Run prescription history, frequency, absence and latest-record queries |
+| [05_real_world_data.sql](sql/05_real_world_data.sql) | Create and populate the two FDA tables from the saved snapshot projections |
+| [06_real_world_queries.sql](sql/06_real_world_queries.sql) | Run four queries on the real FDA records |
+
+After importing the FDA data, rerun files 03 and 04 to check the original operations and queries. File 01 is intended for a fresh database; repeating file 05 refreshes only the FDA tables. No live API connection or additional import program is needed.
+
+**Validation:** tested on MySQL 8.4.0. All 166 imported records matched the selected source fields, repeat imports kept the same counts, and duplicate product keys and invalid recall classifications were rejected. The original queries continued to return the expected mock results.
+
+## Progress and future work
+
+Week 5 addresses the video's plans to test more examples and check report accuracy. Comparing changes over time and collecting student and staff feedback remain next steps. Longer-term plans are voluntary surveys, information about motives and outcomes, and protected real-world student data. Personal student data would not be published in this repository.
