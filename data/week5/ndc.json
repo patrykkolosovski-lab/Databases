@@ -1,0 +1,5837 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-07",
+    "results": {
+      "skip": 0,
+      "limit": 100,
+      "total": 262
+    }
+  },
+  "results": [
+    {
+      "product_ndc": "42858-079",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Rhodes Pharmaceuticals LLC",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "40 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "42858-079-45",
+          "description": "90 CAPSULE, EXTENDED RELEASE in 1 BOTTLE (42858-079-45)",
+          "marketing_start_date": "20200401",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {},
+      "marketing_category": "NDA AUTHORIZED GENERIC",
+      "dosage_form": "CAPSULE, EXTENDED RELEASE",
+      "spl_id": "dd7e2d15-d45e-41dc-9d9a-7b68c229b601",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20200401",
+      "product_id": "42858-079_dd7e2d15-d45e-41dc-9d9a-7b68c229b601",
+      "application_number": "NDA205831",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "50458-588",
+      "generic_name": "Methylphenidate hydrochloride",
+      "labeler_name": "Janssen Pharmaceuticals, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "CONCERTA",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "27 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "50458-588-01",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE (50458-588-01)",
+          "marketing_start_date": "20000801",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Janssen Pharmaceuticals, Inc."
+        ],
+        "rxcui": [
+          "1091155",
+          "1091157",
+          "1091170",
+          "1091172",
+          "1091185",
+          "1091187",
+          "1091210",
+          "1091212"
+        ],
+        "spl_set_id": [
+          "1a88218c-5b18-4220-8f56-526de1a276cd"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0350458585018",
+          "0350458587012",
+          "0350458588019",
+          "0350458586015"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "NDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "64d7c1e1-e7ed-4d74-a44d-13b4da64af9a",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20000801",
+      "product_id": "50458-588_64d7c1e1-e7ed-4d74-a44d-13b4da64af9a",
+      "application_number": "NDA021121",
+      "brand_name_base": "CONCERTA",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "42858-076",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Rhodes Pharmaceuticals LLC",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "15 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "42858-076-45",
+          "description": "90 CAPSULE, EXTENDED RELEASE in 1 BOTTLE (42858-076-45)",
+          "marketing_start_date": "20200401",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {},
+      "marketing_category": "NDA AUTHORIZED GENERIC",
+      "dosage_form": "CAPSULE, EXTENDED RELEASE",
+      "spl_id": "dd7e2d15-d45e-41dc-9d9a-7b68c229b601",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20200401",
+      "product_id": "42858-076_dd7e2d15-d45e-41dc-9d9a-7b68c229b601",
+      "application_number": "NDA205831",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "69654-583",
+      "generic_name": "methylphenidate hydrochloride",
+      "labeler_name": "Aytu BioPharma, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "METADATE CD",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "50 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "69654-583-30",
+          "description": "30 CAPSULE, EXTENDED RELEASE in 1 BOTTLE (69654-583-30)",
+          "marketing_start_date": "20240222",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Aytu BioPharma, Inc."
+        ],
+        "rxcui": [
+          "1091139",
+          "1091163",
+          "1091178",
+          "1091193",
+          "1091204",
+          "1091220",
+          "1806181",
+          "1806187",
+          "1806189",
+          "1806191",
+          "1806193",
+          "1806197"
+        ],
+        "spl_set_id": [
+          "be59f8b4-7842-42cc-9559-bfa747f0baa5"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0369654583308",
+          "0369654579301",
+          "0369654581304",
+          "0369654584305",
+          "0369654582301",
+          "0369654580307"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "NDA",
+      "dosage_form": "CAPSULE, EXTENDED RELEASE",
+      "spl_id": "43e0b75f-01c3-28cd-e063-6394a90a74a8",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20240222",
+      "product_id": "69654-583_43e0b75f-01c3-28cd-e063-6394a90a74a8",
+      "application_number": "NDA021259",
+      "brand_name_base": "METADATE CD",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "42858-077",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Rhodes Pharmaceuticals LLC",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "20 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "42858-077-45",
+          "description": "90 CAPSULE, EXTENDED RELEASE in 1 BOTTLE (42858-077-45)",
+          "marketing_start_date": "20200401",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {},
+      "marketing_category": "NDA AUTHORIZED GENERIC",
+      "dosage_form": "CAPSULE, EXTENDED RELEASE",
+      "spl_id": "dd7e2d15-d45e-41dc-9d9a-7b68c229b601",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20200401",
+      "product_id": "42858-077_dd7e2d15-d45e-41dc-9d9a-7b68c229b601",
+      "application_number": "NDA205831",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "50458-586",
+      "generic_name": "Methylphenidate hydrochloride",
+      "labeler_name": "Janssen Pharmaceuticals, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "CONCERTA",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "36 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "50458-586-01",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE (50458-586-01)",
+          "marketing_start_date": "20000801",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Janssen Pharmaceuticals, Inc."
+        ],
+        "rxcui": [
+          "1091155",
+          "1091157",
+          "1091170",
+          "1091172",
+          "1091185",
+          "1091187",
+          "1091210",
+          "1091212"
+        ],
+        "spl_set_id": [
+          "1a88218c-5b18-4220-8f56-526de1a276cd"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0350458585018",
+          "0350458587012",
+          "0350458588019",
+          "0350458586015"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "NDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "64d7c1e1-e7ed-4d74-a44d-13b4da64af9a",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20000801",
+      "product_id": "50458-586_64d7c1e1-e7ed-4d74-a44d-13b4da64af9a",
+      "application_number": "NDA021121",
+      "brand_name_base": "CONCERTA",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "59116-7560",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Cambrex Charles City, Inc",
+      "dea_schedule": "CII",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "1 kg/kg"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "59116-7560-6",
+          "description": "60 kg in 1 DRUM (59116-7560-6)",
+          "marketing_start_date": "01-AUG-13"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT",
+      "dosage_form": "POWDER",
+      "spl_id": "402f6450-b19c-c8f3-e063-6394a90a8bcb",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20130801",
+      "product_id": "59116-7560_402f6450-b19c-c8f3-e063-6394a90a8bcb",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "42858-078",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Rhodes Pharmaceuticals LLC",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "30 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "42858-078-45",
+          "description": "90 CAPSULE, EXTENDED RELEASE in 1 BOTTLE (42858-078-45)",
+          "marketing_start_date": "20200401",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {},
+      "marketing_category": "NDA AUTHORIZED GENERIC",
+      "dosage_form": "CAPSULE, EXTENDED RELEASE",
+      "spl_id": "dd7e2d15-d45e-41dc-9d9a-7b68c229b601",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20200401",
+      "product_id": "42858-078_dd7e2d15-d45e-41dc-9d9a-7b68c229b601",
+      "application_number": "NDA205831",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "50458-587",
+      "generic_name": "Methylphenidate hydrochloride",
+      "labeler_name": "Janssen Pharmaceuticals, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "CONCERTA",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "54 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "50458-587-01",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE (50458-587-01)",
+          "marketing_start_date": "20000801",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Janssen Pharmaceuticals, Inc."
+        ],
+        "rxcui": [
+          "1091155",
+          "1091157",
+          "1091170",
+          "1091172",
+          "1091185",
+          "1091187",
+          "1091210",
+          "1091212"
+        ],
+        "spl_set_id": [
+          "1a88218c-5b18-4220-8f56-526de1a276cd"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0350458585018",
+          "0350458587012",
+          "0350458588019",
+          "0350458586015"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "NDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "64d7c1e1-e7ed-4d74-a44d-13b4da64af9a",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20000801",
+      "product_id": "50458-587_64d7c1e1-e7ed-4d74-a44d-13b4da64af9a",
+      "application_number": "NDA021121",
+      "brand_name_base": "CONCERTA",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "69654-584",
+      "generic_name": "methylphenidate hydrochloride",
+      "labeler_name": "Aytu BioPharma, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "METADATE CD",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "60 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "69654-584-30",
+          "description": "30 CAPSULE, EXTENDED RELEASE in 1 BOTTLE (69654-584-30)",
+          "marketing_start_date": "20240222",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Aytu BioPharma, Inc."
+        ],
+        "rxcui": [
+          "1091139",
+          "1091163",
+          "1091178",
+          "1091193",
+          "1091204",
+          "1091220",
+          "1806181",
+          "1806187",
+          "1806189",
+          "1806191",
+          "1806193",
+          "1806197"
+        ],
+        "spl_set_id": [
+          "be59f8b4-7842-42cc-9559-bfa747f0baa5"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0369654583308",
+          "0369654579301",
+          "0369654581304",
+          "0369654584305",
+          "0369654582301",
+          "0369654580307"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "NDA",
+      "dosage_form": "CAPSULE, EXTENDED RELEASE",
+      "spl_id": "43e0b75f-01c3-28cd-e063-6394a90a74a8",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20240222",
+      "product_id": "69654-584_43e0b75f-01c3-28cd-e063-6394a90a74a8",
+      "application_number": "NDA021259",
+      "brand_name_base": "METADATE CD",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "62037-726",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Actavis Pharma, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "36 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "62037-726-01",
+          "description": "100 TABLET, FILM COATED, EXTENDED RELEASE in 1 BOTTLE (62037-726-01)",
+          "marketing_start_date": "20190304",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Actavis Pharma, Inc."
+        ],
+        "rxcui": [
+          "1091155",
+          "1091170",
+          "1091185",
+          "1091210"
+        ],
+        "spl_set_id": [
+          "85ef422d-af27-4126-9841-6892af1871d6"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "spl_id": "24aa9277-3773-489d-8459-f9215140c53f",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20190304",
+      "product_id": "62037-726_24aa9277-3773-489d-8459-f9215140c53f",
+      "application_number": "ANDA076772",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "0591-3895",
+      "generic_name": "methylphenidate hydrochloride",
+      "labeler_name": "Actavis Pharma, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "methylphenidate hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "50 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "0591-3895-19",
+          "description": "90 CAPSULE, EXTENDED RELEASE in 1 BOTTLE (0591-3895-19)",
+          "marketing_start_date": "20200930",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Actavis Pharma, Inc."
+        ],
+        "rxcui": [
+          "1648183",
+          "1806200",
+          "1806202",
+          "1806204",
+          "1806206",
+          "1806208",
+          "1806210"
+        ],
+        "spl_set_id": [
+          "ecbb4a30-21ac-42e1-b4e9-6c35344ffc45"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "CAPSULE, EXTENDED RELEASE",
+      "spl_id": "1895894a-ed70-4f82-b512-6bc184ee806c",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20200930",
+      "product_id": "0591-3895_1895894a-ed70-4f82-b512-6bc184ee806c",
+      "application_number": "ANDA208861",
+      "brand_name_base": "methylphenidate hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "68025-097",
+      "generic_name": "methylphenidate hydrochloride",
+      "labeler_name": "Vertical Pharmaceuticals, LLC",
+      "dea_schedule": "CII",
+      "brand_name": "RELEXXII",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "36 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "68025-097-10",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE (68025-097-10)",
+          "marketing_start_date": "20231101",
+          "sample": false
+        },
+        {
+          "package_ndc": "68025-097-30",
+          "description": "30 TABLET, EXTENDED RELEASE in 1 BOTTLE (68025-097-30)",
+          "marketing_start_date": "20240812",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Vertical Pharmaceuticals, LLC"
+        ],
+        "rxcui": [
+          "1091155",
+          "1091170",
+          "1091185",
+          "1091210",
+          "1995461",
+          "2052826",
+          "2605796",
+          "2605798",
+          "2605943",
+          "2605946",
+          "2668496",
+          "2668499",
+          "2668502",
+          "2668505"
+        ],
+        "spl_set_id": [
+          "22d5fa47-b5b9-4fd9-980c-4eb88e95ae5d"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0368025097109",
+          "0368025096300",
+          "0368025096102",
+          "0368025084307",
+          "0368025095303",
+          "0368025098304",
+          "0368025095105",
+          "0368025098106",
+          "0368025089302",
+          "0368025088305",
+          "0368025097307"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "NDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "86f477e9-07fc-466b-913e-1a4434c91df4",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20220623",
+      "product_id": "68025-097_86f477e9-07fc-466b-913e-1a4434c91df4",
+      "application_number": "NDA216117",
+      "brand_name_base": "RELEXXII",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "62037-725",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Actavis Pharma, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "18 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "62037-725-01",
+          "description": "100 TABLET, FILM COATED, EXTENDED RELEASE in 1 BOTTLE (62037-725-01)",
+          "marketing_start_date": "20190304",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Actavis Pharma, Inc."
+        ],
+        "rxcui": [
+          "1091155",
+          "1091170",
+          "1091185",
+          "1091210"
+        ],
+        "spl_set_id": [
+          "85ef422d-af27-4126-9841-6892af1871d6"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "spl_id": "24aa9277-3773-489d-8459-f9215140c53f",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20190304",
+      "product_id": "62037-725_24aa9277-3773-489d-8459-f9215140c53f",
+      "application_number": "ANDA076772",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "68025-098",
+      "generic_name": "methylphenidate hydrochloride",
+      "labeler_name": "Vertical Pharmaceuticals, LLC",
+      "dea_schedule": "CII",
+      "brand_name": "RELEXXII",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "54 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "68025-098-10",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE (68025-098-10)",
+          "marketing_start_date": "20231101",
+          "sample": false
+        },
+        {
+          "package_ndc": "68025-098-30",
+          "description": "30 TABLET, EXTENDED RELEASE in 1 BOTTLE (68025-098-30)",
+          "marketing_start_date": "20240812",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Vertical Pharmaceuticals, LLC"
+        ],
+        "rxcui": [
+          "1091155",
+          "1091170",
+          "1091185",
+          "1091210",
+          "1995461",
+          "2052826",
+          "2605796",
+          "2605798",
+          "2605943",
+          "2605946",
+          "2668496",
+          "2668499",
+          "2668502",
+          "2668505"
+        ],
+        "spl_set_id": [
+          "22d5fa47-b5b9-4fd9-980c-4eb88e95ae5d"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0368025097109",
+          "0368025096300",
+          "0368025096102",
+          "0368025084307",
+          "0368025095303",
+          "0368025098304",
+          "0368025095105",
+          "0368025098106",
+          "0368025089302",
+          "0368025088305",
+          "0368025097307"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "NDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "86f477e9-07fc-466b-913e-1a4434c91df4",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20220623",
+      "product_id": "68025-098_86f477e9-07fc-466b-913e-1a4434c91df4",
+      "application_number": "NDA216117",
+      "brand_name_base": "RELEXXII",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "62037-727",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Actavis Pharma, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "54 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "62037-727-01",
+          "description": "100 TABLET, FILM COATED, EXTENDED RELEASE in 1 BOTTLE (62037-727-01)",
+          "marketing_start_date": "20190304",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Actavis Pharma, Inc."
+        ],
+        "rxcui": [
+          "1091155",
+          "1091170",
+          "1091185",
+          "1091210"
+        ],
+        "spl_set_id": [
+          "85ef422d-af27-4126-9841-6892af1871d6"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "spl_id": "24aa9277-3773-489d-8459-f9215140c53f",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20190304",
+      "product_id": "62037-727_24aa9277-3773-489d-8459-f9215140c53f",
+      "application_number": "ANDA076655",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "62037-734",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Actavis Pharma, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "27 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "62037-734-01",
+          "description": "100 TABLET, FILM COATED, EXTENDED RELEASE in 1 BOTTLE (62037-734-01)",
+          "marketing_start_date": "20190304",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Actavis Pharma, Inc."
+        ],
+        "rxcui": [
+          "1091155",
+          "1091170",
+          "1091185",
+          "1091210"
+        ],
+        "spl_set_id": [
+          "85ef422d-af27-4126-9841-6892af1871d6"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "spl_id": "24aa9277-3773-489d-8459-f9215140c53f",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20190304",
+      "product_id": "62037-734_24aa9277-3773-489d-8459-f9215140c53f",
+      "application_number": "ANDA076772",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "72162-2040",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Bryant Ranch Prepack",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "5 mg/5mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "72162-2040-5",
+          "description": "500 mL in 1 BOTTLE, PLASTIC (72162-2040-5)",
+          "marketing_start_date": "20240403",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Bryant Ranch Prepack"
+        ],
+        "rxcui": [
+          "1091341"
+        ],
+        "spl_set_id": [
+          "ad3a3865-952e-46cf-8387-1228e2375312"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "SOLUTION",
+      "spl_id": "d2d71458-ab2e-4d49-b988-481f0764f9df",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20150304",
+      "product_id": "72162-2040_d2d71458-ab2e-4d49-b988-481f0764f9df",
+      "application_number": "ANDA091601",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "13107-381",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Aurolife Pharma, LLC",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "10 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "13107-381-01",
+          "description": "100 TABLET in 1 BOTTLE (13107-381-01)",
+          "marketing_start_date": "20170411",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Aurolife Pharma, LLC"
+        ],
+        "rxcui": [
+          "1091150",
+          "1091392",
+          "1091497"
+        ],
+        "spl_set_id": [
+          "35be77db-fbe3-487e-a220-a08a11aaec28"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "f9c3ae42-cf3d-48b8-8a16-c23e1f1ad319",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20170411",
+      "product_id": "13107-381_f9c3ae42-cf3d-48b8-8a16-c23e1f1ad319",
+      "application_number": "ANDA209276",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "13107-380",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Aurolife Pharma, LLC",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "5 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "13107-380-01",
+          "description": "100 TABLET in 1 BOTTLE (13107-380-01)",
+          "marketing_start_date": "20170411",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Aurolife Pharma, LLC"
+        ],
+        "rxcui": [
+          "1091150",
+          "1091392",
+          "1091497"
+        ],
+        "spl_set_id": [
+          "35be77db-fbe3-487e-a220-a08a11aaec28"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "f9c3ae42-cf3d-48b8-8a16-c23e1f1ad319",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20170411",
+      "product_id": "13107-380_f9c3ae42-cf3d-48b8-8a16-c23e1f1ad319",
+      "application_number": "ANDA209276",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "67877-602",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Ascend Laboratories, LLC",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "5 mg/5mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "67877-602-91",
+          "description": "500 mL in 1 BOTTLE (67877-602-91)",
+          "marketing_start_date": "20200401",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Ascend Laboratories, LLC"
+        ],
+        "rxcui": [
+          "1091133",
+          "1091341"
+        ],
+        "spl_set_id": [
+          "5fa3da25-13aa-4ee3-acf5-cd505f4688d0"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "SOLUTION",
+      "spl_id": "2a496565-0f45-49a8-b49b-e4a734aee439",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20200401",
+      "product_id": "67877-602_2a496565-0f45-49a8-b49b-e4a734aee439",
+      "application_number": "ANDA211647",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "72162-2041",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Bryant Ranch Prepack",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "10 mg/5mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "72162-2041-5",
+          "description": "500 mL in 1 BOTTLE, PLASTIC (72162-2041-5)",
+          "marketing_start_date": "20240403",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Bryant Ranch Prepack"
+        ],
+        "rxcui": [
+          "1091133"
+        ],
+        "spl_set_id": [
+          "83e70f8f-18dd-45fc-8bc5-4b8f7f23439e"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "SOLUTION",
+      "spl_id": "d20ea2d7-adf3-4d51-874b-8e778b55991c",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20150304",
+      "product_id": "72162-2041_d20ea2d7-adf3-4d51-874b-8e778b55991c",
+      "application_number": "ANDA091601",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "13107-382",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Aurolife Pharma, LLC",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "20 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "13107-382-01",
+          "description": "100 TABLET in 1 BOTTLE (13107-382-01)",
+          "marketing_start_date": "20170411",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Aurolife Pharma, LLC"
+        ],
+        "rxcui": [
+          "1091150",
+          "1091392",
+          "1091497"
+        ],
+        "spl_set_id": [
+          "35be77db-fbe3-487e-a220-a08a11aaec28"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "f9c3ae42-cf3d-48b8-8a16-c23e1f1ad319",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20170411",
+      "product_id": "13107-382_f9c3ae42-cf3d-48b8-8a16-c23e1f1ad319",
+      "application_number": "ANDA209276",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "67877-603",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Ascend Laboratories, LLC",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "10 mg/5mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "67877-603-91",
+          "description": "500 mL in 1 BOTTLE (67877-603-91)",
+          "marketing_start_date": "20200401",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Ascend Laboratories, LLC"
+        ],
+        "rxcui": [
+          "1091133",
+          "1091341"
+        ],
+        "spl_set_id": [
+          "5fa3da25-13aa-4ee3-acf5-cd505f4688d0"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "SOLUTION",
+      "spl_id": "2a496565-0f45-49a8-b49b-e4a734aee439",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20200401",
+      "product_id": "67877-603_2a496565-0f45-49a8-b49b-e4a734aee439",
+      "application_number": "ANDA211647",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "71335-1219",
+      "generic_name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "labeler_name": "Bryant Ranch Prepack",
+      "dea_schedule": "CII",
+      "brand_name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "20 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "71335-1219-1",
+          "description": "30 TABLET in 1 BOTTLE (71335-1219-1)",
+          "marketing_start_date": "20241031",
+          "sample": false
+        },
+        {
+          "package_ndc": "71335-1219-2",
+          "description": "100 TABLET in 1 BOTTLE (71335-1219-2)",
+          "marketing_start_date": "20241031",
+          "sample": false
+        },
+        {
+          "package_ndc": "71335-1219-3",
+          "description": "90 TABLET in 1 BOTTLE (71335-1219-3)",
+          "marketing_start_date": "20190424",
+          "sample": false
+        },
+        {
+          "package_ndc": "71335-1219-4",
+          "description": "60 TABLET in 1 BOTTLE (71335-1219-4)",
+          "marketing_start_date": "20190424",
+          "sample": false
+        },
+        {
+          "package_ndc": "71335-1219-5",
+          "description": "120 TABLET in 1 BOTTLE (71335-1219-5)",
+          "marketing_start_date": "20241031",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Bryant Ranch Prepack"
+        ],
+        "rxcui": [
+          "1091392"
+        ],
+        "spl_set_id": [
+          "ec3d9304-13bc-4f0b-bf14-1a1ea824bd91"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "6183e88c-f148-4ee3-a49c-6e7aee7009bc",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20151001",
+      "product_id": "71335-1219_6183e88c-f148-4ee3-a49c-6e7aee7009bc",
+      "application_number": "ANDA207416",
+      "brand_name_base": "METHYLPHENIDATE HYDROCHLORIDE",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "0591-3902",
+      "generic_name": "methylphenidate hydrochloride",
+      "labeler_name": "Actavis Pharma, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "methylphenidate hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "60 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "0591-3902-19",
+          "description": "90 CAPSULE, EXTENDED RELEASE in 1 BOTTLE (0591-3902-19)",
+          "marketing_start_date": "20200930",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Actavis Pharma, Inc."
+        ],
+        "rxcui": [
+          "1648183",
+          "1806200",
+          "1806202",
+          "1806204",
+          "1806206",
+          "1806208",
+          "1806210"
+        ],
+        "spl_set_id": [
+          "ecbb4a30-21ac-42e1-b4e9-6c35344ffc45"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "CAPSULE, EXTENDED RELEASE",
+      "spl_id": "1895894a-ed70-4f82-b512-6bc184ee806c",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20200930",
+      "product_id": "0591-3902_1895894a-ed70-4f82-b512-6bc184ee806c",
+      "application_number": "ANDA208861",
+      "brand_name_base": "methylphenidate hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "27808-058",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Cranbury Pharmaceuticals, LLC",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "5 mg/5mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "27808-058-01",
+          "description": "500 mL in 1 BOTTLE, PLASTIC (27808-058-01)",
+          "marketing_start_date": "20150304",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Cranbury Pharmaceuticals, LLC"
+        ],
+        "rxcui": [
+          "1091133",
+          "1091341"
+        ],
+        "spl_set_id": [
+          "e817377f-bc72-415a-acd2-7136746b2479"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0327808059017"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "SOLUTION",
+      "spl_id": "2b5b76ed-a330-4f7b-a111-467a067ee663",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20150304",
+      "product_id": "27808-058_2b5b76ed-a330-4f7b-a111-467a067ee663",
+      "application_number": "ANDA091601",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "27808-059",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Cranbury Pharmaceuticals, LLC",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "10 mg/5mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "27808-059-01",
+          "description": "500 mL in 1 BOTTLE, PLASTIC (27808-059-01)",
+          "marketing_start_date": "20150304",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Cranbury Pharmaceuticals, LLC"
+        ],
+        "rxcui": [
+          "1091133",
+          "1091341"
+        ],
+        "spl_set_id": [
+          "e817377f-bc72-415a-acd2-7136746b2479"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0327808059017"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "SOLUTION",
+      "spl_id": "2b5b76ed-a330-4f7b-a111-467a067ee663",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20150304",
+      "product_id": "27808-059_2b5b76ed-a330-4f7b-a111-467a067ee663",
+      "application_number": "ANDA091601",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "67877-616",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Ascend Laboratories, LLC",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "5 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "67877-616-01",
+          "description": "100 TABLET in 1 BOTTLE (67877-616-01)",
+          "marketing_start_date": "20191006",
+          "sample": false
+        },
+        {
+          "package_ndc": "67877-616-33",
+          "description": "10 BLISTER PACK in 1 CARTON (67877-616-33)  / 1 TABLET in 1 BLISTER PACK",
+          "marketing_start_date": "20191006",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Ascend Laboratories, LLC"
+        ],
+        "rxcui": [
+          "1091150",
+          "1091392",
+          "1091497"
+        ],
+        "spl_set_id": [
+          "8e97c9f3-956c-416a-a7c2-68bb92053ce5"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "c6ff917f-4793-4098-b8b8-e1b31f10677b",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20191006",
+      "product_id": "67877-616_c6ff917f-4793-4098-b8b8-e1b31f10677b",
+      "application_number": "ANDA211779",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "64980-221",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Rising Pharma Holdings, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "2.5 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "64980-221-01",
+          "description": "100 TABLET, CHEWABLE in 1 BOTTLE (64980-221-01)",
+          "marketing_start_date": "20181218",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Rising Pharma Holdings, Inc."
+        ],
+        "rxcui": [
+          "1091152",
+          "1091322",
+          "1091389"
+        ],
+        "spl_set_id": [
+          "e5cb0740-813f-4dce-8c29-d7680c66e77c"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, CHEWABLE",
+      "spl_id": "85d614b0-888e-461f-bc7d-3f240ed8bd0e",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20181218",
+      "product_id": "64980-221_85d614b0-888e-461f-bc7d-3f240ed8bd0e",
+      "application_number": "ANDA205756",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "64980-222",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Rising Pharma Holdings, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "5 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "64980-222-01",
+          "description": "100 TABLET, CHEWABLE in 1 BOTTLE (64980-222-01)",
+          "marketing_start_date": "20181218",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Rising Pharma Holdings, Inc."
+        ],
+        "rxcui": [
+          "1091152",
+          "1091322",
+          "1091389"
+        ],
+        "spl_set_id": [
+          "e5cb0740-813f-4dce-8c29-d7680c66e77c"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, CHEWABLE",
+      "spl_id": "85d614b0-888e-461f-bc7d-3f240ed8bd0e",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20181218",
+      "product_id": "64980-222_85d614b0-888e-461f-bc7d-3f240ed8bd0e",
+      "application_number": "ANDA205756",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "51634-0114",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Noramco, LLC",
+      "dea_schedule": "CII",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "1 kg/kg"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "51634-0114-2",
+          "description": "20 kg in 1 DRUM (51634-0114-2)",
+          "marketing_start_date": "31-JUL-17"
+        },
+        {
+          "package_ndc": "51634-0114-3",
+          "description": "50 kg in 1 DRUM (51634-0114-3)",
+          "marketing_start_date": "25-SEP-23"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT",
+      "dosage_form": "POWDER",
+      "spl_id": "15c48513-515c-7a31-e063-6394a90a82b4",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20170731",
+      "product_id": "51634-0114_15c48513-515c-7a31-e063-6394a90a82b4",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "64980-223",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Rising Pharma Holdings, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "10 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "64980-223-01",
+          "description": "100 TABLET, CHEWABLE in 1 BOTTLE (64980-223-01)",
+          "marketing_start_date": "20181218",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Rising Pharma Holdings, Inc."
+        ],
+        "rxcui": [
+          "1091152",
+          "1091322",
+          "1091389"
+        ],
+        "spl_set_id": [
+          "e5cb0740-813f-4dce-8c29-d7680c66e77c"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, CHEWABLE",
+      "spl_id": "85d614b0-888e-461f-bc7d-3f240ed8bd0e",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20181218",
+      "product_id": "64980-223_85d614b0-888e-461f-bc7d-3f240ed8bd0e",
+      "application_number": "ANDA205756",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "59116-6850",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Cambrex Charles City, Inc",
+      "dea_schedule": "CII",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "1 kg/kg"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "59116-6850-6",
+          "description": "60 kg in 1 DRUM (59116-6850-6)",
+          "marketing_start_date": "28-JUN-22"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT",
+      "dosage_form": "POWDER",
+      "spl_id": "2b48f750-cd84-40fc-e063-6294a90a0299",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20220628",
+      "product_id": "59116-6850_2b48f750-cd84-40fc-e063-6294a90a0299",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "67877-617",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Ascend Laboratories, LLC",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "10 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "67877-617-01",
+          "description": "100 TABLET in 1 BOTTLE (67877-617-01)",
+          "marketing_start_date": "20191006",
+          "sample": false
+        },
+        {
+          "package_ndc": "67877-617-33",
+          "description": "10 BLISTER PACK in 1 CARTON (67877-617-33)  / 1 TABLET in 1 BLISTER PACK",
+          "marketing_start_date": "20191006",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Ascend Laboratories, LLC"
+        ],
+        "rxcui": [
+          "1091150",
+          "1091392",
+          "1091497"
+        ],
+        "spl_set_id": [
+          "8e97c9f3-956c-416a-a7c2-68bb92053ce5"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "c6ff917f-4793-4098-b8b8-e1b31f10677b",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20191006",
+      "product_id": "67877-617_c6ff917f-4793-4098-b8b8-e1b31f10677b",
+      "application_number": "ANDA211779",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "67877-618",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Ascend Laboratories, LLC",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "20 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "67877-618-01",
+          "description": "100 TABLET in 1 BOTTLE (67877-618-01)",
+          "marketing_start_date": "20191006",
+          "sample": false
+        },
+        {
+          "package_ndc": "67877-618-33",
+          "description": "10 BLISTER PACK in 1 CARTON (67877-618-33)  / 1 TABLET in 1 BLISTER PACK",
+          "marketing_start_date": "20191006",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Ascend Laboratories, LLC"
+        ],
+        "rxcui": [
+          "1091150",
+          "1091392",
+          "1091497"
+        ],
+        "spl_set_id": [
+          "8e97c9f3-956c-416a-a7c2-68bb92053ce5"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "c6ff917f-4793-4098-b8b8-e1b31f10677b",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20191006",
+      "product_id": "67877-618_c6ff917f-4793-4098-b8b8-e1b31f10677b",
+      "application_number": "ANDA211779",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "72162-1636",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Bryant Ranch Prepack",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "5 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "72162-1636-1",
+          "description": "100 TABLET in 1 BOTTLE (72162-1636-1)",
+          "marketing_start_date": "20130816",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Bryant Ranch Prepack"
+        ],
+        "rxcui": [
+          "1091497"
+        ],
+        "spl_set_id": [
+          "5a22dd9b-9b48-4c96-8b20-0d20131521dc"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "5c620170-b236-4649-9940-4f8736ee84dd",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20130816",
+      "product_id": "72162-1636_5c620170-b236-4649-9940-4f8736ee84dd",
+      "application_number": "ANDA090710",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "0527-3310",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Lannett Company, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "18 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "0527-3310-37",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE (0527-3310-37)",
+          "marketing_start_date": "20190424",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Lannett Company, Inc."
+        ],
+        "rxcui": [
+          "1091155",
+          "1091170",
+          "1091185",
+          "1091210"
+        ],
+        "spl_set_id": [
+          "44737c1d-fe75-409e-8a58-591696d3d7aa"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0305273310376"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "2b8fd6f1-882d-4344-8617-0b2f66dfbaaf",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20190424",
+      "product_id": "0527-3310_2b8fd6f1-882d-4344-8617-0b2f66dfbaaf",
+      "application_number": "ANDA211918",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "42858-075",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Rhodes Pharmaceuticals LLC",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "10 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "42858-075-45",
+          "description": "90 CAPSULE, EXTENDED RELEASE in 1 BOTTLE (42858-075-45)",
+          "marketing_start_date": "20200401",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {},
+      "marketing_category": "NDA AUTHORIZED GENERIC",
+      "dosage_form": "CAPSULE, EXTENDED RELEASE",
+      "spl_id": "dd7e2d15-d45e-41dc-9d9a-7b68c229b601",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20200401",
+      "product_id": "42858-075_dd7e2d15-d45e-41dc-9d9a-7b68c229b601",
+      "application_number": "NDA205831",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "50458-585",
+      "generic_name": "Methylphenidate hydrochloride",
+      "labeler_name": "Janssen Pharmaceuticals, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "CONCERTA",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "18 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "50458-585-01",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE (50458-585-01)",
+          "marketing_start_date": "20000801",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Janssen Pharmaceuticals, Inc."
+        ],
+        "rxcui": [
+          "1091155",
+          "1091157",
+          "1091170",
+          "1091172",
+          "1091185",
+          "1091187",
+          "1091210",
+          "1091212"
+        ],
+        "spl_set_id": [
+          "1a88218c-5b18-4220-8f56-526de1a276cd"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0350458585018",
+          "0350458587012",
+          "0350458588019",
+          "0350458586015"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "NDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "64d7c1e1-e7ed-4d74-a44d-13b4da64af9a",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20000801",
+      "product_id": "50458-585_64d7c1e1-e7ed-4d74-a44d-13b4da64af9a",
+      "application_number": "NDA021121",
+      "brand_name_base": "CONCERTA",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "69654-582",
+      "generic_name": "methylphenidate hydrochloride",
+      "labeler_name": "Aytu BioPharma, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "METADATE CD",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "40 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "69654-582-30",
+          "description": "30 CAPSULE, EXTENDED RELEASE in 1 BOTTLE (69654-582-30)",
+          "marketing_start_date": "20240222",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Aytu BioPharma, Inc."
+        ],
+        "rxcui": [
+          "1091139",
+          "1091163",
+          "1091178",
+          "1091193",
+          "1091204",
+          "1091220",
+          "1806181",
+          "1806187",
+          "1806189",
+          "1806191",
+          "1806193",
+          "1806197"
+        ],
+        "spl_set_id": [
+          "be59f8b4-7842-42cc-9559-bfa747f0baa5"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0369654583308",
+          "0369654579301",
+          "0369654581304",
+          "0369654584305",
+          "0369654582301",
+          "0369654580307"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "NDA",
+      "dosage_form": "CAPSULE, EXTENDED RELEASE",
+      "spl_id": "43e0b75f-01c3-28cd-e063-6394a90a74a8",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20240222",
+      "product_id": "69654-582_43e0b75f-01c3-28cd-e063-6394a90a74a8",
+      "application_number": "NDA021259",
+      "brand_name_base": "METADATE CD",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "69654-579",
+      "generic_name": "methylphenidate hydrochloride",
+      "labeler_name": "Aytu BioPharma, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "METADATE CD",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "10 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "69654-579-30",
+          "description": "30 CAPSULE, EXTENDED RELEASE in 1 BOTTLE (69654-579-30)",
+          "marketing_start_date": "20240222",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Aytu BioPharma, Inc."
+        ],
+        "rxcui": [
+          "1091139",
+          "1091163",
+          "1091178",
+          "1091193",
+          "1091204",
+          "1091220",
+          "1806181",
+          "1806187",
+          "1806189",
+          "1806191",
+          "1806193",
+          "1806197"
+        ],
+        "spl_set_id": [
+          "be59f8b4-7842-42cc-9559-bfa747f0baa5"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0369654583308",
+          "0369654579301",
+          "0369654581304",
+          "0369654584305",
+          "0369654582301",
+          "0369654580307"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "NDA",
+      "dosage_form": "CAPSULE, EXTENDED RELEASE",
+      "spl_id": "43e0b75f-01c3-28cd-e063-6394a90a74a8",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20240222",
+      "product_id": "69654-579_43e0b75f-01c3-28cd-e063-6394a90a74a8",
+      "application_number": "NDA021259",
+      "brand_name_base": "METADATE CD",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "69654-580",
+      "generic_name": "methylphenidate hydrochloride",
+      "labeler_name": "Aytu BioPharma, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "METADATE CD",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "20 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "69654-580-30",
+          "description": "30 CAPSULE, EXTENDED RELEASE in 1 BOTTLE (69654-580-30)",
+          "marketing_start_date": "20240222",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Aytu BioPharma, Inc."
+        ],
+        "rxcui": [
+          "1091139",
+          "1091163",
+          "1091178",
+          "1091193",
+          "1091204",
+          "1091220",
+          "1806181",
+          "1806187",
+          "1806189",
+          "1806191",
+          "1806193",
+          "1806197"
+        ],
+        "spl_set_id": [
+          "be59f8b4-7842-42cc-9559-bfa747f0baa5"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0369654583308",
+          "0369654579301",
+          "0369654581304",
+          "0369654584305",
+          "0369654582301",
+          "0369654580307"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "NDA",
+      "dosage_form": "CAPSULE, EXTENDED RELEASE",
+      "spl_id": "43e0b75f-01c3-28cd-e063-6394a90a74a8",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20240222",
+      "product_id": "69654-580_43e0b75f-01c3-28cd-e063-6394a90a74a8",
+      "application_number": "NDA021259",
+      "brand_name_base": "METADATE CD",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "69654-581",
+      "generic_name": "methylphenidate hydrochloride",
+      "labeler_name": "Aytu BioPharma, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "METADATE CD",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "30 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "69654-581-30",
+          "description": "30 CAPSULE, EXTENDED RELEASE in 1 BOTTLE (69654-581-30)",
+          "marketing_start_date": "20240222",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Aytu BioPharma, Inc."
+        ],
+        "rxcui": [
+          "1091139",
+          "1091163",
+          "1091178",
+          "1091193",
+          "1091204",
+          "1091220",
+          "1806181",
+          "1806187",
+          "1806189",
+          "1806191",
+          "1806193",
+          "1806197"
+        ],
+        "spl_set_id": [
+          "be59f8b4-7842-42cc-9559-bfa747f0baa5"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0369654583308",
+          "0369654579301",
+          "0369654581304",
+          "0369654584305",
+          "0369654582301",
+          "0369654580307"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "NDA",
+      "dosage_form": "CAPSULE, EXTENDED RELEASE",
+      "spl_id": "43e0b75f-01c3-28cd-e063-6394a90a74a8",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20240222",
+      "product_id": "69654-581_43e0b75f-01c3-28cd-e063-6394a90a74a8",
+      "application_number": "NDA021259",
+      "brand_name_base": "METADATE CD",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "57664-230",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Sun Pharmaceutical Industries, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "20 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "57664-230-08",
+          "description": "100 TABLET in 1 BOTTLE (57664-230-08)",
+          "marketing_start_date": "20130816",
+          "sample": false
+        },
+        {
+          "package_ndc": "57664-230-13",
+          "description": "500 TABLET in 1 BOTTLE (57664-230-13)",
+          "marketing_start_date": "20130816",
+          "sample": false
+        },
+        {
+          "package_ndc": "57664-230-18",
+          "description": "1000 TABLET in 1 BOTTLE (57664-230-18)",
+          "marketing_start_date": "20130816",
+          "sample": false
+        },
+        {
+          "package_ndc": "57664-230-83",
+          "description": "30 TABLET in 1 BOTTLE (57664-230-83)",
+          "marketing_start_date": "20130816",
+          "sample": false
+        },
+        {
+          "package_ndc": "57664-230-88",
+          "description": "100 TABLET in 1 BOTTLE (57664-230-88)",
+          "marketing_start_date": "20130816",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Sun Pharmaceutical Industries, Inc."
+        ],
+        "rxcui": [
+          "1091150",
+          "1091392",
+          "1091497"
+        ],
+        "spl_set_id": [
+          "1a89b390-0cd5-45cb-9e70-20de44652c56"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0357664228883",
+          "0357664229880",
+          "0357664230886"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "2f1c1df8-491a-08c9-e063-6394a90a1d06",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20130816",
+      "product_id": "57664-230_2f1c1df8-491a-08c9-e063-6394a90a1d06",
+      "application_number": "ANDA090710",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "57664-228",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Sun Pharmaceutical Industries, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "5 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "57664-228-08",
+          "description": "100 TABLET in 1 BOTTLE (57664-228-08)",
+          "marketing_start_date": "20130816",
+          "sample": false
+        },
+        {
+          "package_ndc": "57664-228-13",
+          "description": "500 TABLET in 1 BOTTLE (57664-228-13)",
+          "marketing_start_date": "20130816",
+          "sample": false
+        },
+        {
+          "package_ndc": "57664-228-18",
+          "description": "1000 TABLET in 1 BOTTLE (57664-228-18)",
+          "marketing_start_date": "20130816",
+          "sample": false
+        },
+        {
+          "package_ndc": "57664-228-83",
+          "description": "30 TABLET in 1 BOTTLE (57664-228-83)",
+          "marketing_start_date": "20130816",
+          "sample": false
+        },
+        {
+          "package_ndc": "57664-228-88",
+          "description": "100 TABLET in 1 BOTTLE (57664-228-88)",
+          "marketing_start_date": "20130816",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Sun Pharmaceutical Industries, Inc."
+        ],
+        "rxcui": [
+          "1091150",
+          "1091392",
+          "1091497"
+        ],
+        "spl_set_id": [
+          "1a89b390-0cd5-45cb-9e70-20de44652c56"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0357664228883",
+          "0357664229880",
+          "0357664230886"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "2f1c1df8-491a-08c9-e063-6394a90a1d06",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20130816",
+      "product_id": "57664-228_2f1c1df8-491a-08c9-e063-6394a90a1d06",
+      "application_number": "ANDA090710",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "57664-229",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Sun Pharmaceutical Industries, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "10 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "57664-229-08",
+          "description": "100 TABLET in 1 BOTTLE (57664-229-08)",
+          "marketing_start_date": "20130816",
+          "sample": false
+        },
+        {
+          "package_ndc": "57664-229-13",
+          "description": "500 TABLET in 1 BOTTLE (57664-229-13)",
+          "marketing_start_date": "20130816",
+          "sample": false
+        },
+        {
+          "package_ndc": "57664-229-18",
+          "description": "1000 TABLET in 1 BOTTLE (57664-229-18)",
+          "marketing_start_date": "20130816",
+          "sample": false
+        },
+        {
+          "package_ndc": "57664-229-83",
+          "description": "30 TABLET in 1 BOTTLE (57664-229-83)",
+          "marketing_start_date": "20130816",
+          "sample": false
+        },
+        {
+          "package_ndc": "57664-229-88",
+          "description": "100 TABLET in 1 BOTTLE (57664-229-88)",
+          "marketing_start_date": "20130816",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Sun Pharmaceutical Industries, Inc."
+        ],
+        "rxcui": [
+          "1091150",
+          "1091392",
+          "1091497"
+        ],
+        "spl_set_id": [
+          "1a89b390-0cd5-45cb-9e70-20de44652c56"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0357664228883",
+          "0357664229880",
+          "0357664230886"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "2f1c1df8-491a-08c9-e063-6394a90a1d06",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20130816",
+      "product_id": "57664-229_2f1c1df8-491a-08c9-e063-6394a90a1d06",
+      "application_number": "ANDA090710",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "0527-3312",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Lannett Company, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "36 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "0527-3312-37",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE (0527-3312-37)",
+          "marketing_start_date": "20190424",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Lannett Company, Inc."
+        ],
+        "rxcui": [
+          "1091155",
+          "1091170",
+          "1091185",
+          "1091210"
+        ],
+        "spl_set_id": [
+          "44737c1d-fe75-409e-8a58-591696d3d7aa"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0305273310376"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "2b8fd6f1-882d-4344-8617-0b2f66dfbaaf",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20190424",
+      "product_id": "0527-3312_2b8fd6f1-882d-4344-8617-0b2f66dfbaaf",
+      "application_number": "ANDA211918",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "0406-0570",
+      "generic_name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "labeler_name": "SpecGx LLC",
+      "dea_schedule": "CII",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "1 kg/kg"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "0406-0570-06",
+          "description": "95 kg in 1 DRUM (0406-0570-06)",
+          "marketing_start_date": "01-JAN-14",
+          "marketing_end_date": "31-MAR-31"
+        },
+        {
+          "package_ndc": "0406-0570-40",
+          "description": ".5 kg in 1 BOTTLE, GLASS (0406-0570-40)",
+          "marketing_start_date": "01-JAN-25"
+        },
+        {
+          "package_ndc": "0406-0570-41",
+          "description": "9 kg in 1 PAIL (0406-0570-41)",
+          "marketing_start_date": "01-JAN-25"
+        },
+        {
+          "package_ndc": "0406-0570-42",
+          "description": "85 kg in 1 DRUM (0406-0570-42)",
+          "marketing_start_date": "01-JAN-25"
+        },
+        {
+          "package_ndc": "0406-0570-99",
+          "description": "95 kg in 1 DRUM (0406-0570-99)",
+          "marketing_start_date": "01-JAN-14",
+          "marketing_end_date": "01-MAR-31"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT",
+      "dosage_form": "POWDER",
+      "spl_id": "cc91e581-27ad-4598-89af-9d71d6261844",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20140101",
+      "product_id": "0406-0570_cc91e581-27ad-4598-89af-9d71d6261844",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "50683-0428",
+      "generic_name": "dex-Methylphenidate Hydrochloride",
+      "labeler_name": "American Pacific Corporation",
+      "dea_schedule": "CII",
+      "active_ingredients": [
+        {
+          "name": "DEXMETHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "1 kg/kg"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "50683-0428-1",
+          "description": "25 kg in 1 DRUM (50683-0428-1)",
+          "marketing_start_date": "04-SEP-17"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT",
+      "dosage_form": "POWDER",
+      "spl_id": "4747571b-fd5f-4af9-e063-6394a90a4fe8",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20170904",
+      "product_id": "50683-0428_4747571b-fd5f-4af9-e063-6394a90a4fe8",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "72162-2394",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Bryant Ranch Prepack",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "36 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "72162-2394-1",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE (72162-2394-1)",
+          "marketing_start_date": "20260317",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Bryant Ranch Prepack"
+        ],
+        "rxcui": [
+          "2001566"
+        ],
+        "spl_set_id": [
+          "cd2c1226-fa19-4734-b62d-89fea73dcb0d"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "63f67d96-85b5-47bd-932e-62f09e64d6af",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20130923",
+      "product_id": "72162-2394_63f67d96-85b5-47bd-932e-62f09e64d6af",
+      "application_number": "ANDA091695",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "70010-012",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Granules Pharmaceuticals Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "10 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "70010-012-01",
+          "description": "100 CAPSULE, EXTENDED RELEASE in 1 BOTTLE (70010-012-01)",
+          "marketing_start_date": "20190910",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Granules Pharmaceuticals Inc."
+        ],
+        "rxcui": [
+          "1806177",
+          "1806179",
+          "1806183",
+          "1806185",
+          "1806195"
+        ],
+        "spl_set_id": [
+          "27ea91ad-f64e-43d7-ab10-6f988bca5379"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0370010014015",
+          "0370010012011",
+          "0370010013018",
+          "0370010015012",
+          "0370010016033"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "CAPSULE, EXTENDED RELEASE",
+      "spl_id": "40a67d01-89e6-a878-e063-6394a90ae051",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20190910",
+      "product_id": "70010-012_40a67d01-89e6-a878-e063-6394a90ae051",
+      "application_number": "ANDA211796",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "0406-1142",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "SpecGx LLC",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "5 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "0406-1142-01",
+          "description": "100 TABLET in 1 BOTTLE (0406-1142-01)",
+          "marketing_start_date": "19981127",
+          "sample": false
+        },
+        {
+          "package_ndc": "0406-1142-10",
+          "description": "1000 TABLET in 1 BOTTLE (0406-1142-10)",
+          "marketing_start_date": "19981127",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "SpecGx LLC"
+        ],
+        "rxcui": [
+          "1091150",
+          "1091392",
+          "1091497"
+        ],
+        "spl_set_id": [
+          "981a2ad8-33f7-4678-9162-9df9685bd4a6"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0304061144018",
+          "0304061146012",
+          "0304061142014"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "3c286d0f-d6c0-47f5-af8b-9a744477a11f",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "19981127",
+      "product_id": "0406-1142_3c286d0f-d6c0-47f5-af8b-9a744477a11f",
+      "application_number": "ANDA040300",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "43386-572",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Lupin Pharmaceuticals,Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "10 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "43386-572-01",
+          "description": "100 TABLET, CHEWABLE in 1 BOTTLE (43386-572-01)",
+          "marketing_start_date": "20150406",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Lupin Pharmaceuticals,Inc."
+        ],
+        "rxcui": [
+          "1091152",
+          "1091322",
+          "1091389"
+        ],
+        "spl_set_id": [
+          "5bfe50ed-171f-4c40-bc0b-20c68e8e2025"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, CHEWABLE",
+      "spl_id": "c9e22f02-1ba0-41b6-ad52-181d18094553",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20150406",
+      "product_id": "43386-572_c9e22f02-1ba0-41b6-ad52-181d18094553",
+      "application_number": "ANDA204115",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "62175-310",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Lannett Company, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "18 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "62175-310-37",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE (62175-310-37)",
+          "marketing_start_date": "20130710",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Lannett Company, Inc."
+        ],
+        "rxcui": [
+          "2001564",
+          "2001565",
+          "2001566",
+          "2001568"
+        ],
+        "spl_set_id": [
+          "3d1f5aff-5d39-496c-b5ed-7f3c70ec641c"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0362175312372",
+          "0362175311375"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "8b133cd2-e3c6-4742-b402-2393b56ffc93",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20130710",
+      "product_id": "62175-310_8b133cd2-e3c6-4742-b402-2393b56ffc93",
+      "application_number": "ANDA091695",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "70010-016",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Granules Pharmaceuticals Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "60 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "70010-016-03",
+          "description": "30 CAPSULE, EXTENDED RELEASE in 1 BOTTLE (70010-016-03)",
+          "marketing_start_date": "20190910",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Granules Pharmaceuticals Inc."
+        ],
+        "rxcui": [
+          "1806177",
+          "1806179",
+          "1806183",
+          "1806185",
+          "1806195"
+        ],
+        "spl_set_id": [
+          "27ea91ad-f64e-43d7-ab10-6f988bca5379"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0370010014015",
+          "0370010012011",
+          "0370010013018",
+          "0370010015012",
+          "0370010016033"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "CAPSULE, EXTENDED RELEASE",
+      "spl_id": "40a67d01-89e6-a878-e063-6394a90ae051",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20190910",
+      "product_id": "70010-016_40a67d01-89e6-a878-e063-6394a90ae051",
+      "application_number": "ANDA211796",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "72162-2395",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Bryant Ranch Prepack",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "27 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "72162-2395-1",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE (72162-2395-1)",
+          "marketing_start_date": "20260317",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Bryant Ranch Prepack"
+        ],
+        "rxcui": [
+          "2001565"
+        ],
+        "spl_set_id": [
+          "5a29687b-5294-4b27-a556-514b092a877d"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "6cdb2cd7-3d68-4e1b-bb74-c3bd808a28a4",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20130710",
+      "product_id": "72162-2395_6cdb2cd7-3d68-4e1b-bb74-c3bd808a28a4",
+      "application_number": "ANDA091695",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "70010-013",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Granules Pharmaceuticals Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "20 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "70010-013-01",
+          "description": "100 CAPSULE, EXTENDED RELEASE in 1 BOTTLE (70010-013-01)",
+          "marketing_start_date": "20190910",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Granules Pharmaceuticals Inc."
+        ],
+        "rxcui": [
+          "1806177",
+          "1806179",
+          "1806183",
+          "1806185",
+          "1806195"
+        ],
+        "spl_set_id": [
+          "27ea91ad-f64e-43d7-ab10-6f988bca5379"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0370010014015",
+          "0370010012011",
+          "0370010013018",
+          "0370010015012",
+          "0370010016033"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "CAPSULE, EXTENDED RELEASE",
+      "spl_id": "40a67d01-89e6-a878-e063-6394a90ae051",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20190910",
+      "product_id": "70010-013_40a67d01-89e6-a878-e063-6394a90ae051",
+      "application_number": "ANDA211796",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "43386-570",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Lupin Pharmaceuticals,Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "2.5 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "43386-570-01",
+          "description": "100 TABLET, CHEWABLE in 1 BOTTLE (43386-570-01)",
+          "marketing_start_date": "20150406",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Lupin Pharmaceuticals,Inc."
+        ],
+        "rxcui": [
+          "1091152",
+          "1091322",
+          "1091389"
+        ],
+        "spl_set_id": [
+          "5bfe50ed-171f-4c40-bc0b-20c68e8e2025"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, CHEWABLE",
+      "spl_id": "c9e22f02-1ba0-41b6-ad52-181d18094553",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20150406",
+      "product_id": "43386-570_c9e22f02-1ba0-41b6-ad52-181d18094553",
+      "application_number": "ANDA204115",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "70010-014",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Granules Pharmaceuticals Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "30 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "70010-014-01",
+          "description": "100 CAPSULE, EXTENDED RELEASE in 1 BOTTLE (70010-014-01)",
+          "marketing_start_date": "20190910",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Granules Pharmaceuticals Inc."
+        ],
+        "rxcui": [
+          "1806177",
+          "1806179",
+          "1806183",
+          "1806185",
+          "1806195"
+        ],
+        "spl_set_id": [
+          "27ea91ad-f64e-43d7-ab10-6f988bca5379"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0370010014015",
+          "0370010012011",
+          "0370010013018",
+          "0370010015012",
+          "0370010016033"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "CAPSULE, EXTENDED RELEASE",
+      "spl_id": "40a67d01-89e6-a878-e063-6394a90ae051",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20190910",
+      "product_id": "70010-014_40a67d01-89e6-a878-e063-6394a90ae051",
+      "application_number": "ANDA211796",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "0527-3313",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Lannett Company, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "54 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "0527-3313-37",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE (0527-3313-37)",
+          "marketing_start_date": "20190424",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Lannett Company, Inc."
+        ],
+        "rxcui": [
+          "1091155",
+          "1091170",
+          "1091185",
+          "1091210"
+        ],
+        "spl_set_id": [
+          "44737c1d-fe75-409e-8a58-591696d3d7aa"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0305273310376"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "2b8fd6f1-882d-4344-8617-0b2f66dfbaaf",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20190424",
+      "product_id": "0527-3313_2b8fd6f1-882d-4344-8617-0b2f66dfbaaf",
+      "application_number": "ANDA211918",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "43386-571",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Lupin Pharmaceuticals,Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "5 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "43386-571-01",
+          "description": "100 TABLET, CHEWABLE in 1 BOTTLE (43386-571-01)",
+          "marketing_start_date": "20150406",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Lupin Pharmaceuticals,Inc."
+        ],
+        "rxcui": [
+          "1091152",
+          "1091322",
+          "1091389"
+        ],
+        "spl_set_id": [
+          "5bfe50ed-171f-4c40-bc0b-20c68e8e2025"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, CHEWABLE",
+      "spl_id": "c9e22f02-1ba0-41b6-ad52-181d18094553",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20150406",
+      "product_id": "43386-571_c9e22f02-1ba0-41b6-ad52-181d18094553",
+      "application_number": "ANDA204115",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "70010-015",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Granules Pharmaceuticals Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "40 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "70010-015-01",
+          "description": "100 CAPSULE, EXTENDED RELEASE in 1 BOTTLE (70010-015-01)",
+          "marketing_start_date": "20190910",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Granules Pharmaceuticals Inc."
+        ],
+        "rxcui": [
+          "1806177",
+          "1806179",
+          "1806183",
+          "1806185",
+          "1806195"
+        ],
+        "spl_set_id": [
+          "27ea91ad-f64e-43d7-ab10-6f988bca5379"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0370010014015",
+          "0370010012011",
+          "0370010013018",
+          "0370010015012",
+          "0370010016033"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "CAPSULE, EXTENDED RELEASE",
+      "spl_id": "40a67d01-89e6-a878-e063-6394a90ae051",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20190910",
+      "product_id": "70010-015_40a67d01-89e6-a878-e063-6394a90ae051",
+      "application_number": "ANDA211796",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "43386-574",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Lupin Pharmaceuticals,Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "10 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "43386-574-01",
+          "description": "100 TABLET in 1 BOTTLE (43386-574-01)",
+          "marketing_start_date": "20160120",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Lupin Pharmaceuticals,Inc."
+        ],
+        "rxcui": [
+          "1091150",
+          "1091392",
+          "1091497"
+        ],
+        "spl_set_id": [
+          "ec8a8896-077d-4dee-9e10-97172512c5ed"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "ac26e6b6-2be0-458d-8acc-d963bcca13a5",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20151113",
+      "product_id": "43386-574_ac26e6b6-2be0-458d-8acc-d963bcca13a5",
+      "application_number": "ANDA207884",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "43386-573",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Lupin Pharmaceuticals,Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "5 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "43386-573-01",
+          "description": "100 TABLET in 1 BOTTLE (43386-573-01)",
+          "marketing_start_date": "20160120",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Lupin Pharmaceuticals,Inc."
+        ],
+        "rxcui": [
+          "1091150",
+          "1091392",
+          "1091497"
+        ],
+        "spl_set_id": [
+          "ec8a8896-077d-4dee-9e10-97172512c5ed"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "ac26e6b6-2be0-458d-8acc-d963bcca13a5",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20160120",
+      "product_id": "43386-573_ac26e6b6-2be0-458d-8acc-d963bcca13a5",
+      "application_number": "ANDA207884",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "62175-311",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Lannett Company, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "27 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "62175-311-37",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE (62175-311-37)",
+          "marketing_start_date": "20130710",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Lannett Company, Inc."
+        ],
+        "rxcui": [
+          "2001564",
+          "2001565",
+          "2001566",
+          "2001568"
+        ],
+        "spl_set_id": [
+          "3d1f5aff-5d39-496c-b5ed-7f3c70ec641c"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0362175312372",
+          "0362175311375"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "8b133cd2-e3c6-4742-b402-2393b56ffc93",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20130710",
+      "product_id": "62175-311_8b133cd2-e3c6-4742-b402-2393b56ffc93",
+      "application_number": "ANDA091695",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "62175-312",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Lannett Company, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "36 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "62175-312-37",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE (62175-312-37)",
+          "marketing_start_date": "20130923",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Lannett Company, Inc."
+        ],
+        "rxcui": [
+          "2001564",
+          "2001565",
+          "2001566",
+          "2001568"
+        ],
+        "spl_set_id": [
+          "3d1f5aff-5d39-496c-b5ed-7f3c70ec641c"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0362175312372",
+          "0362175311375"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "8b133cd2-e3c6-4742-b402-2393b56ffc93",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20130923",
+      "product_id": "62175-312_8b133cd2-e3c6-4742-b402-2393b56ffc93",
+      "application_number": "ANDA091695",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "62175-313",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Lannett Company, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "54 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "62175-313-37",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE (62175-313-37)",
+          "marketing_start_date": "20130923",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Lannett Company, Inc."
+        ],
+        "rxcui": [
+          "2001564",
+          "2001565",
+          "2001566",
+          "2001568"
+        ],
+        "spl_set_id": [
+          "3d1f5aff-5d39-496c-b5ed-7f3c70ec641c"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0362175312372",
+          "0362175311375"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "8b133cd2-e3c6-4742-b402-2393b56ffc93",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20130923",
+      "product_id": "62175-313_8b133cd2-e3c6-4742-b402-2393b56ffc93",
+      "application_number": "ANDA091695",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "43386-575",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Lupin Pharmaceuticals,Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "20 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "43386-575-01",
+          "description": "100 TABLET in 1 BOTTLE (43386-575-01)",
+          "marketing_start_date": "20160120",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Lupin Pharmaceuticals,Inc."
+        ],
+        "rxcui": [
+          "1091150",
+          "1091392",
+          "1091497"
+        ],
+        "spl_set_id": [
+          "ec8a8896-077d-4dee-9e10-97172512c5ed"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "ac26e6b6-2be0-458d-8acc-d963bcca13a5",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20151113",
+      "product_id": "43386-575_ac26e6b6-2be0-458d-8acc-d963bcca13a5",
+      "application_number": "ANDA207884",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "0406-1144",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "SpecGx LLC",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "10 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "0406-1144-01",
+          "description": "100 TABLET in 1 BOTTLE (0406-1144-01)",
+          "marketing_start_date": "19981127",
+          "sample": false
+        },
+        {
+          "package_ndc": "0406-1144-10",
+          "description": "1000 TABLET in 1 BOTTLE (0406-1144-10)",
+          "marketing_start_date": "19981127",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "SpecGx LLC"
+        ],
+        "rxcui": [
+          "1091150",
+          "1091392",
+          "1091497"
+        ],
+        "spl_set_id": [
+          "981a2ad8-33f7-4678-9162-9df9685bd4a6"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0304061144018",
+          "0304061146012",
+          "0304061142014"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "3c286d0f-d6c0-47f5-af8b-9a744477a11f",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "19981127",
+      "product_id": "0406-1144_3c286d0f-d6c0-47f5-af8b-9a744477a11f",
+      "application_number": "ANDA040300",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "0406-1335",
+      "generic_name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "labeler_name": "SpecGx LLC",
+      "dea_schedule": "CII",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "1 kg/kg"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "0406-1335-06",
+          "description": "95 kg in 1 DRUM (0406-1335-06)",
+          "marketing_start_date": "01-MAR-14",
+          "marketing_end_date": "01-MAR-31"
+        },
+        {
+          "package_ndc": "0406-1335-40",
+          "description": ".5 kg in 1 BOTTLE, GLASS (0406-1335-40)",
+          "marketing_start_date": "01-JAN-25"
+        },
+        {
+          "package_ndc": "0406-1335-41",
+          "description": "9 kg in 1 PAIL (0406-1335-41)",
+          "marketing_start_date": "01-JAN-25"
+        },
+        {
+          "package_ndc": "0406-1335-42",
+          "description": "85 kg in 1 DRUM (0406-1335-42)",
+          "marketing_start_date": "01-JAN-25"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT",
+      "dosage_form": "POWDER",
+      "spl_id": "670115b2-efbb-4c01-87cf-3d437fedd724",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20140301",
+      "product_id": "0406-1335_670115b2-efbb-4c01-87cf-3d437fedd724",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "70752-131",
+      "generic_name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "labeler_name": "QUAGEN PHARMACEUTICALS LLC",
+      "dea_schedule": "CII",
+      "brand_name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "5 mg/5mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "70752-131-14",
+          "description": "500 mL in 1 BOTTLE, PLASTIC (70752-131-14)",
+          "marketing_start_date": "20200604",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "QUAGEN PHARMACEUTICALS LLC"
+        ],
+        "rxcui": [
+          "1091133",
+          "1091341"
+        ],
+        "spl_set_id": [
+          "59de488c-c3f8-415d-9e9f-9102c090aac8"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "SOLUTION",
+      "spl_id": "80b36f9d-4d27-46af-837b-70d2daec0dba",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20200604",
+      "product_id": "70752-131_80b36f9d-4d27-46af-837b-70d2daec0dba",
+      "application_number": "ANDA213567",
+      "brand_name_base": "METHYLPHENIDATE HYDROCHLORIDE",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "70752-132",
+      "generic_name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "labeler_name": "QUAGEN PHARMACEUTICALS LLC",
+      "dea_schedule": "CII",
+      "brand_name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "10 mg/5mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "70752-132-14",
+          "description": "500 mL in 1 BOTTLE, PLASTIC (70752-132-14)",
+          "marketing_start_date": "20200604",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "QUAGEN PHARMACEUTICALS LLC"
+        ],
+        "rxcui": [
+          "1091133",
+          "1091341"
+        ],
+        "spl_set_id": [
+          "59de488c-c3f8-415d-9e9f-9102c090aac8"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "SOLUTION",
+      "spl_id": "80b36f9d-4d27-46af-837b-70d2daec0dba",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20200604",
+      "product_id": "70752-132_80b36f9d-4d27-46af-837b-70d2daec0dba",
+      "application_number": "ANDA213567",
+      "brand_name_base": "METHYLPHENIDATE HYDROCHLORIDE",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "71930-024",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Eywa Pharma Inc",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "5 mg/5mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "71930-024-52",
+          "description": "500 mL in 1 BOTTLE (71930-024-52)",
+          "marketing_start_date": "20190329",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Eywa Pharma Inc"
+        ],
+        "rxcui": [
+          "1091133",
+          "1091341"
+        ],
+        "spl_set_id": [
+          "298fb86d-7d94-49e1-b743-3e7801122422"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0371930025525"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "SOLUTION",
+      "spl_id": "2ec047c6-e9ea-4093-bb03-1b3f80fb2a13",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20190329",
+      "product_id": "71930-024_2ec047c6-e9ea-4093-bb03-1b3f80fb2a13",
+      "application_number": "ANDA210139",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "71930-025",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Eywa Pharma Inc",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "10 mg/5mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "71930-025-52",
+          "description": "500 mL in 1 BOTTLE (71930-025-52)",
+          "marketing_start_date": "20190329",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Eywa Pharma Inc"
+        ],
+        "rxcui": [
+          "1091133",
+          "1091341"
+        ],
+        "spl_set_id": [
+          "298fb86d-7d94-49e1-b743-3e7801122422"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0371930025525"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "SOLUTION",
+      "spl_id": "2ec047c6-e9ea-4093-bb03-1b3f80fb2a13",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20190329",
+      "product_id": "71930-025_2ec047c6-e9ea-4093-bb03-1b3f80fb2a13",
+      "application_number": "ANDA210139",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "0078-0370",
+      "marketing_end_date": "20261031",
+      "generic_name": "methylphenidate hydrochloride",
+      "labeler_name": "Novartis Pharmaceuticals Corporation",
+      "dea_schedule": "CII",
+      "brand_name": "Ritalin LA",
+      "brand_name_suffix": "LA",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "20 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "0078-0370-05",
+          "description": "100 CAPSULE, EXTENDED RELEASE in 1 BOTTLE (0078-0370-05)",
+          "marketing_start_date": "20020605",
+          "marketing_end_date": "20261031",
+          "sample": false
+        }
+      ],
+      "openfda": {
+        "manufacturer_name": [
+          "Novartis Pharmaceuticals Corporation"
+        ],
+        "rxcui": [
+          "1091143",
+          "1091167",
+          "1091182",
+          "1091197",
+          "1806177",
+          "1806179",
+          "1806183",
+          "1806195"
+        ],
+        "spl_set_id": [
+          "effd952d-ac94-47bb-b107-589a4934dcca"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "NDA",
+      "dosage_form": "CAPSULE, EXTENDED RELEASE",
+      "spl_id": "8f4647d0-4965-4dee-8f60-1340ef9be3de",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20020605",
+      "product_id": "0078-0370_8f4647d0-4965-4dee-8f60-1340ef9be3de",
+      "application_number": "NDA021284",
+      "brand_name_base": "Ritalin",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "70010-043",
+      "generic_name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "labeler_name": "Granules Pharmaceuticals Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "20 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "70010-043-01",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE, PLASTIC (70010-043-01)",
+          "marketing_start_date": "20181217",
+          "sample": false
+        },
+        {
+          "package_ndc": "70010-043-03",
+          "description": "30 TABLET, EXTENDED RELEASE in 1 BOTTLE, PLASTIC (70010-043-03)",
+          "marketing_start_date": "20221031",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Granules Pharmaceuticals Inc."
+        ],
+        "rxcui": [
+          "1091145",
+          "1091225"
+        ],
+        "spl_set_id": [
+          "45d33807-88b2-4b42-9c86-e5b05d7adec1"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0370010043039",
+          "0370010042032"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "594d92d3-4500-ae1e-e063-6394a90ababc",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20181217",
+      "product_id": "70010-043_594d92d3-4500-ae1e-e063-6394a90ababc",
+      "application_number": "ANDA210992",
+      "brand_name_base": "METHYLPHENIDATE HYDROCHLORIDE",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "0406-1146",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "SpecGx LLC",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "20 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "0406-1146-01",
+          "description": "100 TABLET in 1 BOTTLE (0406-1146-01)",
+          "marketing_start_date": "19981127",
+          "sample": false
+        },
+        {
+          "package_ndc": "0406-1146-10",
+          "description": "1000 TABLET in 1 BOTTLE (0406-1146-10)",
+          "marketing_start_date": "19981127",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "SpecGx LLC"
+        ],
+        "rxcui": [
+          "1091150",
+          "1091392",
+          "1091497"
+        ],
+        "spl_set_id": [
+          "981a2ad8-33f7-4678-9162-9df9685bd4a6"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0304061144018",
+          "0304061146012",
+          "0304061142014"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "3c286d0f-d6c0-47f5-af8b-9a744477a11f",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "19981127",
+      "product_id": "0406-1146_3c286d0f-d6c0-47f5-af8b-9a744477a11f",
+      "application_number": "ANDA040300",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "61960-6900",
+      "generic_name": "d-Methylphenidate Hydrochloride",
+      "labeler_name": "Chattem Chemicals, Inc.",
+      "dea_schedule": "CII",
+      "active_ingredients": [
+        {
+          "name": "DEXMETHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "1 kg/kg"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "61960-6900-1",
+          "description": "50 kg in 1 DRUM (61960-6900-1)",
+          "marketing_start_date": "01-JUL-09"
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT",
+      "dosage_form": "POWDER",
+      "spl_id": "0fdaf75a-b08b-4b71-986a-ba6dddcac78a",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20090701",
+      "product_id": "61960-6900_0fdaf75a-b08b-4b71-986a-ba6dddcac78a",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "61960-7000",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Chattem Chemicals, Inc.",
+      "dea_schedule": "CII",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "1 kg/kg"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "61960-7000-1",
+          "description": "10 kg in 1 DRUM (61960-7000-1)",
+          "marketing_start_date": "01-SEP-02"
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT",
+      "dosage_form": "POWDER",
+      "spl_id": "8db2ffc8-f0b2-47ee-880e-652c61b558ae",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20020901",
+      "product_id": "61960-7000_8db2ffc8-f0b2-47ee-880e-652c61b558ae",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "70010-042",
+      "generic_name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "labeler_name": "Granules Pharmaceuticals Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "10 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "70010-042-01",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE, PLASTIC (70010-042-01)",
+          "marketing_start_date": "20181217",
+          "sample": false
+        },
+        {
+          "package_ndc": "70010-042-03",
+          "description": "30 TABLET, EXTENDED RELEASE in 1 BOTTLE, PLASTIC (70010-042-03)",
+          "marketing_start_date": "20221031",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Granules Pharmaceuticals Inc."
+        ],
+        "rxcui": [
+          "1091145",
+          "1091225"
+        ],
+        "spl_set_id": [
+          "45d33807-88b2-4b42-9c86-e5b05d7adec1"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0370010043039",
+          "0370010042032"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "594d92d3-4500-ae1e-e063-6394a90ababc",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20181217",
+      "product_id": "70010-042_594d92d3-4500-ae1e-e063-6394a90ababc",
+      "application_number": "ANDA210992",
+      "brand_name_base": "METHYLPHENIDATE HYDROCHLORIDE",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "51407-527",
+      "generic_name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "labeler_name": "Golden State Medical Supply, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "10 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "51407-527-01",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE, PLASTIC (51407-527-01)",
+          "marketing_start_date": "20191114",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Golden State Medical Supply, Inc."
+        ],
+        "rxcui": [
+          "1091145",
+          "1091225"
+        ],
+        "spl_set_id": [
+          "98be5c84-b348-6b8e-e053-2995a90ae4cc"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0351407528018",
+          "0351407527011"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "58cc80ac-03f4-5f22-e063-6394a90af825",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20181121",
+      "product_id": "51407-527_58cc80ac-03f4-5f22-e063-6394a90af825",
+      "application_number": "ANDA210992",
+      "brand_name_base": "METHYLPHENIDATE HYDROCHLORIDE",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "51407-924",
+      "generic_name": "Methylphenidate hydrochloride",
+      "labeler_name": "Golden State Medical Supply, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "18 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "51407-924-01",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE (51407-924-01)",
+          "marketing_start_date": "20240621",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Golden State Medical Supply, Inc."
+        ],
+        "rxcui": [
+          "1091155",
+          "1091170",
+          "1091185",
+          "1091210"
+        ],
+        "spl_set_id": [
+          "22e5ddfa-7264-fbb1-e063-6394a90a6483"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "50289734-e08d-0f5a-e063-6394a90ab421",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20170728",
+      "product_id": "51407-924_50289734-e08d-0f5a-e063-6394a90ab421",
+      "application_number": "ANDA205327",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "51407-528",
+      "generic_name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "labeler_name": "Golden State Medical Supply, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "20 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "51407-528-01",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE, PLASTIC (51407-528-01)",
+          "marketing_start_date": "20191114",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Golden State Medical Supply, Inc."
+        ],
+        "rxcui": [
+          "1091145",
+          "1091225"
+        ],
+        "spl_set_id": [
+          "98be5c84-b348-6b8e-e053-2995a90ae4cc"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0351407528018",
+          "0351407527011"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "58cc80ac-03f4-5f22-e063-6394a90af825",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20181121",
+      "product_id": "51407-528_58cc80ac-03f4-5f22-e063-6394a90af825",
+      "application_number": "ANDA210992",
+      "brand_name_base": "METHYLPHENIDATE HYDROCHLORIDE",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "72162-1306",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Bryant Ranch Prepack",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "10 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "72162-1306-1",
+          "description": "100 TABLET, CHEWABLE in 1 BOTTLE (72162-1306-1)",
+          "marketing_start_date": "20240205",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Bryant Ranch Prepack"
+        ],
+        "rxcui": [
+          "1091152"
+        ],
+        "spl_set_id": [
+          "7293dffd-eb01-43d4-b9c4-04f79bec180c"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, CHEWABLE",
+      "spl_id": "087f3f1a-87dc-4c7a-89db-309439f32fbc",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20180301",
+      "product_id": "72162-1306_087f3f1a-87dc-4c7a-89db-309439f32fbc",
+      "application_number": "ANDA210354",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "51407-925",
+      "generic_name": "Methylphenidate hydrochloride",
+      "labeler_name": "Golden State Medical Supply, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "27 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "51407-925-01",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE (51407-925-01)",
+          "marketing_start_date": "20240621",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Golden State Medical Supply, Inc."
+        ],
+        "rxcui": [
+          "1091155",
+          "1091170",
+          "1091185",
+          "1091210"
+        ],
+        "spl_set_id": [
+          "22e5ddfa-7264-fbb1-e063-6394a90a6483"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "50289734-e08d-0f5a-e063-6394a90ab421",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20170728",
+      "product_id": "51407-925_50289734-e08d-0f5a-e063-6394a90ab421",
+      "application_number": "ANDA205327",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "51407-926",
+      "generic_name": "Methylphenidate hydrochloride",
+      "labeler_name": "Golden State Medical Supply, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "36 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "51407-926-01",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE (51407-926-01)",
+          "marketing_start_date": "20240621",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Golden State Medical Supply, Inc."
+        ],
+        "rxcui": [
+          "1091155",
+          "1091170",
+          "1091185",
+          "1091210"
+        ],
+        "spl_set_id": [
+          "22e5ddfa-7264-fbb1-e063-6394a90a6483"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "50289734-e08d-0f5a-e063-6394a90ab421",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20170728",
+      "product_id": "51407-926_50289734-e08d-0f5a-e063-6394a90ab421",
+      "application_number": "ANDA205327",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "51407-927",
+      "generic_name": "Methylphenidate hydrochloride",
+      "labeler_name": "Golden State Medical Supply, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "54 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "51407-927-01",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE (51407-927-01)",
+          "marketing_start_date": "20240621",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Golden State Medical Supply, Inc."
+        ],
+        "rxcui": [
+          "1091155",
+          "1091170",
+          "1091185",
+          "1091210"
+        ],
+        "spl_set_id": [
+          "22e5ddfa-7264-fbb1-e063-6394a90a6483"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "50289734-e08d-0f5a-e063-6394a90ab421",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20170728",
+      "product_id": "51407-927_50289734-e08d-0f5a-e063-6394a90ab421",
+      "application_number": "ANDA205327",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "72162-2429",
+      "generic_name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "labeler_name": "Bryant Ranch Prepack",
+      "dea_schedule": "CII",
+      "brand_name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "10 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "72162-2429-1",
+          "description": "100 TABLET in 1 BOTTLE (72162-2429-1)",
+          "marketing_start_date": "20241118",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Bryant Ranch Prepack"
+        ],
+        "rxcui": [
+          "1091150"
+        ],
+        "spl_set_id": [
+          "b77128b3-fce4-4bee-bdad-5fe4af9d612d"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "350721f3-07c6-4b0f-b345-2058f4ff1f49",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20240416",
+      "product_id": "72162-2429_350721f3-07c6-4b0f-b345-2058f4ff1f49",
+      "application_number": "ANDA208737",
+      "brand_name_base": "METHYLPHENIDATE HYDROCHLORIDE",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "0115-1736",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Amneal Pharmaceuticals of New York LLC",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "10 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "0115-1736-01",
+          "description": "100 CAPSULE, EXTENDED RELEASE in 1 BOTTLE (0115-1736-01)",
+          "marketing_start_date": "20160920",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Amneal Pharmaceuticals of New York LLC"
+        ],
+        "rxcui": [
+          "1806181",
+          "1806187",
+          "1806189",
+          "1806191",
+          "1806193",
+          "1806197"
+        ],
+        "spl_set_id": [
+          "10aa0dc0-bd0e-4927-a19a-8722d78ad67d"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0301151741010",
+          "0301157739011"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "CAPSULE, EXTENDED RELEASE",
+      "spl_id": "b0804310-a328-4743-b417-67c66f56fc94",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20160920",
+      "product_id": "0115-1736_b0804310-a328-4743-b417-67c66f56fc94",
+      "application_number": "ANDA205105",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "72162-2428",
+      "generic_name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "labeler_name": "Bryant Ranch Prepack",
+      "dea_schedule": "CII",
+      "brand_name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "5 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "72162-2428-1",
+          "description": "100 TABLET in 1 BOTTLE (72162-2428-1)",
+          "marketing_start_date": "20241118",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Bryant Ranch Prepack"
+        ],
+        "rxcui": [
+          "1091497"
+        ],
+        "spl_set_id": [
+          "371346d1-ac7e-491c-a010-ad29cb3d567a"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "436fefb7-905b-44af-a65f-e31cf87fd52a",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20240416",
+      "product_id": "72162-2428_436fefb7-905b-44af-a65f-e31cf87fd52a",
+      "application_number": "ANDA208737",
+      "brand_name_base": "METHYLPHENIDATE HYDROCHLORIDE",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "72162-2430",
+      "generic_name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "labeler_name": "Bryant Ranch Prepack",
+      "dea_schedule": "CII",
+      "brand_name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "20 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "72162-2430-1",
+          "description": "100 TABLET in 1 BOTTLE (72162-2430-1)",
+          "marketing_start_date": "20241118",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Bryant Ranch Prepack"
+        ],
+        "rxcui": [
+          "1091392"
+        ],
+        "spl_set_id": [
+          "c87a2000-b75c-41df-8497-7e00a9b41ad4"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "3cf7fbf3-8b3d-404e-b987-6302f6510dda",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20240416",
+      "product_id": "72162-2430_3cf7fbf3-8b3d-404e-b987-6302f6510dda",
+      "application_number": "ANDA208737",
+      "brand_name_base": "METHYLPHENIDATE HYDROCHLORIDE",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "57664-710",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Sun Pharmaceutical Industries, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "72 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "57664-710-83",
+          "description": "30 TABLET, EXTENDED RELEASE in 1 BOTTLE, PLASTIC (57664-710-83)",
+          "marketing_start_date": "20241220",
+          "sample": false
+        },
+        {
+          "package_ndc": "57664-710-88",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE, PLASTIC (57664-710-88)",
+          "marketing_start_date": "20241220",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Sun Pharmaceutical Industries, Inc."
+        ],
+        "rxcui": [
+          "1995461"
+        ],
+        "spl_set_id": [
+          "18024571-4505-6d51-e063-6294a90a1972"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0357664710838"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "5943acc6-3fff-91f4-e063-6294a90a98df",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20241220",
+      "product_id": "57664-710_5943acc6-3fff-91f4-e063-6294a90a98df",
+      "application_number": "ANDA217229",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "43386-930",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Lupin Pharmaceuticals,Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "5 mg/5mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "43386-930-05",
+          "description": "500 mL in 1 BOTTLE (43386-930-05)",
+          "marketing_start_date": "20151215",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Lupin Pharmaceuticals,Inc."
+        ],
+        "rxcui": [
+          "1091133",
+          "1091341"
+        ],
+        "spl_set_id": [
+          "57fd619e-687d-403c-a77a-3dc3a1bab65a"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "SOLUTION",
+      "spl_id": "69b5f215-076c-47d1-9250-1406016a5679",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20151215",
+      "product_id": "43386-930_69b5f215-076c-47d1-9250-1406016a5679",
+      "application_number": "ANDA204602",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "0406-0127",
+      "marketing_end_date": "20270630",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "SpecGx LLC",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride Extended-Release",
+      "brand_name_suffix": "Extended-Release",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "27 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "0406-0127-01",
+          "description": "100 TABLET, EXTENDED RELEASE in 1 BOTTLE (0406-0127-01)",
+          "marketing_start_date": "20121228",
+          "marketing_end_date": "20270630",
+          "sample": false
+        }
+      ],
+      "openfda": {
+        "manufacturer_name": [
+          "SpecGx LLC"
+        ],
+        "rxcui": [
+          "2001565",
+          "2001566",
+          "2001568"
+        ],
+        "spl_set_id": [
+          "b1b0f2ff-d9df-42ab-b471-226ecf97e075"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0304060154018",
+          "0304060136014",
+          "0304060127012"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "24d8e2c3-6e4d-44b8-aafe-7c713b11af5a",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20121228",
+      "product_id": "0406-0127_24d8e2c3-6e4d-44b8-aafe-7c713b11af5a",
+      "application_number": "ANDA202608",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "43386-931",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Lupin Pharmaceuticals,Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "10 mg/5mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "43386-931-05",
+          "description": "500 mL in 1 BOTTLE (43386-931-05)",
+          "marketing_start_date": "20151215",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Lupin Pharmaceuticals,Inc."
+        ],
+        "rxcui": [
+          "1091133",
+          "1091341"
+        ],
+        "spl_set_id": [
+          "57fd619e-687d-403c-a77a-3dc3a1bab65a"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "SOLUTION",
+      "spl_id": "69b5f215-076c-47d1-9250-1406016a5679",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20151215",
+      "product_id": "43386-931_69b5f215-076c-47d1-9250-1406016a5679",
+      "application_number": "ANDA204602",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "51927-0313",
+      "generic_name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "labeler_name": "Professional Compounding Centers of America",
+      "dea_schedule": "CII",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "1 kg/kg"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "51927-0313-0",
+          "description": "1 kg in 1 BOTTLE (51927-0313-0)",
+          "marketing_start_date": "02-FEB-06"
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT FOR HUMAN PRESCRIPTION COMPOUNDING",
+      "dosage_form": "POWDER",
+      "spl_id": "483d0930-a675-6f7f-e063-6394a90a0dfb",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20060202",
+      "product_id": "51927-0313_483d0930-a675-6f7f-e063-6394a90a0dfb",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "0792-0101",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Siegfried USA, LLC",
+      "dea_schedule": "CII",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "1 kg/kg"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "0792-0101-00",
+          "description": "40 kg in 1 DRUM (0792-0101-00)",
+          "marketing_start_date": "18-DEC-19"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT",
+      "dosage_form": "POWDER",
+      "spl_id": "28f0743c-6c14-71e5-e063-6394a90a063d",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20191218",
+      "product_id": "0792-0101_28f0743c-6c14-71e5-e063-6394a90a063d",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "0115-1737",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "Amneal Pharmaceuticals of New York LLC",
+      "dea_schedule": "CII",
+      "brand_name": "Methylphenidate Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "20 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "0115-1737-01",
+          "description": "100 CAPSULE, EXTENDED RELEASE in 1 BOTTLE (0115-1737-01)",
+          "marketing_start_date": "20160920",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Amneal Pharmaceuticals of New York LLC"
+        ],
+        "rxcui": [
+          "1806181",
+          "1806187",
+          "1806189",
+          "1806191",
+          "1806193",
+          "1806197"
+        ],
+        "spl_set_id": [
+          "10aa0dc0-bd0e-4927-a19a-8722d78ad67d"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0301151741010",
+          "0301157739011"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "CAPSULE, EXTENDED RELEASE",
+      "spl_id": "b0804310-a328-4743-b417-67c66f56fc94",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20160920",
+      "product_id": "0115-1737_b0804310-a328-4743-b417-67c66f56fc94",
+      "application_number": "ANDA205105",
+      "brand_name_base": "Methylphenidate Hydrochloride",
+      "pharm_class": [
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]"
+      ]
+    },
+    {
+      "product_ndc": "53834-502",
+      "generic_name": "Methylphenidate Hydrochloride",
+      "labeler_name": "S&B Pharma LLC dba Norac Pharma",
+      "dea_schedule": "CII",
+      "active_ingredients": [
+        {
+          "name": "METHYLPHENIDATE HYDROCHLORIDE",
+          "strength": "1 g/g"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "53834-502-01",
+          "description": "15500 g in 1 BAG (53834-502-01)",
+          "marketing_start_date": "04-OCT-19"
+        },
+        {
+          "package_ndc": "53834-502-02",
+          "description": "12000 g in 1 BAG (53834-502-02)",
+          "marketing_start_date": "04-OCT-19"
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT",
+      "dosage_form": "POWDER",
+      "spl_id": "5b23b2ee-debf-0e60-e063-6394a90a2292",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20191004",
+      "product_id": "53834-502_5b23b2ee-debf-0e60-e063-6394a90a2292",
+      "brand_name_base": null
+    }
+  ]
+}

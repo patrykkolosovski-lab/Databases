@@ -91,43 +91,19 @@ The main relationships are that **students receive prescriptions**, **doctors is
 https://github.com/user-attachments/assets/6ab59ed9-3a44-402c-9038-be4cdf5bed6b
 
 * **Week 5:** Real-world data integration & testing
-  * [`sql/05_real_world_data.sql`](sql/05_real_world_data.sql) – real datasets (>50 rows per dataset)
+  * [Report](docs/week5/Week5.tex), [source data](data/week5), [import](sql/05_real_world_data.sql) and [adapted queries](sql/06_real_world_queries.sql)
 
 ---
 
-## Week 5: Real-World Data Integration
+## Week 5: Real-world data integration
 
-### 1. Data Sources
-We selected two complementary datasets ($A \not\subseteq B$) to test our schema:
+Two openFDA snapshots provide **100 methylphenidate product listings** and **66 recall records**, accessed on 7 October 2026 under CC0. The catalogue snapshot was updated on 7 October 2026 and the recall snapshot on 30 September 2026. They cover product information and recall events, not student prescriptions.
 
-1. **Dataset 1: FDA Approved Drug Products (NDC Directory)**
-   * **Source:** U.S. FDA Open Data
-   * **License:** Public Domain
-   * **Usage:** Populates `StudyDrug` (52 rows). Contains real medication names (Adderall XR, Concerta, Vyvanse, Modafinil) and their pharmaceutical manufacturers.
+- [Product source snapshot](data/week5/ndc.json) and [recall source snapshot](data/week5/recalls.json).
+- [Week 5 report](docs/week5/Week5.tex): sources, cleaning, schema changes, normalization, verified query results and limitations.
+- [Import SQL](sql/05_real_world_data.sql) and [adapted queries](sql/06_real_world_queries.sql).
+- [FDA licence](https://open.fda.gov/license/), [product documentation](https://open.fda.gov/apis/drug/ndc/) and [recall documentation](https://open.fda.gov/apis/drug/enforcement/).
 
-2. **Dataset 2: Student Health & Prescription Records (Synthea Open Cohort)**
-   * **Source:** Synthea Open Health Records
-   * **License:** CC-BY 4.0
-   * **Usage:** Populates `Student` (60 rows), `Doctor` (12 rows), and `Prescription` (75 rows).
+After the Week 3 files, run `05_real_world_data.sql`, rerun the Week 3 queries, then run `06_real_world_queries.sql`. Use MySQL 8.0.16 or later. The import adds two FDA tables and preserves the fictional students, doctors and prescriptions. Repeating the import refreshes only the FDA tables. Verified on MySQL 8.4.0: 100 product rows and 66 recall rows match the source snapshots, repeat counts are unchanged, and the original queries still work.
 
-### 2. Data Cleaning & Transformation
-Before loading the data into MySQL, we cleaned and formatted it:
-* **Missing data:** Any raw prescription entries with missing dosages or tablet quantities were removed, since our schema requires `NOT NULL` and positive values.
-* **Dates:** All dates were formatted to SQL standard `YYYY-MM-DD`.
-* **Duplicates:** Repeated drug entries with different package IDs were deduplicated so that each drug name and producer pair is unique.
-* **Inconsistent naming:** Capitalization and spelling for doctor departments and drug names were standardized.
-
-### 3. Schema & Normalization Check (3NF)
-* All data satisfies our table constraints:
-  * Student age: 16–100
-  * Doctor age: 23–100
-  * Study year: 1–8
-  * Dosage and tablet quantity: > 0
-* The database remains in **3NF** — each non-key attribute depends only on the primary key, and there are no transitive dependencies.
-
-### 4. Query Testing
-We ran the 4 queries from Week 3 (`04_advanced_queries.sql`) on the new data:
-* **Query 1 (History JOIN):** Correctly lists all prescriptions with student, doctor, and drug names.
-* **Query 2 (Frequent drugs):** Groups drugs with $\ge 4$ prescriptions and sums total tablets.
-* **Query 3 (Students without prescriptions):** Successfully finds students in the registry who have not been prescribed any medication.
-* **Query 4 (Latest prescription per student):** Uses `ROW_NUMBER()` to return only the most recent prescription for each student.
+The product export is a 100-record sample, not the full catalogue. Source company labels are preserved, including spelling and punctuation variants. Product listing does not establish FDA approval, and neither dataset identifies student misuse. See the report for the exact source queries and limitations.

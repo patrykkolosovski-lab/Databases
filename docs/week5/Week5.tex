@@ -1,0 +1,91 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=2.2cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern,microtype,parskip}
+\usepackage{booktabs,tabularx,array}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,urlcolor=blue,linkcolor=blue}
+\setlength{\emergencystretch}{2em}
+\newcommand{\f}[1]{\texttt{\detokenize{#1}}}
+\begin{document}
+\begin{center}
+{\Large\bfseries Week 5: real-world data integration}\par
+Student Prescription Database
+\end{center}
+
+\section{Data sources}
+We chose two complementary FDA datasets about methylphenidate, a medicine relevant to our study-drug topic. The first describes listed drug products; the second describes product recalls. They come from different underlying systems (the NDC Directory and Recall Enterprise System), even though both are distributed by openFDA. Neither dataset is a subset of the other: a product listing and a recall record describe different kinds of facts.
+
+\textbf{Dataset A: NDC product catalogue.} We saved 100 records from a search for methylphenidate hydrochloride, out of 262 matching records reported by the API. This is a limited catalogue sample, not all matching products. Each saved record has a different product NDC. The snapshot's publication/update date is \textbf{7 October 2026}, as recorded in its \f{meta.last_updated} field. It includes tablets, capsules, solutions and powder entries; it is not restricted to approved finished prescription products.
+
+\textbf{Dataset B: drug recall enforcement records.} We saved all 66 records returned by a search for methylphenidate in product descriptions. Each has a different recall number. The snapshot's publication/update date is \textbf{30 September 2026}. Recall initiation dates range from 5 July 2011 to 17 June 2024; these are event dates, not dataset publication dates.
+
+Both snapshots were accessed on \textbf{7 October 2026}, require no registration or payment, and are available under openFDA's \textbf{CC0 1.0 public-domain dedication}. Source metadata and full original records remain in \f{data/week5/ndc.json} and \f{data/week5/recalls.json}. Repeating a live API request later may return different data, so our submitted snapshots are the reference for reproduction.
+
+\begin{itemize}
+\item \href{https://api.fda.gov/drug/ndc.json?search=generic_name:\%22METHYLPHENIDATE\%20HYDROCHLORIDE\%22\&limit=100}{Dataset A: exact product API request}; \href{https://open.fda.gov/apis/drug/ndc/}{NDC source documentation}.
+\item \href{https://api.fda.gov/drug/enforcement.json?search=product_description:methylphenidate\&limit=100}{Dataset B: exact recall API request}; \href{https://open.fda.gov/apis/drug/enforcement/}{recall source documentation}.
+\item \href{https://open.fda.gov/license/}{FDA data licence}; \href{https://creativecommons.org/publicdomain/zero/1.0/}{CC0 1.0 terms}.
+\end{itemize}
+
+\section{Cleaning and schema changes}
+The Week 3 student, doctor, drug and prescription rows remain fictional. We do not turn FDA records into invented students or prescriptions. Instead, the separate Week 5 SQL file adds two tables:
+
+\begin{itemize}
+\item \textbf{FDA\_Product:} product NDC (PK), generic name, labeler name, dosage form and marketing start date.
+\item \textbf{FDA\_Recall:} recall number (PK), classification, recall initiation date, product description, recalling firm and recall reason.
+\end{itemize}
+
+The original four tables need no additional changes for this import. There is no foreign key between the new tables: the snapshots do not provide a complete, verified one-to-one product match, and we do not infer one from names. The new tables extend the database's product context without changing the Week 2 student relationships.
+
+\begin{center}\small
+\begin{tabularx}{\textwidth}{@{}p{2.8cm}X@{}}\toprule
+Check & Finding and action\\\midrule
+Missing data & None in the selected fields of the 166 imported records. Other unselected JSON fields may be absent. Empty strings would become SQL NULL; required fields reject missing values.\\
+Dates & Source dates use YYYYMMDD. SQL converts them to DATE using STR\_TO\_DATE. All selected dates parsed successfully.\\
+Duplicates & Zero duplicate product NDCs and zero duplicate recall numbers. PKs prevent repeated keys; counts are 100 and 66 before and after import.\\
+Names & Capitalization and punctuation vary. We preserve original labels. For example, ``Pfizer Inc'' and ``Pfizer Inc.'' remain separate source labels; we do not assume a legal-entity match.\\
+Types and constraints & NDCs and recall numbers are text IDs, dates are DATE, and long descriptions/reasons are TEXT. Required fields and the recall-classification CHECK passed.\\\bottomrule
+\end{tabularx}\end{center}
+
+The SQL contains a projection of the original JSON records and uses JSON\_TABLE to select fields and convert dates. This keeps the import to one file, with no extra program or library. Full arrays such as package lists are retained in the source snapshot but are not imported. On a repeat run, only the two FDA tables are refreshed inside a transaction. The original mock tables are untouched.
+
+\section{Normalization update to Week 2}
+\textbf{1NF:} both new tables have one record per key and scalar fields. We do not store package or ingredient arrays as comma-separated columns. Product descriptions and recall reasons are kept as single source-text values; we do not treat embedded lists in narrative text as separate structured attributes.
+
+\textbf{2NF:} each new table has a single-column key. All selected attributes describe that product listing or recall record. No alternative composite key or partial dependency is assumed for these tables.
+
+\textbf{3NF:} under the documented rules, there is no further dependency between the selected non-key fields. We do not store separate company details, classification descriptions or drug-category details alongside them. A repeated name alone does not establish a functional dependency. Multiple product listings may share a name, producer or form while having different NDCs.
+
+No normal-form violations were found in the selected scalar fields, so no additional decomposition was needed. This is a field selection, not a claim that the original nested JSON is itself a relational table. The imported tables satisfy 3NF under these assumptions. The original four tables retain the Week 2 design. We would recheck dependencies if we later introduced stable company IDs, recall-event attributes or package-level data.
+
+\section{Queries and validation}
+We tested a fresh database on \textbf{MySQL 8.4.0 on 7 October 2026}. Every imported field was compared with its source value, allowing only the documented date conversion. All 100 product rows and 66 recall rows matched. A second import left counts unchanged. Duplicate product keys and an invalid recall classification were rejected.
+
+The Week 3 basic operations and all four advanced queries were rerun in the database containing the real-data tables. They still return mock results: 13 history rows, three frequent-drug summaries, two students without prescriptions and six latest-prescription rows. This was expected because the FDA sources do not contain individual student records. Those original queries needed no code changes, but their interpretation remains limited to the fictional data.
+
+The four explicitly marked adaptations in \f{sql/06_real_world_queries.sql} use the real records instead:
+
+\begin{center}\small
+\begin{tabularx}{\textwidth}{@{}p{3.4cm}X@{}}\toprule
+Query & Actual result and interpretation\\\midrule
+1. Product overview & 100 rows, one per NDC. Adds real product information rather than fictional prescription history.\\
+2. Products by form & Seven groups: extended-release tablets 25; extended-release capsules 21; tablets 20; solutions 12; powders 11; chewable tablets 7; film-coated extended-release tablets 4. Counts total 100.\\
+3. Recall classes & Class II: 53; Class III: 13. Counts total 66. There are no Class I records in this selection; this does not establish general safety.\\
+4. Latest recall by label & 14 rows, one for each exact recalling-firm label. Uses ROW\_NUMBER, with recall number as a date tie-break. Name variants can split the same firm into multiple groups.\\\bottomrule
+\end{tabularx}\end{center}
+
+These results matched expectations. They describe our saved selection and should not be interpreted as national prescribing frequency, student consumption or clinical risk. We do not join mock prescriptions to unrelated real FDA products.
+
+\section{Limitations and future work}
+The real data improves the product information behind our societal topic, but it does not resolve the central limitation of the stakeholder pitch: prescription patterns cannot establish misuse. As shown on slide 7 of the Week 4 video, we still cannot measure how widespread misuse is, why students use study drugs, or effects on wellbeing and grades. We lack student motives, diagnoses, actual consumption, academic pressure and medicines obtained outside healthcare. The catalogue sample is incomplete, the recall data concerns US products, and catalogue listing does not itself mean FDA approval. Recall records concern product issues rather than all adverse effects or misuse. Published recall status is not a reliable live tracking tool.
+
+For students and university support services, the database can demonstrate how records are organized and how product context can be explored. It cannot identify students who misuse medication or support decisions about an individual's treatment.
+
+The integration addresses the video's short-term aims of testing more examples and checking report accuracy. It does not yet measure changes in student use over time, and no student or staff feedback has been collected as part of this import. The FDA records also include forms other than tablets, so we keep them separate from the prescription model described on slide 8.
+
+\textbf{Short-term improvements:} expand the product selection, review company-name variants using verified identifiers, and document reliable NDC matches where available. \textbf{Longer-term improvements:} obtain suitable openly licensed aggregate student-use survey data and include programme, time and motivation information where the source allows it. These additions would address the societal question more directly than adding more fictional patients.
+
+\section*{Run the Week 5 files}
+After the Week 3 setup, run \f{sql/05_real_world_data.sql}, then rerun \f{sql/03_basic_operations.sql} and \f{sql/04_advanced_queries.sql}, and finally run \f{sql/06_real_world_queries.sql} in the same database. Source documentation is linked above, and the source snapshots are included in the repository. This report is the Week 5 supplement to the Week 2 normalization report.
+\end{document}

@@ -1,0 +1,4997 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-09-30",
+    "results": {
+      "skip": 0,
+      "limit": 100,
+      "total": 66
+    }
+  },
+  "results": [
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "75450",
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "address_1": "11960 SW 144th St",
+      "address_2": "",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide within the US",
+      "recall_number": "D-0429-2017",
+      "product_description": "Daytrana (methylphenidate transdermal system) Transdermal Patch, 20 mg over 9 hours (2.2 mg/hr), packaged in 30-count patches per box, Rx only, Manufactured by Noven Therapeutics, LLC, Miami, FL 33186; By Noven Pharmaceuticals, Inc., Miami, FL 33186, NDC 68968-5554-3.",
+      "product_quantity": "364,830 patches",
+      "reason_for_recall": "Defective Delivery System: Out of Specification (OOS) results for the mechanical peel force (MPF) and and/or the z-statistic values.",
+      "recall_initiation_date": "20160822",
+      "center_classification_date": "20170110",
+      "termination_date": "20190320",
+      "report_date": "20170118",
+      "code_info": "Lot #: 79230, Exp. 02/2017; 77547, Exp.07/2016",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "67718",
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide.",
+      "recall_number": "D-1172-2014",
+      "product_description": "Daytrana (methylphenidate) transdermal system patch, Delivers 30 mg over 9 hours (3.3mg/hr), 1patch per pouch , packaged in 30-count patches per box, Rx Only.Manufactured for Noven Therapeutics, LLC, Miami, FL 33186, By Noven Pharmaceuticals, Inc., Miami, FL 33186. NDC 68968-5555-3.",
+      "product_quantity": "117,600 patches",
+      "reason_for_recall": "Defective Delivery System: Out of Specification (OOS) results for the z-statistic value, which relates to the patients and caregiver ability to remove the release liner from the patch adhesive prior to administration, were obtained.",
+      "recall_initiation_date": "20140213",
+      "center_classification_date": "20140320",
+      "termination_date": "20190319",
+      "report_date": "20140326",
+      "code_info": "Lot #70132, Exp. 09/14",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "71201",
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide",
+      "recall_number": "D-1086-2015",
+      "product_description": "Daytrana (methylphenidate transdermal system), Delivers 30 mg over 9 hours (3.3mg/hr), CII, 30 patches per box, Manufactured for Noven Therapeutics LLC, Miami, FL 33186, by Noven Pharmaceuticals Inc., Miami, FL 33186, NDC # 68968-5555-3",
+      "product_quantity": "125,340 Patches",
+      "reason_for_recall": "Defective Delivery System: One lot exceeded the mechanical peel specification",
+      "recall_initiation_date": "20150112",
+      "center_classification_date": "20150528",
+      "termination_date": "20190319",
+      "report_date": "20150603",
+      "code_info": "Lot # 73346, Exp 03/2015",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "73718",
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "address_1": "11960 SW 144th St",
+      "address_2": "",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide",
+      "recall_number": "D-1439-2016",
+      "product_description": "Daytrana (methylphenidate transdermal system) Transdermal Patch, 20 mg over 9 hours (2.2 mg/hr), packaged in 30-count patches per box, Rx only, Manufactured by Noven Therapeutics, LLC, Miami, FL  33186; By Noven Pharmaceuticals, Inc., Miami, FL  33186, NDC 68968-5554-3.",
+      "product_quantity": "2088 boxes",
+      "reason_for_recall": "Defective Delivery System: Out of Specification (OOS) results for the mechanical peel force (MPF) and z-statistic value which relates to the patients and caregiver ability to remove the release liner from the patch adhesive prior to administration.",
+      "recall_initiation_date": "20151221",
+      "center_classification_date": "20160714",
+      "termination_date": "20190319",
+      "report_date": "20160720",
+      "code_info": "Lot # 77140, Exp 05/16",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "72174",
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "address_1": "11960 SW 144th St",
+      "address_2": "N/A",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Two or more of the following: Email, Fax, Letter, Press Release, Telephone, Visit",
+      "distribution_pattern": "US Nationwide",
+      "recall_number": "D-0008-2016",
+      "product_description": "Daytrana (methylphenidate transdermal system), 30 mg over 9 Hour Patches (3.3 mg/hr), 30 Ct Carton, Rx Only, Manufactured for: Noven Therapies, LLC., Miami, FL 33186, by: Noven Pharmaceuticals, Inc., Miami, FL 33186. NDC: 68968-5555-3",
+      "product_quantity": "125,250 Patches",
+      "reason_for_recall": "Defective Delivery System: Out of specification for z-statistic related to mechanical peel force.",
+      "recall_initiation_date": "20150727",
+      "center_classification_date": "20151006",
+      "termination_date": "20190320",
+      "report_date": "20151014",
+      "code_info": "Lot #: 75983, Expiry: 11/15"
+    },
+    {
+      "status": "Terminated",
+      "city": "Peapack",
+      "state": "NJ",
+      "country": "United States",
+      "classification": "Class III",
+      "openfda": {},
+      "product_type": "Drugs",
+      "event_id": "76663",
+      "recalling_firm": "Pfizer Inc",
+      "address_1": "100 North Route 206",
+      "address_2": "",
+      "postal_code": "07977",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide within US",
+      "recall_number": "D-0608-2017",
+      "product_description": "Quillivant XR (methylphenidate HCl) for extended-release oral suspension, 750 mg/150 mL (25mg/5mL), Rx Only, Distributed by: NextWave Pharmaceuticals, Inc. A subsidiary of Pfizer Inc, New York, NY 10017  Manufactured by: Tris Pharma, Inc., Monmouth Junction, NJ 08852 (NDC 24478-205-25).",
+      "product_quantity": "11,862 units",
+      "reason_for_recall": "Failed Dissolution Specifications: Dissolution at 8 hour was out of specification at 12 month at 25 degree Celsius.",
+      "recall_initiation_date": "20170307",
+      "center_classification_date": "20170322",
+      "termination_date": "20190531",
+      "report_date": "20170329",
+      "code_info": "Lot #: 03216026A, Exp. 02/18",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "85357",
+      "recalling_firm": "Noven Therapeutics, LLC",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "N/A",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Distributed Nationwide in the US",
+      "recall_number": "D-1247-2020",
+      "product_description": "Daytrana (methylphenidate transdermal system) Delivers 10 mg over 9 hours (1.1 mg/hr), 30-count box, Rx only, Manufactured for Noven Therapeutics, LLC Miami, FL 33186, NDC 68968-5552-3",
+      "product_quantity": "7957 30-count boxes",
+      "reason_for_recall": "Defective Delivery System: Out of specification for mechanical peel and shear.",
+      "recall_initiation_date": "20200331",
+      "center_classification_date": "20200417",
+      "termination_date": "20240617",
+      "report_date": "20200429",
+      "code_info": "Lot: 86647 Exp. 09/2020"
+    },
+    {
+      "status": "Terminated",
+      "city": "Newtown",
+      "state": "PA",
+      "country": "United States",
+      "classification": "Class III",
+      "openfda": {},
+      "product_type": "Drugs",
+      "event_id": "83851",
+      "recalling_firm": "KVK-Tech, Inc.",
+      "address_1": "110 Terry Dr",
+      "address_2": "N/A",
+      "postal_code": "18940-3427",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide in the U.S.",
+      "recall_number": "D-0142-2020",
+      "product_description": "Methylphenidate Hydrochloride Oral Solution 5mg per 5mL, 500 mL Bottle, Sugar Free Alcohol Free, Rx Only, Mfd by: KVK Tech, Inc., Newtown, PA 18940, NDC 10702-0163-50.",
+      "product_quantity": "384 bottles",
+      "reason_for_recall": "Presence of Foreign Substance; Fiber particles.",
+      "recall_initiation_date": "20191004",
+      "center_classification_date": "20191015",
+      "termination_date": "20200420",
+      "report_date": "20191023",
+      "code_info": "Batch # 15315A, Exp. 02/2021"
+    },
+    {
+      "status": "Ongoing",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "90162",
+      "recalling_firm": "Noven Pharmaceuticals Inc",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide to the U.S. Market",
+      "recall_number": "D-0889-2022",
+      "product_description": "Daytrana (methylphenidate transdermal system) Delivers 10 mg over 9 hours (1.1 mg/hr) Contains: 30 Patches, Rx only, Manufactured for Noven Therapeutics, LLC, Miami, FL 33186, By Noven Pharmaceuticals, Inc., Miami, FL, 33186, NDC 68968-5552-3",
+      "product_quantity": "274, 110 patches",
+      "reason_for_recall": "Defective Delivery System: customer complaints exceeded respective action limits.",
+      "recall_initiation_date": "20220506",
+      "center_classification_date": "20220520",
+      "report_date": "20220601",
+      "code_info": "Lot: 90764 Exp. 08/2022",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "73718",
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "address_1": "11960 SW 144th St",
+      "address_2": "",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide",
+      "recall_number": "D-1438-2016",
+      "product_description": "Daytrana (methylphenidate transdermal system) Transdermal Patch, 15 mg over 9 hours (1.6 mg/hr), packaged in 30-count patches per box, Rx only, Manufactured by Noven Therapeutics, LLC, Miami, FL  33186; By Noven Pharmaceuticals, Inc., Miami, FL  33186, NDC 68968-5553-3.",
+      "product_quantity": "7850 boxes",
+      "reason_for_recall": "Defective Delivery System: Out of Specification (OOS) results for the mechanical peel force (MPF) and z-statistic value which relates to the patients and caregiver ability to remove the release liner from the patch adhesive prior to administration.",
+      "recall_initiation_date": "20151221",
+      "center_classification_date": "20160714",
+      "termination_date": "20190319",
+      "report_date": "20160720",
+      "code_info": "Lot #: 77303, Exp 06/16",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "New York",
+      "state": "NY",
+      "country": "United States",
+      "classification": "Class III",
+      "openfda": {},
+      "product_type": "Drugs",
+      "event_id": "77862",
+      "recalling_firm": "Pfizer Inc.",
+      "address_1": "235 E 42nd St",
+      "address_2": "N/A",
+      "postal_code": "10017-5703",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide",
+      "recall_number": "D-1164-2017",
+      "product_description": "Quillivant XR methylphenidate HCl, for extended-release oral suspension, 750mg/150 mL total volume (When constituted with 131 mL of water, 25 mg/5 mL (5 mg/mL) when reconstituted,   Rx Only, Distributed by Nextwave Pharmaceuticals, Inc. A subsidiary of Pfizer Inc., New York, NY 10017, Manufactured by Tris Pharma, Inc., Monmouth Junction, NJ 08852, NDC 24478-200-25.",
+      "product_quantity": "11,790 bottles",
+      "reason_for_recall": "Failed Dissolution Specifications",
+      "recall_initiation_date": "20170804",
+      "center_classification_date": "20170915",
+      "termination_date": "20190411",
+      "report_date": "20170927",
+      "code_info": "Lot # 03216047A Exp.  02/18",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "62530",
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "N/A",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide and Puerto Rico.",
+      "recall_number": "D-1655-2012",
+      "product_description": "Daytrana (methylphenidate) transdermal system patch, Delivers 15 mg over 9 hours (1.6 mg/hr), 1 patch per pouch, packaged in 30-count patches per box, Rx only, Manufactured for Noven Therapeutics, LLC, Miami, FL 33186, By Noven Pharmaceuticals, Inc., Miami, FL 33186, NDC 68968-5553-3.",
+      "product_quantity": "231,270 patches",
+      "reason_for_recall": "Miscalibrated and/or Defective Delivery System: Out of Specification results for mechanical peel force and/or the z-statistic value which relates to the patient's ability to remove the release liner from the patch adhesive prior to administration.",
+      "recall_initiation_date": "20120712",
+      "center_classification_date": "20120817",
+      "termination_date": "20140804",
+      "report_date": "20120829",
+      "code_info": "Lot #53823, Exp 08/12"
+    },
+    {
+      "status": "Ongoing",
+      "city": "East Brunswick",
+      "state": "NJ",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "ANDA205756"
+        ],
+        "brand_name": [
+          "METHYLPHENIDATE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Rising Pharma Holdings, Inc."
+        ],
+        "product_ndc": [
+          "64980-221",
+          "64980-222",
+          "64980-223"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1091152",
+          "1091322",
+          "1091389"
+        ],
+        "spl_id": [
+          "85d614b0-888e-461f-bc7d-3f240ed8bd0e"
+        ],
+        "spl_set_id": [
+          "e5cb0740-813f-4dce-8c29-d7680c66e77c"
+        ],
+        "package_ndc": [
+          "64980-221-01",
+          "64980-222-01",
+          "64980-223-01"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "89545",
+      "recalling_firm": "RISING PHARMACEUTICALS",
+      "address_1": "2 Tower Center Blvd",
+      "address_2": "",
+      "postal_code": "08816-1100",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide in the USA",
+      "recall_number": "D-0573-2022",
+      "product_description": "Methylphenidate Hydrochloride Chewable Tablets, 2.5 mg, 100-count bottle, Rx Only, Manufactured for: Rising Pharmaceuticals Inc., Saddle Brook, NJ 07863, NDC 64980-221-01",
+      "product_quantity": "2220 100-count bottles",
+      "reason_for_recall": "Failed Tablet Specifications: Recall of this drug product was voluntarily initiated by the manufacturer due to a market complaint, which stated that a tablet in the sealed bottle was twice larger in size when compared to the remaining tablets. This complaint is second of its kind.",
+      "recall_initiation_date": "20220207",
+      "center_classification_date": "20220222",
+      "report_date": "20220302",
+      "code_info": "lot# 25910009, Exp 01/2023",
+      "more_code_info": ""
+    },
+    {
+      "country": "United States",
+      "city": "Miami",
+      "address_1": "11960 Sw 144th St",
+      "reason_for_recall": "Miscalibrated and/or Defective Delivery System: Out of Specification results for mechanical peel force and/or the z-statistic value which relates to the patient's ability to remove the release liner from the patch adhesive prior to administration.",
+      "address_2": "",
+      "product_quantity": "244,320 patches",
+      "code_info": "Lot #: 43783, Exp 01/12",
+      "center_classification_date": "20120614",
+      "distribution_pattern": "Nationwide and Puerto Rico.",
+      "state": "FL",
+      "product_description": "Daytrana (methylphenidate) transdermal system patch, Delivers 15 mg over 9 hours (1.6 mg/hr), 1 patch per pouch (NDC 54092-553-01), packaged in 30-count patches per box (NDC 54092-553-30), Rx only, Manufactured for Shire US Inc., Wayne, PA  19087; by Noven Pharmaceuticals, Inc., Miami, FL  33186.",
+      "report_date": "20120620",
+      "classification": "Class II",
+      "openfda": {},
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "recall_number": "D-1374-2012",
+      "initial_firm_notification": "Letter",
+      "product_type": "Drugs",
+      "event_id": "61891",
+      "termination_date": "20130523",
+      "more_code_info": "",
+      "recall_initiation_date": "20110705",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "status": "Terminated"
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "85128",
+      "recalling_firm": "Noven Therapeutics, LLC",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "U.S.A. Nationwide",
+      "recall_number": "D-1044-2020",
+      "product_description": "Daytrana (methylphenidate transdermal system) patches, Delivers 20 mg over 9 hours (2.2 mg/hr), 30-count box, Rx only, Manufactured for Noven Therapeutics, LLC. Miami, FL 33186, NDC 68968-5554-3",
+      "product_quantity": "11093 boxes",
+      "reason_for_recall": "Defective Delivery System: Out of specification for mechanical peel and shear.",
+      "recall_initiation_date": "20200302",
+      "center_classification_date": "20200319",
+      "termination_date": "20230518",
+      "report_date": "20200325",
+      "code_info": "Lo#t: 86081, Exp 04/2020; 86196, Exp 06/2020",
+      "more_code_info": ""
+    },
+    {
+      "status": "Ongoing",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "90506",
+      "recalling_firm": "Noven Pharmaceuticals Inc",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Distributed Nationwide in the USA",
+      "recall_number": "D-1169-2022",
+      "product_description": "Daytrana (methylphenidate transdermal system) Delivers 10 mg over 9 hours (1.1 mg/hr) Contains: 30 Patches, Rx only, Manufactured for Noven Therapeutics, LLC, Miami, FL 33186 By Noven Pharmaceuticals, Inc., Miami, FL 33186. NDC 68968-5552-3",
+      "product_quantity": "8,559 cartons",
+      "reason_for_recall": "Defective Delivery System: Customer complaints received for ripping patches and tight release/adhesive transfer.",
+      "recall_initiation_date": "20220624",
+      "center_classification_date": "20220629",
+      "report_date": "20220706",
+      "code_info": "Lot: 91272 Exp. 12/22.",
+      "more_code_info": ""
+    },
+    {
+      "status": "Ongoing",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "91882",
+      "recalling_firm": "Noven Pharmaceuticals Inc",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "N/A",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "US Nationwide",
+      "recall_number": "D-0473-2023",
+      "product_description": "Daytrana (methylphenidate transdermal system) CII, 30 mg, 30-count carton, Rx only, Manufactured for Noven Therapeutics, LLC., Miami by Noven Pharmaceuticals, Inc., NDC 68968-5555-3",
+      "product_quantity": "N/A",
+      "reason_for_recall": "Defective Delivery System: Out of specification for shear.",
+      "recall_initiation_date": "20230310",
+      "center_classification_date": "20230320",
+      "report_date": "20230329",
+      "code_info": "Lot#: 91474, 91959, Exp. 3/2023; 91958, Exp. 6/2023; 92478, Exp. 7/2023; 92479 & 92198, Exp. 8/2023; 92199, 93040, Exp. 9/2023; 93041, Exp. 10/2023."
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "69277",
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "N/A",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide.",
+      "recall_number": "D-1608-2014",
+      "product_description": "Daytrana (methylphenidate transdermal system) patch, Delivers 20 mg over 9 hours (2.2mg/hr), 1 patch per pouch , packaged in 30-count patches per box, Rx Only. Manufactured for Noven Therapeutics, LLC, Miami, FL 33186, By Noven Pharmaceuticals, Inc., Miami, FL 33186.  NDC 68968-5554-3.",
+      "product_quantity": "160,800 patches",
+      "reason_for_recall": "Defective Delivery System: Out of Specification (OOS) results for the mechanical peel force (MPF) and z-statistic value which relates to the patients and caregiver ability to remove the release liner from the patch adhesive prior to administration.",
+      "recall_initiation_date": "20140715",
+      "center_classification_date": "20140923",
+      "termination_date": "20190319",
+      "report_date": "20141001",
+      "code_info": "Lot # 71165; Exp. 12/14"
+    },
+    {
+      "status": "Terminated",
+      "city": "New York",
+      "state": "NY",
+      "country": "United States",
+      "classification": "Class III",
+      "openfda": {},
+      "product_type": "Drugs",
+      "event_id": "77862",
+      "recalling_firm": "Pfizer Inc.",
+      "address_1": "235 E 42nd St",
+      "address_2": "N/A",
+      "postal_code": "10017-5703",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide",
+      "recall_number": "D-1163-2017",
+      "product_description": "Quillivant XR methylphenidate HCl, for extended-release oral suspension, 600 mg/120 mL total volume (When constituted with 105 mL of water, 25 mg/5 mL (5 mg/mL) when reconstituted,   Rx Only, Distributed by Nextwave Pharmaceuticals, Inc. A subsidiary of Pfizer Inc., New York, NY 10017, Manufactured by Tris Pharma, Inc., Monmouth Junction, NJ 08852, NDC 24478-200-20.",
+      "product_quantity": "14,712 bottles",
+      "reason_for_recall": "Failed Dissolution Specifications",
+      "recall_initiation_date": "20170804",
+      "center_classification_date": "20170915",
+      "termination_date": "20190411",
+      "report_date": "20170927",
+      "code_info": "Lot # 03216048A, Exp.  05/18",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "67718",
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide.",
+      "recall_number": "D-1171-2014",
+      "product_description": "Daytrana (methylphenidate) transdermal system patch, Delivers 20 mg over 9 hours (2.2mg/hr), 1 patch per pouch , packaged in 30-count patches per box, Rx Only. Manufactured for Noven Therapeutics, LLC, Miami, FL 33186, By Noven Pharmaceuticals, Inc., Miami, FL 33186.  NDC 68968-5554-3.",
+      "product_quantity": "187,860 patches",
+      "reason_for_recall": "Defective Delivery System: Out of Specification (OOS) results for the z-statistic value, which relates to the patients and caregiver ability to remove the release liner from the patch adhesive prior to administration, were obtained.",
+      "recall_initiation_date": "20140213",
+      "center_classification_date": "20140320",
+      "termination_date": "20190319",
+      "report_date": "20140326",
+      "code_info": "Lot #69618, Exp. 09/14",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "62530",
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "N/A",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide and Puerto Rico.",
+      "recall_number": "D-1653-2012",
+      "product_description": "Daytrana (methylphenidate) transdermal system patch, Delivers 20 mg over 9 hours (2.2 mg/hr), 1 patch per pouch, packaged in 30-count patches per box, Rx only, Manufactured for Noven Therapeutics, LLC, Miami, FL 33186, By Noven Pharmaceuticals, Inc., Miami, FL 33186; NDC 68968-5554-3.",
+      "product_quantity": "177,900 patches",
+      "reason_for_recall": "Miscalibrated and/or Defective Delivery System: Out of Specification results for mechanical peel force and/or the z-statistic value which relates to the patient's ability to remove the release liner from the patch adhesive prior to administration.",
+      "recall_initiation_date": "20120712",
+      "center_classification_date": "20120817",
+      "termination_date": "20140804",
+      "report_date": "20120829",
+      "code_info": "Lot # 55302, Exp 12/12"
+    },
+    {
+      "status": "Terminated",
+      "city": "Princeton",
+      "state": "NJ",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "ANDA090710"
+        ],
+        "brand_name": [
+          "METHYLPHENIDATE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Sun Pharmaceutical Industries, Inc."
+        ],
+        "product_ndc": [
+          "57664-228",
+          "57664-229",
+          "57664-230"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1091150",
+          "1091392",
+          "1091497"
+        ],
+        "spl_id": [
+          "2f1c1df8-491a-08c9-e063-6394a90a1d06"
+        ],
+        "spl_set_id": [
+          "1a89b390-0cd5-45cb-9e70-20de44652c56"
+        ],
+        "package_ndc": [
+          "57664-228-83",
+          "57664-228-88",
+          "57664-228-08",
+          "57664-228-13",
+          "57664-228-18",
+          "57664-229-83",
+          "57664-229-88",
+          "57664-229-08",
+          "57664-229-13",
+          "57664-229-18",
+          "57664-230-83",
+          "57664-230-88",
+          "57664-230-08",
+          "57664-230-13",
+          "57664-230-18"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0357664228883",
+          "0357664229880",
+          "0357664230886"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "92680",
+      "recalling_firm": "SUN PHARMACEUTICAL INDUSTRIES INC",
+      "address_1": "2 Independence Way",
+      "address_2": "N/A",
+      "postal_code": "08540-6620",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide",
+      "recall_number": "D-0940-2023",
+      "product_description": "Methylphenidate Hydrochloride Tablets, USP 20mg, Rx Only, 100 Tablets per bottle, Manufactured by: Ohm Laboratories Inc., New Brunswick, NJ 08901, Distributed by: Sun Pharmaceutical Industries Inc., Cranbury, NJ 08512, NDC 57664-230-88.",
+      "product_quantity": "7313 bottles",
+      "reason_for_recall": "Presence of Foreign Substance: Metal embedded in a tablet.",
+      "recall_initiation_date": "20230713",
+      "center_classification_date": "20230724",
+      "termination_date": "20240212",
+      "report_date": "20230802",
+      "code_info": "Lot AC74459, Exp 07/31/2024"
+    },
+    {
+      "status": "Terminated",
+      "city": "Marietta",
+      "state": "GA",
+      "country": "United States",
+      "classification": "Class III",
+      "openfda": {
+        "application_number": [
+          "ANDA205327"
+        ],
+        "brand_name": [
+          "METHYLPHENIDATE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Trigen Laboratories, LLC"
+        ],
+        "product_ndc": [
+          "13811-706",
+          "13811-709",
+          "13811-707",
+          "13811-708",
+          "13811-710"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1091155",
+          "1091170",
+          "1091185",
+          "1091210",
+          "1995461"
+        ],
+        "spl_id": [
+          "0944cf70-d59a-483b-9698-e96ef955a65a"
+        ],
+        "spl_set_id": [
+          "c45dc1de-adfa-4b3c-a7dc-cffbc8eac74f"
+        ],
+        "package_ndc": [
+          "13811-709-10",
+          "13811-706-10",
+          "13811-707-10",
+          "13811-708-10",
+          "13811-710-10",
+          "13811-710-30"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0313811706109",
+          "0313811708103"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "78764",
+      "recalling_firm": "Osmotica Pharmaceutical Corp",
+      "address_1": "895 Sawyer Rd",
+      "address_2": "",
+      "postal_code": "30062-2257",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide",
+      "recall_number": "D-0110-2018",
+      "product_description": "Methylphenidate Hydrochloride Extended-release Tablets, USP 27 mg, 100-count bottles,  Rx Only, Trigen Laboratories, LLC. Bridgewater, NJ 08807, NDC 13811-707-10",
+      "product_quantity": "10064 bottles",
+      "reason_for_recall": "Subpotent Drug",
+      "recall_initiation_date": "20171218",
+      "center_classification_date": "20171220",
+      "termination_date": "20190501",
+      "report_date": "20171227",
+      "code_info": "Lot #: 170027A, Exp. 02/2019",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Alpharetta",
+      "state": "GA",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "ANDA205327"
+        ],
+        "brand_name": [
+          "METHYLPHENIDATE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Trigen Laboratories, LLC"
+        ],
+        "product_ndc": [
+          "13811-706",
+          "13811-709",
+          "13811-707",
+          "13811-708",
+          "13811-710"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1091155",
+          "1091170",
+          "1091185",
+          "1091210",
+          "1995461"
+        ],
+        "spl_id": [
+          "0944cf70-d59a-483b-9698-e96ef955a65a"
+        ],
+        "spl_set_id": [
+          "c45dc1de-adfa-4b3c-a7dc-cffbc8eac74f"
+        ],
+        "package_ndc": [
+          "13811-709-10",
+          "13811-706-10",
+          "13811-707-10",
+          "13811-708-10",
+          "13811-710-10",
+          "13811-710-30"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0313811706109",
+          "0313811708103"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "94818",
+      "recalling_firm": "Trigen Laboratories",
+      "address_1": "1880 Mcfarland Pkwy",
+      "address_2": "ste 110",
+      "postal_code": "30005-1794",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide in the USA",
+      "recall_number": "D-0579-2024",
+      "product_description": "Methylphenidate Hydrochloride, Extended-release Tablets, USP, 36mg, 100-count Bottle, Rx Only, Manufactured for: Trigen Laboratories, LLC, Alpharetta, GA 30005, NDC 13811-708-10",
+      "product_quantity": "10,448 100-count bottles",
+      "reason_for_recall": "Failed dissolution specifications: this product is being recalled due to this batch not meeting dissolution specifications.",
+      "recall_initiation_date": "20240617",
+      "center_classification_date": "20240702",
+      "termination_date": "20250923",
+      "report_date": "20240710",
+      "code_info": "Lot 230159M, Exp Date 2/28/2026"
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "85357",
+      "recalling_firm": "Noven Therapeutics, LLC",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "N/A",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Distributed Nationwide in the US",
+      "recall_number": "D-1248-2020",
+      "product_description": "Daytrana (methylphenidate transdermal system) Delivers 20 mg over 9 hours (2.2 mg/hr) 30-count box, Rx only, Manufactured for Noven Therapeutics, LLC Miami, FL 33186, NDC 68968-5554-3",
+      "product_quantity": "5,614 30-count boxes",
+      "reason_for_recall": "Defective Delivery System: Out of specification for mechanical peel and shear.",
+      "recall_initiation_date": "20200331",
+      "center_classification_date": "20200417",
+      "termination_date": "20240617",
+      "report_date": "20200429",
+      "code_info": "Lot: 86354 Exp. 08/2020"
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "85357",
+      "recalling_firm": "Noven Therapeutics, LLC",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "N/A",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Distributed Nationwide in the US",
+      "recall_number": "D-1249-2020",
+      "product_description": "Daytrana (methylphenidate transdermal system) Delivers 30 mg over 9 hours (3.3 mg/hr) 30-count box, Rx only, Manufactured for Noven Therapeutics, LLC Miami, FL 33186, NDC 68968-5555-3",
+      "product_quantity": "14,142 30-count boxes",
+      "reason_for_recall": "Defective Delivery System: Out of specification for mechanical peel and shear.",
+      "recall_initiation_date": "20200331",
+      "center_classification_date": "20200417",
+      "termination_date": "20240617",
+      "report_date": "20200429",
+      "code_info": "Lots: 86355 Exp. 07/2020; 86356 Exp.08/2020; 86550 Exp. 07/2020; 87348 Exp. 01/2021; 87965 Exp. 01/2021"
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3",
+          "68968-5554-01"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "62002",
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Two or more of the following: Email, Fax, Letter, Press Release, Telephone, Visit",
+      "distribution_pattern": "Nationwide and Puerto Rico",
+      "recall_number": "D-1413-2012",
+      "product_description": "Daytrana (Methylphenidate) Transdermal System Patch, Delivers 20 mg over 9 hours (2. 2 mg/hr), 1 patch per pouch (NDC 68968-5554-01) packaged in 3-count patches per box (NDC 68968-5554-3) , Rx only, Manufactured  for Shire US Inc., Wayne, PA 19087 by Noven Pharmaceuticals, Inc., Miami, FL 33816.08/04/12.",
+      "product_quantity": "185,160 patches",
+      "reason_for_recall": "Miscalibrated/Defective Delivery System; exceeded the specification for both mechanical peel force (MPF) and/or the z-statistic value",
+      "recall_initiation_date": "20120322",
+      "center_classification_date": "20120712",
+      "termination_date": "20140509",
+      "report_date": "20120718",
+      "code_info": "Lot # 53995",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "87373",
+      "recalling_firm": "Noven Pharmaceuticals Inc",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide in the USA",
+      "recall_number": "D-0296-2021",
+      "product_description": "Daytrana (methylphenidate transdermal system) Delivers 30 mg over 9 hours (3.3 mg/hr) Contains: 30 Patches in a foil-sealed polypropylene tray,  packed in a paper carton, Rx only, Manufactured for Noven Therapeutics, LLC, Miami, FL, 33186, By Noven Pharmaceuticals, Inc., Miami, FL, 33186, NDC 68968-5555-3.",
+      "product_quantity": "934,140 patches",
+      "reason_for_recall": "Defective Delivery System: Out of specification for mechanical peel.",
+      "recall_initiation_date": "20210219",
+      "center_classification_date": "20210303",
+      "termination_date": "20240705",
+      "report_date": "20210310",
+      "code_info": "Lots #: 87377, Exp 3/2021, 87572, Exp 3/2021, 87581, Exp 4/2021, 87820, Exp 5/2021, 88246, Exp 6/2021, 88535, Exp 7/2021, 88536, Exp 8/2021, 88537, Exp 8/2021 & 88939, Exp 8/2021.",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "79781",
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "address_1": "11960 SW 144th St",
+      "address_2": "",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide.",
+      "recall_number": "D-0627-2018",
+      "product_description": "Daytrana (methylphenidate transdermal system) Delivers 10 mg over 9 hours (1.1 mg/hr) Contains: 30 Patches Rx Only NDC 68968-5552-3 Manufactured for Noven Therapeutics, LLC., Miami, FL 33186 by Noven Pharmaceuticals, Inc. Miami, FL 33186 1-877-567-7857",
+      "product_quantity": "9016 boxes of 30 patch each",
+      "reason_for_recall": "Defective Delivery System: Out of specification for adhesive transfer.",
+      "recall_initiation_date": "20180409",
+      "center_classification_date": "20180413",
+      "termination_date": "20200124",
+      "report_date": "20180425",
+      "code_info": "Lot #: 82237 Exp. May 31, 2018",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Sellersville",
+      "state": "PA",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {},
+      "product_type": "Drugs",
+      "event_id": "65515",
+      "recalling_firm": "Teva Pharmaceuticals USA, Inc.",
+      "address_1": "650 Cathill Rd",
+      "address_2": "N/A",
+      "postal_code": "18960-1512",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide",
+      "recall_number": "D-849-2013",
+      "product_description": "Methylphenidate Hydrochloride Extended-Release Capsules (LA), 40 mg, 100 count bottle, Rx only, TEVA PHARMACEUTICALS USA, NDC 0093-5348-01",
+      "product_quantity": "7,579 bottles",
+      "reason_for_recall": "Failed Dissolution Specifications: Product is being recalled due to out of specification dissolution results obtained during routine stability testing.",
+      "recall_initiation_date": "20130618",
+      "center_classification_date": "20130807",
+      "termination_date": "20140827",
+      "report_date": "20130814",
+      "code_info": "34010287A, 34010288A, 34010289A, exp 4/2014; 34011513A, 34011514A, and 34011515A, exp 06/14."
+    },
+    {
+      "status": "Terminated",
+      "city": "Sellersville",
+      "state": "PA",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {},
+      "product_type": "Drugs",
+      "event_id": "65515",
+      "recalling_firm": "Teva Pharmaceuticals USA, Inc.",
+      "address_1": "650 Cathill Rd",
+      "address_2": "N/A",
+      "postal_code": "18960-1512",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide",
+      "recall_number": "D-847-2013",
+      "product_description": "Methylphenidate Hydrochloride Extended-Release Capsules (LA), 20 mg, 100 count bottle, Rx only, TEVA PHARMACEUTICALS USA, NDC 0093-5346-01",
+      "product_quantity": "16,293 bottles",
+      "reason_for_recall": "Failed Dissolution Specifications: Product is being recalled due to out of specification dissolution results obtained during routine stability testing.",
+      "recall_initiation_date": "20130618",
+      "center_classification_date": "20130807",
+      "termination_date": "20140827",
+      "report_date": "20130814",
+      "code_info": "34010282A, 34010283A, 34010284A, 34010285A, 34010286A and 34010565A, exp 04/14; 34013199A, 34013200A, 34013201A, 34013202A and 34013203A, exp 10/14."
+    },
+    {
+      "status": "Terminated",
+      "city": "Suffern",
+      "state": "NY",
+      "country": "United States",
+      "classification": "Class III",
+      "openfda": {},
+      "product_type": "Drugs",
+      "event_id": "67633",
+      "recalling_firm": "Novartis Pharmaceuticals Corp.",
+      "address_1": "25 Old Mill Rd",
+      "address_2": "N/A",
+      "postal_code": "10901-4106",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide and Puerto Rico",
+      "recall_number": "D-1227-2014",
+      "product_description": "Ritalin HCl (methylphenidate HCl) USP, 10 mg, 100 tablets per Bottle, Rx only, Mfd. by: Novartis Pharmaceuticals Corp. Suffern, NY 10901, Dist. by: Novartis Pharmaceuticals Corp. East Hanover, New Jersey 07936, NDC 0078-0440-05",
+      "product_quantity": "10,930 Bottles",
+      "reason_for_recall": "Labeling: Incorrect or Missing Package Insert; The back of the Medication Guide attached to the Package Insert for Ritalin Tablets was printed with information related to Ritalin SR (Sustained Release) Tablets.  Both products, Ritalin Tablets and Ritalin SR Tablets utilize a combined Package Insert.  The individual Medication Guides are attached to the Package Insert via a perforation.  Although t",
+      "recall_initiation_date": "20140303",
+      "center_classification_date": "20140408",
+      "termination_date": "20141202",
+      "report_date": "20140416",
+      "code_info": "Lot #: F0126"
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "78021",
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "address_1": "11960 SW 144th St",
+      "address_2": "N/A",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide.",
+      "recall_number": "D-1171-2017",
+      "product_description": "Daytrana (methylphenidate transdermal system) Delivers 30 mg over 9 hours (3.3 mg/hr) Rx Only Contains: 30 Patches  Manufactured for: Noven Therapeutics, LLC. Miami, FL 33186 By Noven Pharmaceuticals, Inc., Miami, FL 33186, NDC# 68968-5555-3",
+      "product_quantity": "331,950 patches",
+      "reason_for_recall": "Defective Delivery System: Products no longer meet the release liner removal specification and/or z-statistic.",
+      "recall_initiation_date": "20170830",
+      "center_classification_date": "20170918",
+      "termination_date": "20200124",
+      "report_date": "20170927",
+      "code_info": "Lot: 80442 Exp. 10/17   Lot: 80439 Exp. 08/17  Lot: 80438 Exp. 08/17",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Sellersville",
+      "state": "PA",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {},
+      "product_type": "Drugs",
+      "event_id": "65515",
+      "recalling_firm": "Teva Pharmaceuticals USA, Inc.",
+      "address_1": "650 Cathill Rd",
+      "address_2": "N/A",
+      "postal_code": "18960-1512",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide",
+      "recall_number": "D-848-2013",
+      "product_description": "Methylphenidate Hydrochloride Extended-Release Capsules (LA), 30 mg, 100 count bottle, Rx only, TEVA PHARMACEUTICALS USA, NDC 0093-5347-01",
+      "product_quantity": "13,478 bottles",
+      "reason_for_recall": "Failed Dissolution Specifications: Product is being recalled due to out of specification dissolution results obtained during routine stability testing.",
+      "recall_initiation_date": "20130618",
+      "center_classification_date": "20130807",
+      "termination_date": "20140827",
+      "report_date": "20130814",
+      "code_info": "34010290A, 34010291A, 34010292A, exp 04/14, 34011855A, 34011856A, 34011857A, 34011858A, 34013216A, 34013217A, 34013218A, exp 06/14."
+    },
+    {
+      "status": "Ongoing",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "91161",
+      "recalling_firm": "Noven Pharmaceuticals Inc",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide in the USA",
+      "recall_number": "D-0071-2023",
+      "product_description": "Daytrana (methylphenidate transdermal system), Delivers 15 mg over 9 hours, (1.6 mg/hr), 30 patches per box, Rx only, Manufactured for Noven Therapeutics, LLC, Miami, FL 33186; By Noven Pharmaceuticals, Inc., Miami, FL 33186, NDC 68968-5553-3.",
+      "product_quantity": "3977 boxes",
+      "reason_for_recall": "Defective Delivery System: Recalled lot was found to be out of specification for shear. Shear is an attribute related to the adhesive properties of the transdermal patches.",
+      "recall_initiation_date": "20221116",
+      "center_classification_date": "20221128",
+      "report_date": "20221207",
+      "code_info": "Lot: 91316 Exp. 02/2023",
+      "more_code_info": ""
+    },
+    {
+      "status": "Ongoing",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "91882",
+      "recalling_firm": "Noven Pharmaceuticals Inc",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "N/A",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "US Nationwide",
+      "recall_number": "D-0470-2023",
+      "product_description": "Daytrana (methylphenidate transdermal system) CII, 10mg, 30-count carton, Rx only, Manufactured for Noven Therapeutics, LLC., Miami by Noven Pharmaceuticals, Inc., NDC 68968-5552-3.",
+      "product_quantity": "N/A",
+      "reason_for_recall": "Defective Delivery System: Out of specification for shear.",
+      "recall_initiation_date": "20230310",
+      "center_classification_date": "20230320",
+      "report_date": "20230329",
+      "code_info": "Lot#: 91955, Exp. 7/2023; 93039, Exp. 10/2023"
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "85128",
+      "recalling_firm": "Noven Therapeutics, LLC",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "U.S.A. Nationwide",
+      "recall_number": "D-1045-2020",
+      "product_description": "Daytrana (methylphenidate transdermal system) patches, Delivers 30 mg over 9 hours (3.3 mg/hr), 30-count box, Rx only, Manufactured for Noven Therapeutics, LLC. Miami, FL 33186, NDC 68968-5555-3",
+      "product_quantity": "7469 boxes",
+      "reason_for_recall": "Defective Delivery System: Out of specification for mechanical peel and shear.",
+      "recall_initiation_date": "20200302",
+      "center_classification_date": "20200319",
+      "termination_date": "20230518",
+      "report_date": "20200325",
+      "code_info": "Lot#: 86083, Exp 05/2020; 86282, Exp 06/2020",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "85128",
+      "recalling_firm": "Noven Therapeutics, LLC",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "U.S.A. Nationwide",
+      "recall_number": "D-1042-2020",
+      "product_description": "Daytrana (methylphenidate transdermal system) patches, Delivers 10 mg over 9 hours (1.1 mg/hr), 30-count box, Rx only, Manufactured for Noven Therapeutics, LLC. Miami, FL 33186,  NDC 68968-5552-3",
+      "product_quantity": "9513 boxes",
+      "reason_for_recall": "Defective Delivery System: Out of specification for mechanical peel and shear.",
+      "recall_initiation_date": "20200302",
+      "center_classification_date": "20200319",
+      "termination_date": "20230518",
+      "report_date": "20200325",
+      "code_info": "Lot#: 86280, Exp 06/2020",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "73718",
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "address_1": "11960 SW 144th St",
+      "address_2": "",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide",
+      "recall_number": "D-1440-2016",
+      "product_description": "Daytrana (methylphenidate transdermal system) Transdermal Patch, 30 mg over 9 hours (3.3 mg/hr), packaged in 30-count patches per box, Rx only, Manufactured by Noven Therapeutics, LLC, Miami, FL  33186; By Noven Pharmaceuticals, Inc., Miami, FL  33186, NDC 68968-5555-3.",
+      "product_quantity": "12285 boxes",
+      "reason_for_recall": "Defective Delivery System: Out of Specification (OOS) results for the mechanical peel force (MPF) and z-statistic value which relates to the patients and caregiver ability to remove the release liner from the patch adhesive prior to administration.",
+      "recall_initiation_date": "20151221",
+      "center_classification_date": "20160714",
+      "termination_date": "20190319",
+      "report_date": "20160720",
+      "code_info": "Lot #s: 77379, 77380, Exp 05/16; 76944, Exp 03/16",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Suffern",
+      "state": "NY",
+      "country": "United States",
+      "classification": "Class III",
+      "openfda": {},
+      "product_type": "Drugs",
+      "event_id": "67633",
+      "recalling_firm": "Novartis Pharmaceuticals Corp.",
+      "address_1": "25 Old Mill Rd",
+      "address_2": "N/A",
+      "postal_code": "10901-4106",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide and Puerto Rico",
+      "recall_number": "D-1228-2014",
+      "product_description": "Ritalin HCl (methylphenidate HCl) USP, 20 mg, 100 tablets per Bottle, Rx only, Mfd. by: Novartis Pharmaceuticals Corp. Suffern, NY 10901  Dist. by: Novartis Pharmaceuticals Corp. East Hanover, New Jersey 07936, NDC 0078-0441-05",
+      "product_quantity": "10,781 bottles",
+      "reason_for_recall": "Labeling: Incorrect or Missing Package Insert; The back of the Medication Guide attached to the Package Insert for Ritalin Tablets was printed with information related to Ritalin SR (Sustained Release) Tablets.  Both products, Ritalin Tablets and Ritalin SR Tablets utilize a combined Package Insert.  The individual Medication Guides are attached to the Package Insert via a perforation.  Although t",
+      "recall_initiation_date": "20140303",
+      "center_classification_date": "20140408",
+      "termination_date": "20141202",
+      "report_date": "20140416",
+      "code_info": "Lot #: F0131"
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3",
+          "54092-554-30"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "61891",
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide and Puerto Rico.",
+      "recall_number": "D-1372-2012",
+      "product_description": "Daytrana (methylphenidate) transdermal system patch, Delivers 20 mg over 9 hours (2.2 mg/hr), 1 patch per pouch, packaged in 30-count patches per box, Rx only, labeled as a) Manufactured for Shire US Inc., Wayne, PA 19087 by Noven Pharmaceuticals, Inc., Miami, FL 33186; NDC 54092-554-30; b) Manufactured for Noven Therapeutics, LLC, Miami, FL 33186, By Noven Pharmaceuticals, Inc., Miami, FL 33186; NDC 68968-5554-3.",
+      "product_quantity": "357,510 patches",
+      "reason_for_recall": "Miscalibrated and/or Defective Delivery System: Out of Specification results for mechanical peel force and/or the z-statistic value which relates to the patient's ability to remove the release liner from the patch adhesive prior to administration.",
+      "recall_initiation_date": "20110705",
+      "center_classification_date": "20120614",
+      "termination_date": "20130523",
+      "report_date": "20120620",
+      "code_info": "Lot #'s: a) 49203, Exp 10/12; b) 50265, Exp 01/13",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "78021",
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "address_1": "11960 SW 144th St",
+      "address_2": "N/A",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide.",
+      "recall_number": "D-1170-2017",
+      "product_description": "Daytrana (methylphenidate transdermal system) Delivers 20 mg over 9 hours (2.2 mg/hr) Rx Only Contains: 30 Patches  Manufactured for: Noven Therapeutics, LLC. Miami, FL 33186 By Noven Pharmaceuticals, Inc., Miami, FL 33186, NDC# 68968-5554-3",
+      "product_quantity": "182,850 patches",
+      "reason_for_recall": "Defective Delivery System: Products no longer meet the release liner removal specification and/or z-statistic.",
+      "recall_initiation_date": "20170830",
+      "center_classification_date": "20170918",
+      "termination_date": "20200124",
+      "report_date": "20170927",
+      "code_info": "Lot: 80431 Exp. 08/17",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Peapack",
+      "state": "NJ",
+      "country": "United States",
+      "classification": "Class III",
+      "openfda": {},
+      "product_type": "Drugs",
+      "event_id": "76663",
+      "recalling_firm": "Pfizer Inc",
+      "address_1": "100 North Route 206",
+      "address_2": "",
+      "postal_code": "07977",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide within US",
+      "recall_number": "D-0607-2017",
+      "product_description": "Quillivant XR (methylphenidate HCl) for extended-release oral suspension, 300 mg/60 mL (25mg/5mL), Rx Only, Distributed by: NextWave Pharmaceuticals, Inc. A subsidiary of Pfizer Inc, New York, NY 10017  Manufactured by: Tris Pharma, Inc., Monmouth Junction, NJ 08852 (NDC 24478-190-10).",
+      "product_quantity": "28,938  units",
+      "reason_for_recall": "Failed Dissolution Specifications: Dissolution at 8 hour was out of specification at 12 month at 25 degree Celsius.",
+      "recall_initiation_date": "20170307",
+      "center_classification_date": "20170322",
+      "termination_date": "20190531",
+      "report_date": "20170329",
+      "code_info": "Lot #: 03215042A, Exp. 08/17.",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "78021",
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "address_1": "11960 SW 144th St",
+      "address_2": "N/A",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide.",
+      "recall_number": "D-1172-2017",
+      "product_description": "Daytrana (methylphenidate transdermal system) Delivers 15 mg over 9 hours (1.6 mg/hr) Rx Only Contains: 30 Patches  Manufactured for: Noven Therapeutics, LLC. Miami, FL 33186 By Noven Pharmaceuticals, Inc., Miami, FL 33186, NDC# 68968-5553-3",
+      "product_quantity": "234,960 patches",
+      "reason_for_recall": "Defective Delivery System: Products no longer meet the release liner removal specification and/or z-statistic.",
+      "recall_initiation_date": "20170830",
+      "center_classification_date": "20170918",
+      "termination_date": "20200124",
+      "report_date": "20170927",
+      "code_info": "Lot: 80426 Exp. 10/17",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Parsippany",
+      "state": "NJ",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "ANDA076772"
+        ],
+        "brand_name": [
+          "METHYLPHENIDATE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Actavis Pharma, Inc."
+        ],
+        "product_ndc": [
+          "62037-725",
+          "62037-734",
+          "62037-726",
+          "62037-727"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1091155",
+          "1091170",
+          "1091185",
+          "1091210"
+        ],
+        "spl_id": [
+          "24aa9277-3773-489d-8459-f9215140c53f"
+        ],
+        "spl_set_id": [
+          "85ef422d-af27-4126-9841-6892af1871d6"
+        ],
+        "package_ndc": [
+          "62037-725-01",
+          "62037-734-01",
+          "62037-726-01",
+          "62037-727-01"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "84797",
+      "recalling_firm": "Teva Pharmaceuticals USA",
+      "address_1": "400 Interpace Pkwy",
+      "address_2": "",
+      "postal_code": "07054-1120",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "USA Nationwide",
+      "recall_number": "D-0837-2020",
+      "product_description": "Methylphenidate hydrochloride Extended-Release ablets USP (CII), 27 mg, 100-count bottle, Rx only, Teva Pharmaceuticals USA, Inc., North Wales, PA 19454, NDC 62037-734-01",
+      "product_quantity": "17,436 bottles",
+      "reason_for_recall": "CGMP deviations: Product bottle may be absent of desiccant.",
+      "recall_initiation_date": "20200127",
+      "center_classification_date": "20200210",
+      "termination_date": "20201103",
+      "report_date": "20200219",
+      "code_info": "Lot # 1332799A, Exp 11/2020",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "78021",
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "address_1": "11960 SW 144th St",
+      "address_2": "N/A",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide.",
+      "recall_number": "D-1169-2017",
+      "product_description": "Daytrana (methylphenidate transdermal system) Delivers 10 mg over 9 hours (1.1 mg/hr) Rx Only Contains: 30 Patches  Manufactured for: Noven Therapeutics, LLC. Miami, FL 33186 By Noven Pharmaceuticals, Inc., Miami, FL 33186, NDC# 68968-5552-3",
+      "product_quantity": "321,900 patches",
+      "reason_for_recall": "Defective Delivery System: Products no longer meet the release liner removal specification and/or z-statistic.",
+      "recall_initiation_date": "20170830",
+      "center_classification_date": "20170918",
+      "termination_date": "20200124",
+      "report_date": "20170927",
+      "code_info": "Lot: 80433 Exp. 08/17",
+      "more_code_info": ""
+    },
+    {
+      "country": "United States",
+      "city": "Peapack",
+      "address_1": "100 North Route 206",
+      "reason_for_recall": "Failed Dissolution Specifications: Dissolution at 8 hour was out of specification at 12 month at 25 degree Celsius.",
+      "address_2": "",
+      "product_quantity": "9,666 units",
+      "code_info": "Lot #: 03216025A, Exp.01/18.",
+      "center_classification_date": "20170322",
+      "distribution_pattern": "Nationwide within US",
+      "state": "NJ",
+      "product_description": "Quillivant XR (methylphenidate HCl) for extended-release oral suspension, 900 mg/180 mL (25mg/5mL), Rx Only, Distributed by: NextWave Pharmaceuticals, Inc. A subsidiary of Pfizer Inc, New York, NY 10017  Manufactured by: Tris Pharma, Inc., Monmouth Junction, NJ 08852 (NDC 24478-190-30).",
+      "report_date": "20170329",
+      "classification": "Class III",
+      "openfda": {},
+      "recalling_firm": "Pfizer Inc",
+      "recall_number": "D-0609-2017",
+      "initial_firm_notification": "Letter",
+      "product_type": "Drugs",
+      "event_id": "76663",
+      "termination_date": "20190531",
+      "more_code_info": "",
+      "recall_initiation_date": "20170307",
+      "postal_code": "07977",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "status": "Terminated"
+    },
+    {
+      "status": "Ongoing",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3",
+          "68968-5552-1"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "87980",
+      "recalling_firm": "Noven Pharmaceuticals Inc",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "N/A",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide in the USA",
+      "recall_number": "D-0393-2021",
+      "product_description": "Daytrana (methylphenidate transdermal system), Delivers 10 mg over 9 hours (1.1 mg/hr), 30 Patches (NDC 68968-5552-1) per box (NDC 68968-5552-3), Rx only, Manufactured for Noven Therapeutics, LLC., Miami, FL 33186; By Noven Pharmaceuticals, Inc., Miami, FL 33186.",
+      "product_quantity": "9,587 boxes",
+      "reason_for_recall": "Defective Delivery System: The number of customer complaints for ripping patches and tight release/adhesive transfer have exceeded the action limits.",
+      "recall_initiation_date": "20210520",
+      "center_classification_date": "20210524",
+      "report_date": "20210602",
+      "code_info": "Lot: 88528 Exp. 09/2021"
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "62530",
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "N/A",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide and Puerto Rico.",
+      "recall_number": "D-1654-2012",
+      "product_description": "Daytrana (methylphenidate) transdermal system patch, Delivers 30 mg over 9 hours (3.3 mg/hr), 1 patch per pouch, packaged in 30-count patches per box, Rx only, Manufactured for Noven Therapeutics, LLC, Miami, FL 33186, By Noven Pharmaceuticals, Inc., Miami, FL 33186; NDC 68968-5555-3.",
+      "product_quantity": "121,530 patches",
+      "reason_for_recall": "Miscalibrated and/or Defective Delivery System: Out of Specification results for mechanical peel force and/or the z-statistic value which relates to the patient's ability to remove the release liner from the patch adhesive prior to administration.",
+      "recall_initiation_date": "20120712",
+      "center_classification_date": "20120817",
+      "termination_date": "20140804",
+      "report_date": "20120829",
+      "code_info": "Lot # 56506, Exp 12/12"
+    },
+    {
+      "country": "United States",
+      "city": "Miami",
+      "address_1": "11960 Sw 144th St",
+      "reason_for_recall": "Miscalibrated and/or Defective Delivery System: Out of Specification results for mechanical peel force and/or the z-statistic value which relates to the patient's ability to remove the release liner from the patch adhesive prior to administration.",
+      "address_2": "",
+      "product_quantity": "335,190 patches",
+      "code_info": "Lot #: 41843, Exp 11/11",
+      "center_classification_date": "20120614",
+      "distribution_pattern": "Nationwide and Puerto Rico.",
+      "state": "FL",
+      "product_description": "Daytrana (methylphenidate) transdermal system patch, Delivers 10 mg over 9 hours (1.1 mg/hr), 1 patch per pouch (NDC 54092-552-01), packaged in 30-count patches per box (NDC 54092-552-30), Rx only, Manufactured for Shire US Inc., Wayne, PA  19087; by Noven Pharmaceuticals, Inc., Miami, FL  33186.",
+      "report_date": "20120620",
+      "classification": "Class II",
+      "openfda": {},
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "recall_number": "D-1375-2012",
+      "initial_firm_notification": "Letter",
+      "product_type": "Drugs",
+      "event_id": "61891",
+      "termination_date": "20130523",
+      "more_code_info": "",
+      "recall_initiation_date": "20110705",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "status": "Terminated"
+    },
+    {
+      "status": "Ongoing",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3",
+          "68968-5553-1"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "87980",
+      "recalling_firm": "Noven Pharmaceuticals Inc",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "N/A",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide in the USA",
+      "recall_number": "D-0394-2021",
+      "product_description": "Daytrana (methylphenidate transdermal system), Delivers 15 mg over 9 hours (1.6 mg/hr), 30 Patches (NDC 68968-5553-1) per box (NDC 68968-5553-3), Rx only, Manufactured for Noven Therapeutics, LLC., Miami, FL 33186; By Noven Pharmaceuticals, Inc., Miami, FL 33186.",
+      "product_quantity": "6,689 boxes",
+      "reason_for_recall": "Defective Delivery System: The number of customer complaints for ripping patches and tight release/adhesive transfer have exceeded the action limits.",
+      "recall_initiation_date": "20210520",
+      "center_classification_date": "20210524",
+      "report_date": "20210602",
+      "code_info": "Lot: 88530 Exp. 10/2021"
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "87373",
+      "recalling_firm": "Noven Pharmaceuticals Inc",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide in the USA",
+      "recall_number": "D-0294-2021",
+      "product_description": "Daytrana (methylphenidate transdermal system), Delivers 15 mg over 9 hours (1.6 mg/hr), Contains: 30 Patches in in a foil-sealed polypropylene tray,  packed in a paper carton, Rx only, Manufactured for Noven Therapeutics, LLC, Miami, FL, 33186, By Noven Pharmaceuticals, Inc., Miami, FL, 33186, NDC 68968-5553-3.",
+      "product_quantity": "551,670 patches",
+      "reason_for_recall": "Defective Delivery System: Out of specification for mechanical peel.",
+      "recall_initiation_date": "20210219",
+      "center_classification_date": "20210303",
+      "termination_date": "20240705",
+      "report_date": "20210310",
+      "code_info": "Lots #: 87818, Exp 4/2021, 88274, Exp 5/2021 & 88531, Exp 7/2021.",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "87373",
+      "recalling_firm": "Noven Pharmaceuticals Inc",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide in the USA",
+      "recall_number": "D-0293-2021",
+      "product_description": "Daytrana (methylphenidate transdermal system), Delivers 10 mg over 9 hours (1.1 mg/hr), Contains: 30 Patches in a foil-sealed polypropylene tray, packed in a paper carton, Rx only,  Manufactured for Noven Therapeutics, LLC, Miami, FL, 33186, By Noven Pharmaceuticals, Inc., Miami, FL, 33186,  NDC 68968-5552-3.",
+      "product_quantity": "473,280 patches",
+      "reason_for_recall": "Defective Delivery System: Out of specification for mechanical peel.",
+      "recall_initiation_date": "20210219",
+      "center_classification_date": "20210303",
+      "termination_date": "20240705",
+      "report_date": "20210310",
+      "code_info": "Lots #: 87579, Exp 3/2021 & 88243, Exp 7/2021.",
+      "more_code_info": ""
+    },
+    {
+      "status": "Ongoing",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "91882",
+      "recalling_firm": "Noven Pharmaceuticals Inc",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "N/A",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "US Nationwide",
+      "recall_number": "D-0471-2023",
+      "product_description": "Daytrana (methylphenidate transdermal system) CII, 15 mg, 30-count carton, Rx only, Manufactured for Noven Therapeutics, LLC., Miami by Noven Pharmaceuticals, Inc., NDC 68968-5553-3",
+      "product_quantity": "N/A",
+      "reason_for_recall": "Defective Delivery System: Out of specification for shear.",
+      "recall_initiation_date": "20230310",
+      "center_classification_date": "20230320",
+      "report_date": "20230329",
+      "code_info": "Lot#: 91956, Exp. 6/2023; 92475, Exp. 7/2023"
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "75450",
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "address_1": "11960 SW 144th St",
+      "address_2": "",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide within the US",
+      "recall_number": "D-0430-2017",
+      "product_description": "Daytrana (methylphenidate transdermal system) Transdermal Patch, 30 mg over 9 hours (3.3 mg/hr), packaged in 30-count patches per box, Rx only, Manufactured by Noven Therapeutics, LLC, Miami, FL 33186; By Noven Pharmaceuticals, Inc., Miami, FL 33186, NDC 68968-5555-3.",
+      "product_quantity": "357,420 patches",
+      "reason_for_recall": "Defective Delivery System: Out of Specification (OOS) results for the mechanical peel force (MPF) and and/or the z-statistic values.",
+      "recall_initiation_date": "20160822",
+      "center_classification_date": "20170110",
+      "termination_date": "20190320",
+      "report_date": "20170118",
+      "code_info": "Lot #: 77306, Exp.05/2016; 77595 Exp. 07/2016; 78069, Exp.08/2016.",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "87373",
+      "recalling_firm": "Noven Pharmaceuticals Inc",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide in the USA",
+      "recall_number": "D-0295-2021",
+      "product_description": "Daytrana (methylphenidate transdermal system) Delivers 20 mg over 9 hours (2.2 mg/hr) Contains: 30 Patches in a foil-sealed polypropylene tray, packed in a paper carton, Rx only, Manufactured for Noven Therapeutics, LLC, Miami, FL, 33186, By Noven Pharmaceuticals, Inc., Miami, FL, 33186, NDC 68968-5554-3.",
+      "product_quantity": "786,900 patches",
+      "reason_for_recall": "Defective Delivery System: Out of specification for mechanical peel.",
+      "recall_initiation_date": "20210219",
+      "center_classification_date": "20210303",
+      "termination_date": "20240705",
+      "report_date": "20210310",
+      "code_info": "Lots #: 87580, Exp 4/2021, 87819, Exp 4/2021, 88244, Exp 6/2021, 88245, Exp 6/2021, 88532, Exp 06/2021 & 88533, Exp 7/2021.",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Parsippany",
+      "state": "NJ",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "ANDA076772"
+        ],
+        "brand_name": [
+          "METHYLPHENIDATE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Actavis Pharma, Inc."
+        ],
+        "product_ndc": [
+          "62037-725",
+          "62037-734",
+          "62037-726",
+          "62037-727"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1091155",
+          "1091170",
+          "1091185",
+          "1091210"
+        ],
+        "spl_id": [
+          "24aa9277-3773-489d-8459-f9215140c53f"
+        ],
+        "spl_set_id": [
+          "85ef422d-af27-4126-9841-6892af1871d6"
+        ],
+        "package_ndc": [
+          "62037-725-01",
+          "62037-734-01",
+          "62037-726-01",
+          "62037-727-01"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "84797",
+      "recalling_firm": "Teva Pharmaceuticals USA",
+      "address_1": "400 Interpace Pkwy",
+      "address_2": "",
+      "postal_code": "07054-1120",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "USA Nationwide",
+      "recall_number": "D-0836-2020",
+      "product_description": "Methylphenidate hydrochloride Extended-Release ablets USP (CII), 18 mg, 100-count bottle, Rx only, Teva Pharmaceuticals USA, Inc., North Wales, PA 19454, NDC 62037-725-01",
+      "product_quantity": "",
+      "reason_for_recall": "CGMP deviations: Product bottle may be absent of desiccant.",
+      "recall_initiation_date": "20200127",
+      "center_classification_date": "20200210",
+      "termination_date": "20201103",
+      "report_date": "20200219",
+      "code_info": "Lot #: 1332796 A, Exp 11/2020",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "85128",
+      "recalling_firm": "Noven Therapeutics, LLC",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "U.S.A. Nationwide",
+      "recall_number": "D-1043-2020",
+      "product_description": "Daytrana (methylphenidate transdermal system) patches, Delivers 15 mg over 9 hours (1.6 mg/hr), 30-count box, Rx only, Manufactured for Noven Therapeutics, LLC. Miami, FL 33186, NDC 68968-5553-3",
+      "product_quantity": "13761 boxes",
+      "reason_for_recall": "Defective Delivery System: Out of specification for mechanical peel and shear.",
+      "recall_initiation_date": "20200302",
+      "center_classification_date": "20200319",
+      "termination_date": "20230518",
+      "report_date": "20200325",
+      "code_info": "Lot#: 85942, Exp 03/2020; 86281, Exp 06/2020",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Marietta",
+      "state": "GA",
+      "country": "United States",
+      "classification": "Class III",
+      "openfda": {
+        "application_number": [
+          "ANDA205327"
+        ],
+        "brand_name": [
+          "METHYLPHENIDATE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Trigen Laboratories, LLC"
+        ],
+        "product_ndc": [
+          "13811-706",
+          "13811-709",
+          "13811-707",
+          "13811-708",
+          "13811-710"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1091155",
+          "1091170",
+          "1091185",
+          "1091210",
+          "1995461"
+        ],
+        "spl_id": [
+          "0944cf70-d59a-483b-9698-e96ef955a65a"
+        ],
+        "spl_set_id": [
+          "c45dc1de-adfa-4b3c-a7dc-cffbc8eac74f"
+        ],
+        "package_ndc": [
+          "13811-709-10",
+          "13811-706-10",
+          "13811-707-10",
+          "13811-708-10",
+          "13811-710-10",
+          "13811-710-30"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0313811706109",
+          "0313811708103"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "78764",
+      "recalling_firm": "Osmotica Pharmaceutical Corp",
+      "address_1": "895 Sawyer Rd",
+      "address_2": "",
+      "postal_code": "30062-2257",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide",
+      "recall_number": "D-0111-2018",
+      "product_description": "Methylphenidate Hydrochloride Extended-release Tablets, USP 54 mg, 100-count bottles, Rx Only, Trigen Laboratories, LLC. Bridgewater, NJ 08807,  NDC 13811-709-10",
+      "product_quantity": "9919 bottles",
+      "reason_for_recall": "Subpotent Drug",
+      "recall_initiation_date": "20171218",
+      "center_classification_date": "20171220",
+      "termination_date": "20190501",
+      "report_date": "20171227",
+      "code_info": "Lot #: 170029A, Exp. 02/2019; 170030A, Exp. 02/2019",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Coventry",
+      "state": "RI",
+      "country": "United States",
+      "classification": "Class III",
+      "openfda": {},
+      "product_type": "Drugs",
+      "event_id": "79820",
+      "recalling_firm": "Rhodes Pharmaceuticals, L.P.",
+      "address_1": "498 Washington St",
+      "address_2": "N/A",
+      "postal_code": "02816-5467",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide within the USA",
+      "recall_number": "D-0710-2018",
+      "product_description": "Aptensio XR (methylphenidate HCl extended-release) capsules 15 mg Rx Only 90-count bottle. Marketed by: Rhodes Pharmaceuticals L.P., Coventry, RI 02816. Manufactured by: Patheon Manufacturing Services LLC, Greenville, NC 27834. NDC 42858-402-45",
+      "product_quantity": "2454 bottles",
+      "reason_for_recall": "Failed Dissolution Specification: Low dissolution outside of specifications",
+      "recall_initiation_date": "20180417",
+      "center_classification_date": "20180503",
+      "termination_date": "20200519",
+      "report_date": "20180509",
+      "code_info": "Lot# AG8679B Exp. 01/2020"
+    },
+    {
+      "status": "Ongoing",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "91882",
+      "recalling_firm": "Noven Pharmaceuticals Inc",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "N/A",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "US Nationwide",
+      "recall_number": "D-0472-2023",
+      "product_description": "Daytrana (methylphenidate transdermal system) CII, 20mg, 30-count carton, Rx only, Manufactured for Noven Therapeutics, LLC., Miami by Noven Pharmaceuticals, Inc., NDC  68968-5554-3.",
+      "product_quantity": "N/A",
+      "reason_for_recall": "Defective Delivery System: Out of specification for shear.",
+      "recall_initiation_date": "20230310",
+      "center_classification_date": "20230320",
+      "report_date": "20230329",
+      "code_info": "Lot#: 91957, 92197, Exp. 7/2023; 92476, Exp. 9/2023; 92477, Exp. 10/2023"
+    },
+    {
+      "status": "Terminated",
+      "city": "Marietta",
+      "state": "GA",
+      "country": "United States",
+      "classification": "Class III",
+      "openfda": {
+        "application_number": [
+          "ANDA205327"
+        ],
+        "brand_name": [
+          "METHYLPHENIDATE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Trigen Laboratories, LLC"
+        ],
+        "product_ndc": [
+          "13811-706",
+          "13811-709",
+          "13811-707",
+          "13811-708",
+          "13811-710"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1091155",
+          "1091170",
+          "1091185",
+          "1091210",
+          "1995461"
+        ],
+        "spl_id": [
+          "0944cf70-d59a-483b-9698-e96ef955a65a"
+        ],
+        "spl_set_id": [
+          "c45dc1de-adfa-4b3c-a7dc-cffbc8eac74f"
+        ],
+        "package_ndc": [
+          "13811-709-10",
+          "13811-706-10",
+          "13811-707-10",
+          "13811-708-10",
+          "13811-710-10",
+          "13811-710-30"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0313811706109",
+          "0313811708103"
+        ],
+        "unii": [
+          "4B3SC438HI"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "79365",
+      "recalling_firm": "Osmotica Pharmaceutical Corp",
+      "address_1": "895 Sawyer Rd",
+      "address_2": "N/A",
+      "postal_code": "30062-2257",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide in the USA",
+      "recall_number": "D-0581-2018",
+      "product_description": "Methylphenidate Hydrochloride Extended-release Tablets, USP, 36 mg, 100-count bottle, Rx only, Trigen Laboratories, LLC Bridgewater, NJ 08807. NDC 13811-708-10",
+      "product_quantity": "19,664 100-bottles",
+      "reason_for_recall": "Subpotent Drug:100-count product bottle labeled as Methylphenidate HCL ER Tablets 36 mg found to contain 1 27 mg Methylphenidate HCL ER Tablet.",
+      "recall_initiation_date": "20180228",
+      "center_classification_date": "20180306",
+      "termination_date": "20190501",
+      "report_date": "20180314",
+      "code_info": "Lots: 170231B, 170232A, 170233A, 170234A"
+    },
+    {
+      "country": "United States",
+      "city": "Miami",
+      "address_1": "11960 Sw 144th St",
+      "reason_for_recall": "Miscalibrated and/or Defective Delivery System: Out of Specification results for mechanical peel force and/or the z-statistic value which relates to the patient's ability to remove the release liner from the patch adhesive prior to administration.",
+      "address_2": "",
+      "product_quantity": "242,100 patches",
+      "code_info": "Lot #: 43008, Exp 01/12; 48591, Exp 10/12",
+      "center_classification_date": "20120614",
+      "distribution_pattern": "Nationwide and Puerto Rico.",
+      "state": "FL",
+      "product_description": "Daytrana (methylphenidate) transdermal system patch, Delivers 30 mg over 9 hours (3.3 mg/hr), 1 patch per pouch (NDC 54092-555-01), packaged in 30-count patches per box (NDC 54092-555-30), Rx only, Manufactured for Shire US Inc., Wayne, PA 19087 by Noven Pharmaceuticals, Inc., Miami, FL 33186.",
+      "report_date": "20120620",
+      "classification": "Class II",
+      "openfda": {},
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "recall_number": "D-1373-2012",
+      "initial_firm_notification": "Letter",
+      "product_type": "Drugs",
+      "event_id": "61891",
+      "termination_date": "20130523",
+      "more_code_info": "",
+      "recall_initiation_date": "20110705",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "status": "Terminated"
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "75450",
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "address_1": "11960 SW 144th St",
+      "address_2": "",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide within the US",
+      "recall_number": "D-0428-2017",
+      "product_description": "Daytrana (methylphenidate transdermal system) Transdermal Patch, 10 mg over 9 hours (1.1mg/hr), packaged in- 30 count per box, Rx only, Manufactured by Noven Therapeutics, LLC, Miami, FL 33186; By Noven Pharmaceuticals, Inc, Miami, FL 33186,  NDC 68968-5552-3",
+      "product_quantity": "1,068,600 patches",
+      "reason_for_recall": "Defective Delivery System: Out of Specification (OOS) results for the mechanical peel force (MPF) and and/or the z-statistic values.",
+      "recall_initiation_date": "20160822",
+      "center_classification_date": "20170110",
+      "termination_date": "20190320",
+      "report_date": "20170118",
+      "code_info": "Lot #:  77545, Exp.07/2016; 78035, Exp. 08/2016; 78367, Exp. 10/2016;  79919, Exp. 03/2017.",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "classification": "Class II",
+      "openfda": {
+        "application_number": [
+          "NDA021514"
+        ],
+        "brand_name": [
+          "DAYTRANA"
+        ],
+        "generic_name": [
+          "METHYLPHENIDATE"
+        ],
+        "manufacturer_name": [
+          "Noven Therapeutics, LLC"
+        ],
+        "product_ndc": [
+          "68968-5552",
+          "68968-5553",
+          "68968-5554",
+          "68968-5555"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TRANSDERMAL"
+        ],
+        "substance_name": [
+          "METHYLPHENIDATE"
+        ],
+        "rxcui": [
+          "753436",
+          "753437",
+          "753438",
+          "753439",
+          "753440",
+          "753441",
+          "753442",
+          "753443"
+        ],
+        "spl_id": [
+          "55f4b5f4-6d3c-4677-a94c-d47ffb59a91a"
+        ],
+        "spl_set_id": [
+          "2c312c31-3198-4775-91ab-294e0b4b9e7f"
+        ],
+        "package_ndc": [
+          "68968-5552-3",
+          "68968-5553-3",
+          "68968-5554-3",
+          "68968-5555-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "207ZZ9QZ49"
+        ]
+      },
+      "product_type": "Drugs",
+      "event_id": "64710",
+      "recalling_firm": "Noven Pharmaceuticals, Inc.",
+      "address_1": "11960 Sw 144th St",
+      "address_2": "",
+      "postal_code": "33186-6109",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide and Puerto Rico.",
+      "recall_number": "D-312-2013",
+      "product_description": "Daytrana (methylphenidate) transdermal system patch, Delivers 10 mg over 9 hours (1.1 mg/hr), 1 patch per pouch, packaged in 30-count patches per box, Rx only, Manufactured for Noven Therapeutics, LLC, Miami, FL 33186, By Noven Pharmaceuticals, Inc., Miami, FL 33186; NDC 68968-5552-3.",
+      "product_quantity": "335,910 patches",
+      "reason_for_recall": "Defective Delivery System: Out of Specification (OOS) results for the z-statistic value, which relates to the patients and caregiver ability to remove the release liner from the patch adhesive prior to administration, were obtained.",
+      "recall_initiation_date": "20130131",
+      "center_classification_date": "20130502",
+      "termination_date": "20161228",
+      "report_date": "20130508",
+      "code_info": "Lot #59824, Exp 04/13",
+      "more_code_info": ""
+    },
+    {
+      "status": "Terminated",
+      "city": "North Wales",
+      "state": "PA",
+      "country": "United States",
+      "classification": "Class III",
+      "openfda": {},
+      "product_type": "Drugs",
+      "event_id": "78308",
+      "recalling_firm": "Teva Pharmaceuticals USA",
+      "address_1": "1090 Horsham Rd",
+      "address_2": "N/A",
+      "postal_code": "19454-1505",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Letter",
+      "distribution_pattern": "Nationwide in the USA and Puerto Rico",
+      "recall_number": "D-0052-2018",
+      "product_description": "Methylphenidate Hydrochloride Tablets USP, 20 mg, 100-count bottles, Rx only, Manufactured by: Watson Laboratories, Inc., Corona, CA  92880 USA, NDC 0591-5884-01.",
+      "product_quantity": "58,292 bottles",
+      "reason_for_recall": "Failed Dissolution Specifications: Low out of specification results for dissolution.",
+      "recall_initiation_date": "20171017",
+      "center_classification_date": "20171026",
+      "termination_date": "20180412",
+      "report_date": "20171101",
+      "code_info": "Lot Number # 1156086M, Exp 08/18"
+    }
+  ]
+}
