@@ -1,3 +1,7 @@
+-- Run in one connection after 01_schema.sql and 02_mock_data.sql.
+-- The transaction restores the original rows after the demonstration.
+START TRANSACTION;
+
 -- CREATE: add a student and a related prescription.
 INSERT INTO Student (program_name, study_year, name, age)
 VALUES ('Computer Science', 1, 'Alex van Leeuwen', 19);
@@ -21,3 +25,5 @@ DELETE FROM Prescription WHERE prescription_id = @demo_prescription_id;
 DELETE FROM Student WHERE student_id = @demo_student_id;
 SELECT COUNT(*) AS remaining_demo_students
 FROM Student WHERE student_id = @demo_student_id;
+
+ROLLBACK;

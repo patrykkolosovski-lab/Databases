@@ -1,4 +1,6 @@
--- MOCK DATA.
+-- Fictional teaching data: 8 students, 4 drugs, 4 doctors, 13 prescriptions.
+-- Includes unused parents, repeat prescriptions and same-date events.
+-- Drug products and doses are illustrative, not clinical recommendations.
 INSERT INTO Student (student_id, program_name, study_year, name, age) VALUES
 (1, 'Computer Science', 2, 'Emma de Vries', 20),
 (2, 'Business Administration', 3, 'Noah Bakker', 22),
@@ -34,4 +36,5 @@ INSERT INTO Prescription
 (9, 3, 2, 2, '2026-03-17', 5.00, 14),
 (10, 4, 3, 3, '2026-03-19', 20.00, 30),
 (11, 1, 3, 3, '2026-03-23', 10.00, 14),
-(12, 5, 1, 1, '2026-03-25', 5.00, 14);
+(12, 5, 1, 1, '2026-03-25', 5.00, 14),
+(13, 6, 3, 3, '2026-02-21', 2.50, 14);

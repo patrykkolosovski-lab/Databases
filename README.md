@@ -80,6 +80,8 @@ The main relationships are that **students receive prescriptions**, **doctors is
   Includes the final Crow's foot ERD, scope and assumptions, and before-and-after examples for 1NF, 2NF and 3NF.
 
 * **Week 3:** Relational schema and test queries
+  * [Setup, query explanations and expected results](docs/week3/README.md)
+  * [Verified MySQL outputs and constraint checks](docs/week3/RESULTS.md)
   * [`SCHEMA.md`](SCHEMA.md) – relational schema and constraints
   * [`sql/01_schema.sql`](sql/01_schema.sql) – table creation and constraints
   * [`sql/02_mock_data.sql`](sql/02_mock_data.sql) – initial small test data
