@@ -11,7 +11,7 @@ The societal problem we are investigating is the misuse of prescription "perform
 
 Prescription stimulants such as Adderall, Ritalin or Medikinet are intended to treat conditions like ADHD. Their non-medical use as so-called "study drugs" raises concerns about student wellbeing and academic pressure, although prevalence estimates depend on the population and sampling method.
 
-Our [Week 1 report](docs/week1/Week1_Report.pdf) introduces the selected 2026 newspaper article, preserves its original screenshot, and discusses four peer-reviewed scientific papers with complete references; an [editable text version](docs/week1/report.md) is also available.
+Our [Week 1 report](docs/week1/gt4.pdf) contains the societal problem definition and supporting literature.
 
 As students ourselves, we experience the pressure to perform at the highest level almost every day. It is not uncommon to hear that someone we know has tried these substances to study longer or concentrate better.
 
@@ -74,7 +74,7 @@ The main relationships are that **students receive prescriptions**, **doctors is
 
 ## Project Overview
 
-* **Week 1:** [Societal problem and scientific literature report](docs/week1/Week1_Report.pdf), with [editable source](docs/week1/report.md) and [original newspaper screenshot](docs/week1/newspaper-original.png)
+* **Week 1:** [Societal problem and scientific literature report](docs/week1/gt4.pdf)
 
 * **Week 2:** ERD and normalization
   For the full ERD see ['ERD_and_Normalization.pdf'](ERD_and_Normalization.pdf).
