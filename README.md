@@ -57,7 +57,14 @@ The catalogue is a 100-record sample. Listing does not establish FDA approval, a
 
 ## Run the database
 
-Use **MySQL 8.0.16 or later**. Create and select an empty database, then run the files in order:
+Use **MySQL 8.0.16 or later**. In your MySQL connection, create and select an empty database:
+
+```sql
+CREATE DATABASE student_prescriptions;
+USE student_prescriptions;
+```
+
+Then run the files in order:
 
 | File | Purpose |
 | --- | --- |
