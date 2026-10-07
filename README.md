@@ -24,7 +24,7 @@ The prescription model can answer:
 | 2 | [Crow's foot ERD and normalization report](docs/week2/Week2.pdf), including before-and-after examples for 1NF, 2NF and 3NF |
 | 3 | [Relational schema](docs/week3/SCHEMA.md), constraints, mock data, basic operations and four advanced queries in [SQL files 01–04](sql/) |
 | 4 | [Stakeholder video](docs/week4/Week4.mp4), explaining questions, limitations and future work in plain language |
-| 5 | [Report in LaTeX](docs/week5/Week5.tex), [original data snapshots](data/week5/), [real-data import](sql/05_real_world_data.sql) and [four adapted queries](sql/06_real_world_queries.sql) |
+| 5 | [Report in LaTeX](docs/week5/Week5.tex), [real-data import](sql/05_real_world_data.sql) and [four adapted queries](sql/06_real_world_queries.sql) |
 
 ## Stakeholder video
 
@@ -65,7 +65,7 @@ Use **MySQL 8.0.16 or later**. Create and select an empty database, then run the
 | [02_mock_data.sql](sql/02_mock_data.sql) | Add 8 students, 4 doctors, 4 drugs and 13 fictional prescriptions |
 | [03_basic_operations.sql](sql/03_basic_operations.sql) | Demonstrate adding, reading, updating and removing data; changes are rolled back |
 | [04_advanced_queries.sql](sql/04_advanced_queries.sql) | Run prescription history, frequency, absence and latest-record queries |
-| [05_real_world_data.sql](sql/05_real_world_data.sql) | Create and populate the two FDA tables from the saved snapshot projections |
+| [05_real_world_data.sql](sql/05_real_world_data.sql) | Create and populate the two FDA tables from the data embedded in the SQL file |
 | [06_real_world_queries.sql](sql/06_real_world_queries.sql) | Run four queries on the real FDA records |
 
 After importing the FDA data, rerun files 03 and 04 to check the original operations and queries. File 01 is intended for a fresh database; repeating file 05 refreshes only the FDA tables. No live API connection or additional import program is needed.

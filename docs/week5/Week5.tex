@@ -20,7 +20,7 @@ We chose two complementary FDA datasets about methylphenidate, a medicine releva
 
 \textbf{Dataset B: drug recall enforcement records.} We saved all 66 records returned by a search for methylphenidate in product descriptions. Each has a different recall number. The snapshot's publication/update date is \textbf{30 September 2026}. Recall initiation dates range from 5 July 2011 to 17 June 2024; these are event dates, not dataset publication dates.
 
-Both snapshots were accessed on \textbf{7 October 2026}, require no registration or payment, and are available under openFDA's \textbf{CC0 1.0 public-domain dedication}. Source metadata and full original records remain in \f{data/week5/ndc.json} and \f{data/week5/recalls.json}. Repeating a live API request later may return different data, so our submitted snapshots are the reference for reproduction.
+Both snapshots were accessed on \textbf{7 October 2026}, require no registration or payment, and are available under openFDA's \textbf{CC0 1.0 public-domain dedication}. The selected source fields are embedded in \f{sql/05_real_world_data.sql}; the full raw JSON files are not included. Repeating a live API request later may return different data, so the embedded data is the reference for reproducing our import.
 
 \begin{itemize}
 \item \href{https://api.fda.gov/drug/ndc.json?search=generic_name:\%22METHYLPHENIDATE\%20HYDROCHLORIDE\%22\&limit=100}{Dataset A: exact product API request}; \href{https://open.fda.gov/apis/drug/ndc/}{NDC source documentation}.
@@ -48,7 +48,7 @@ Names & Capitalization and punctuation vary. We preserve original labels. For ex
 Types and constraints & NDCs and recall numbers are text IDs, dates are DATE, and long descriptions/reasons are TEXT. Required fields and the recall-classification CHECK passed.\\\bottomrule
 \end{tabularx}\end{center}
 
-The SQL contains a projection of the original JSON records and uses JSON\_TABLE to select fields and convert dates. This keeps the import to one file, with no extra program or library. Full arrays such as package lists are retained in the source snapshot but are not imported. On a repeat run, only the two FDA tables are refreshed inside a transaction. The original mock tables are untouched.
+The SQL contains a projection of the original JSON records and uses JSON\_TABLE to select fields and convert dates. This keeps the import to one file, with no extra program or library. Full arrays such as package lists are excluded from the embedded data and are not imported. On a repeat run, only the two FDA tables are refreshed inside a transaction. The original mock tables are untouched.
 
 \section{Normalization update to Week 2}
 \textbf{1NF:} both new tables have one record per key and scalar fields. We do not store package or ingredient arrays as comma-separated columns. Product descriptions and recall reasons are kept as single source-text values; we do not treat embedded lists in narrative text as separate structured attributes.
@@ -95,5 +95,5 @@ For students and university support services, the database can demonstrate how r
 The FDA records include forms other than tablets, so we keep them separate from the prescription model described on slide 8. Further practical improvements are to expand the catalogue sample and verify company identifiers and product matches before linking records.
 
 \section*{Run the Week 5 files}
-After the Week 3 setup, run \f{sql/05_real_world_data.sql}, then rerun \f{sql/03_basic_operations.sql} and \f{sql/04_advanced_queries.sql}, and finally run \f{sql/06_real_world_queries.sql} in the same database. Source documentation is linked above, and the source snapshots are included in the repository. This report is the Week 5 supplement to the Week 2 normalization report.
+After the Week 3 setup, run \f{sql/05_real_world_data.sql}, then rerun \f{sql/03_basic_operations.sql} and \f{sql/04_advanced_queries.sql}, and finally run \f{sql/06_real_world_queries.sql} in the same database. Source documentation is linked above, and the selected data is embedded in the import SQL. This report is the Week 5 supplement to the Week 2 normalization report.
 \end{document}
