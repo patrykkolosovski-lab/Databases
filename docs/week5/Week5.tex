@@ -82,9 +82,17 @@ The real data improves the product information behind our societal topic, but it
 
 For students and university support services, the database can demonstrate how records are organized and how product context can be explored. It cannot identify students who misuse medication or support decisions about an individual's treatment.
 
-The integration addresses the video's short-term aims of testing more examples and checking report accuracy. It does not yet measure changes in student use over time, and no student or staff feedback has been collected as part of this import. The FDA records also include forms other than tablets, so we keep them separate from the prescription model described on slide 8.
+\textbf{Review of the next steps from the Week 4 video:}
+\begin{itemize}
+\item \textbf{Test more examples:} we imported 166 real records and tested repeated imports, duplicate keys and an invalid recall classification. Testing real student prescriptions remains future work.
+\item \textbf{Check report accuracy:} we compared all imported fields with the source snapshots and checked query counts. The original student reports still describe mock data.
+\item \textbf{Compare changes over time:} dates are available, but this submission does not yet include a trend analysis. A next step is to compare recall counts by year, while keeping this separate from trends in student use.
+\item \textbf{Ask students and staff for feedback:} this has not yet been completed. Their feedback could help us choose more useful questions and report formats.
+\end{itemize}
 
-\textbf{Short-term improvements:} expand the product selection, review company-name variants using verified identifiers, and document reliable NDC matches where available. \textbf{Longer-term improvements:} obtain suitable openly licensed aggregate student-use survey data and include programme, time and motivation information where the source allows it. These additions would address the societal question more directly than adding more fictional patients.
+\textbf{Beyond the course:} the video's plans remain to add voluntary surveys, include motives and outcomes, and use protected real-world data. Surveys could help explain why students use study drugs and how this relates to wellbeing and grades. Any future student-level data would need appropriate permission and protection; it would not be included in the public repository. The current open FDA datasets add product context but do not complete these plans.
+
+The FDA records include forms other than tablets, so we keep them separate from the prescription model described on slide 8. Further practical improvements are to expand the catalogue sample and verify company identifiers and product matches before linking records.
 
 \section*{Run the Week 5 files}
 After the Week 3 setup, run \f{sql/05_real_world_data.sql}, then rerun \f{sql/03_basic_operations.sql} and \f{sql/04_advanced_queries.sql}, and finally run \f{sql/06_real_world_queries.sql} in the same database. Source documentation is linked above, and the source snapshots are included in the repository. This report is the Week 5 supplement to the Week 2 normalization report.
