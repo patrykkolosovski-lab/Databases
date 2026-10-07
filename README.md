@@ -24,7 +24,7 @@ The prescription model can answer:
 | 2 | [Crow's foot ERD and normalization report](docs/week2/Week2.pdf), including before-and-after examples for 1NF, 2NF and 3NF |
 | 3 | [Relational schema](docs/week3/SCHEMA.md), constraints, mock data, basic operations and four advanced queries in [SQL files 01–04](sql/) |
 | 4 | [Stakeholder video](docs/week4/Week4.mp4), explaining questions, limitations and future work in plain language |
-| 5 | [Report in LaTeX](docs/week5/Week5.tex), [real-data import](sql/05_real_world_data.sql) and [four adapted queries](sql/06_real_world_queries.sql) |
+| 5 | [Real-world data integration report](docs/week5/Week5.pdf), [real-data import](sql/05_real_world_data.sql) and [four adapted queries](sql/06_real_world_queries.sql) |
 
 ## Stakeholder video
 
