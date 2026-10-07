@@ -76,8 +76,8 @@ The main relationships are that **students receive prescriptions**, **doctors is
 
 * **Week 1:** [Societal problem and scientific literature report](docs/week1/Week1.pdf)
 
-* **Week 2:** ERD and normalization
-  For the full ERD see ['ERD_and_Normalization.pdf'](ERD_and_Normalization.pdf).
+* **Week 2:** [ERD and normalization report](docs/week2/Week2.pdf)
+  Includes the final Crow's foot ERD, scope and assumptions, and before-and-after examples for 1NF, 2NF and 3NF.
 
 * **Week 3:** Relational schema and test queries
   * [`SCHEMA.md`](SCHEMA.md) – relational schema and constraints
