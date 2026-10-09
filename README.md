@@ -89,7 +89,19 @@ As some of the work was done in collaboration on a single machine by video calls
 | Mjedlin | 6.3, 6.4 |
 | Skindel | 7.1, 7.2 |
 
-## Progress and future work
+## Progress, limitations and future work
 
-Week 5 addresses the video's plans to test more examples and check report accuracy. Comparing changes over time and collecting student and staff feedback remain next steps. Longer-term plans are voluntary surveys, information about motives and outcomes, and protected real-world student data. Personal student data would not be published in this repository.
+In Week 5 we tested more examples and checked the reports, as planned in the video. Query 7.3 in [file 07](sql/07_additional_queries.sql) is a first step to compare changes over time, but only for recalls. We still need to collect feedback from students and staff.
 
+### Limitations
+
+- Our database only has prescriptions, so it does not show pills that students get from friends or online. We also have no data about grades or wellbeing.
+- The mock data is small and only covers January to March 2026. Each drug is always prescribed by the same doctor, so we cannot compare drugs and doctors separately.
+- Real prescription data is sensitive and the university normally cannot access it. With two students per programme, results could show who the student is - data privacy would need to improve in the future.
+
+### Future work
+
+- Make a bigger mock dataset that covers a full academic year.
+- Add an active ingredient to StudyDrug to link it with the FDA data, and import all 262 product listings.
+- Save the reports as views, so staff can use them without writing SQL.
+- Later: anonymous surveys about motives and outcomes, and real student data only with consent. We would not publish personal data in this repository.
