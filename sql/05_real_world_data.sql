@@ -1,7 +1,7 @@
--- Week 5: two genuine openFDA snapshots, retrieved 2026-10-07.
--- Run after Week 3 in MySQL 8.0.16+. No student/mock tables are changed.
--- Only the two FDA tables are refreshed on a repeat import.
--- The embedded JSON preserves selected fields from the retrieved API records.
+-- Week 5: two real openFDA snapshots, retrieved 2026-10-07.
+-- Run after the Week 3 files in MySQL 8.0.16+. The prescription tables are not changed.
+-- A repeat import refreshes only the two FDA tables.
+-- The embedded JSON contains selected fields from the retrieved API records.
 -- Missing/empty values become NULL; YYYYMMDD dates become DATE.
 -- Source labels are preserved, including catalogue dosage-form labels.
 CREATE TABLE IF NOT EXISTS FDA_Product (

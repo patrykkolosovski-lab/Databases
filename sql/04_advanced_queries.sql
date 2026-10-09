@@ -1,4 +1,4 @@
--- 1. Prescription history: join all four tables.
+-- 1. Prescription history: joins all four tables.
 SELECT p.prescription_id, s.name AS student, s.program_name,
        d.name AS doctor, sd.drug_name, p.prescription_date,
        p.dose_mg, p.quantity_tablets

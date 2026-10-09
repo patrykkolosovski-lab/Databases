@@ -1,5 +1,5 @@
 -- Fictional teaching data: 8 students, 4 drugs, 4 doctors, 13 prescriptions.
--- Includes unused parents, repeat prescriptions and same-date events.
+-- Includes parent rows without prescriptions, repeat prescriptions and same-date events.
 -- Drug products and doses are illustrative, not clinical recommendations.
 INSERT INTO Student (student_id, program_name, study_year, name, age) VALUES
 (1, 'Computer Science', 2, 'Emma de Vries', 20),

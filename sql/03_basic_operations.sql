@@ -1,5 +1,5 @@
 -- Run in one connection after 01_schema.sql and 02_mock_data.sql.
--- The transaction restores the original rows after the demonstration.
+-- The final ROLLBACK restores the original data.
 START TRANSACTION;
 
 -- CREATE: add a student and a related prescription.
@@ -15,12 +15,12 @@ SET @demo_prescription_id = LAST_INSERT_ID();
 -- READ: show the new record.
 SELECT * FROM Prescription WHERE prescription_id = @demo_prescription_id;
 
--- UPDATE: correct the quantity and display the result.
+-- UPDATE: correct the quantity and show the result.
 UPDATE Prescription SET quantity_tablets = 28
 WHERE prescription_id = @demo_prescription_id;
 SELECT * FROM Prescription WHERE prescription_id = @demo_prescription_id;
 
--- DELETE: delete the child before the parent to respect foreign keys.
+-- DELETE: remove the child row before the parent to respect the foreign key.
 DELETE FROM Prescription WHERE prescription_id = @demo_prescription_id;
 DELETE FROM Student WHERE student_id = @demo_student_id;
 SELECT COUNT(*) AS remaining_demo_students

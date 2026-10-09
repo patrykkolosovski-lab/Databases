@@ -1,6 +1,6 @@
 -- Queries 1 and 2 use the fictional prescription data; 3 and 4 use the FDA data.
 
--- 7.1: Prescriptions by study programme: LEFT JOIN keeps students without any.
+-- 7.1: Prescriptions by study programme: LEFT JOIN keeps students without prescriptions.
 -- Question: Do some programmes have more students with prescriptions than others?
 -- Two fictional students per programme cannot show real programme differences.
 SELECT s.program_name,
@@ -17,7 +17,7 @@ ORDER BY pct_with_prescription DESC, prescriptions DESC, s.program_name;
 
 -- 7.2: Days between repeat prescriptions of the same drug: LAG window function.
 -- Question: How soon do students receive the same drug again, and does the dose change?
--- Shortest gaps first. A short gap does not prove misuse: the schema does not record how many tablets are taken per day, and doses can change.
+-- Shortest gaps first. A short gap does not prove misuse: the schema does not record daily tablet intake, and doses can change.
 WITH prescription_gaps AS (
     SELECT p.*,
            LAG(p.prescription_date) OVER w AS previous_date,
