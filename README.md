@@ -79,6 +79,17 @@ After importing the FDA data, rerun files 03 and 04 to check the original operat
 
 **Validation:** tested on MySQL 8.4.0. All 166 imported records matched the selected source fields, repeat imports kept the same counts, and duplicate product keys and invalid recall classifications were rejected. The original queries continued to return the expected mock results.
 
+## Query work distribution
+As some of the work was done in collaboration on a single machine by video calls, the commits do not explain who came up with which query. This is a general outline of the work distribution in this aspect (from the most complex queries files 06 and 07):
+
+| User  | Queries |
+| --- | --- |
+| patrykkolosovski-lab | 6.2, 7.4 |
+| szstefanczak | 6.1, 7.3 |
+| Mjedlin | 6.3, 6.4 |
+| Skindel | 7.1, 7.2 |
+
 ## Progress and future work
 
 Week 5 addresses the video's plans to test more examples and check report accuracy. Comparing changes over time and collecting student and staff feedback remain next steps. Longer-term plans are voluntary surveys, information about motives and outcomes, and protected real-world student data. Personal student data would not be published in this repository.
+

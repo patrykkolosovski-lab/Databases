@@ -1,0 +1,2 @@
+# The FDA import reads these with LOAD DATA, which expects LF line endings.
+data/*.csv text eol=lf
